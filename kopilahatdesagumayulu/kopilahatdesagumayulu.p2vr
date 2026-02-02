@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig rev="21010" version="7.1.11">
+  <panorama>
+    <id>node1</id>
+    <input>
+      <patch/>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+    </viewingparameter>
+    <userdata>
+      <customprops/>
+    </userdata>
+    <projectsettings>
+      <userdata>
+        <customprops/>
+      </userdata>
+      <mapgrid>
+        <anchor/>
+      </mapgrid>
+      <floorplangrid>
+        <anchor/>
+      </floorplangrid>
+      <translationsavailable>
+        <value id="Project">en-US</value>
+      </translationsavailable>
+      <translationsnames>
+        <value id="Project">American English</value>
+      </translationsnames>
+      <translationsenabled>
+        <value id="Project">true</value>
+      </translationsenabled>
+    </projectsettings>
+    <floorplans/>
+    <hotspots/>
+    <output/>
+    <streetview/>
+    <streetviewproject/>
+    <ggloudproject/>
+    <sounds/>
+    <animation>
+      <title>Animation01</title>
+    </animation>
+  </panorama>
+</pano2vrconfig>

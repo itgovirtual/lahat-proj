@@ -37,7 +37,49 @@
     </projectsettings>
     <floorplans/>
     <hotspots/>
-    <output/>
+    <output>
+      <htmlcss>
+        <html>
+          <enabled>1</enabled>
+          <filename>output/index.html</filename>
+          <values>
+            <value id="cachebust">true</value>
+            <value id="css"></value>
+            <value id="fitcover">false</value>
+            <value id="htmltitle">$(upt)</value>
+            <value id="jsxml">false</value>
+            <value id="parseanchor">true</value>
+          </values>
+        </html>
+        <facequality/>
+        <transition>
+          <zoomfov>40</zoomfov>
+          <zoomafterinfov>140</zoomafterinfov>
+          <zoomafteroutfov>40</zoomafteroutfov>
+          <zoomspeed>1.01</zoomspeed>
+          <enabled>1</enabled>
+        </transition>
+        <autorotate/>
+        <soundstransition/>
+        <flyintransition/>
+        <hotspottext/>
+        <hotspotstyle/>
+        <webvr/>
+        <tilesize>0</tilesize>
+        <filename>output/pano.xml</filename>
+        <skinfile>$d/semarang-skin.ggsk</skinfile>
+        <hideaboutbox>1</hideaboutbox>
+        <dblclickfullscreen>1</dblclickfullscreen>
+        <invertwheel>1</invertwheel>
+        <windowwidth>1920</windowwidth>
+        <windowheight>1080</windowheight>
+        <quality>50</quality>
+        <leveltileformat>1</leveltileformat>
+        <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
+        <cubefilename>images/$n_o.webp</cubefilename>
+        <leveltilesize>1024</leveltilesize>
+      </htmlcss>
+    </output>
     <streetview/>
     <streetviewproject/>
     <ggloudproject/>

@@ -1,0 +1,7 @@
+﻿/*
+!.gitignore
+!/greencanyon/
+/greencanyon/panorama/
+/greencanyon/audio/
+/greencanyon/video/
+/greencanyon/video 360

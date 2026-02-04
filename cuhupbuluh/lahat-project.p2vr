@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig version="7.1.11" rev="21010">
+  <panorama>
+    <id>node1</id>
+    <input>
+      <patch/>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+    </viewingparameter>
+    <userdata>
+      <customprops/>
+    </userdata>
+    <projectsettings>
+      <userdata>
+        <customprops/>
+      </userdata>
+      <mapgrid>
+        <anchor/>
+      </mapgrid>
+      <floorplangrid>
+        <anchor/>
+      </floorplangrid>
+      <usenodealtitude>0</usenodealtitude>
+      <language>id-ID</language>
+      <translatehotspotmedia>1</translatehotspotmedia>
+      <translatepinnedmedia>1</translatepinnedmedia>
+      <translationspath>translations</translationspath>
+      <fovmode>diagonal</fovmode>
+      <translationsavailable>
+        <value id="Project">id-ID</value>
+      </translationsavailable>
+      <translationsnames>
+        <value id="Project">Indonesia</value>
+      </translationsnames>
+      <translationsenabled>
+        <value id="Project">true</value>
+      </translationsenabled>
+    </projectsettings>
+    <floorplans/>
+    <hotspots/>
+    <output>
+      <htmlcss>
+        <html>
+          <enabled>1</enabled>
+          <filename>output/index.html</filename>
+          <values>
+            <value id="cachebust">true</value>
+            <value id="css"></value>
+            <value id="fitcover">false</value>
+            <value id="htmltitle">$(upt)</value>
+            <value id="jsxml">false</value>
+            <value id="parseanchor">true</value>
+          </values>
+        </html>
+        <facequality/>
+        <transition>
+          <zoomfov>40</zoomfov>
+          <zoomafterinfov>140</zoomafterinfov>
+          <zoomafteroutfov>40</zoomafteroutfov>
+        </transition>
+        <autorotate/>
+        <soundstransition/>
+        <flyintransition/>
+        <hotspottext/>
+        <hotspotstyle/>
+        <webvr/>
+        <tilesize>0</tilesize>
+        <filename>output/pano.xml</filename>
+        <hideaboutbox>1</hideaboutbox>
+        <invertwheel>1</invertwheel>
+        <leveltileformat>1</leveltileformat>
+        <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
+        <cubefilename>images/$n_o.webp</cubefilename>
+        <quality>50</quality>
+        <leveltilesize>1024</leveltilesize>
+      </htmlcss>
+    </output>
+    <streetview/>
+    <streetviewproject/>
+    <ggloudproject/>
+    <sounds/>
+    <animation>
+      <title>Animation01</title>
+    </animation>
+  </panorama>
+</pano2vrconfig>

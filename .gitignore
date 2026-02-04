@@ -1,0 +1,7 @@
+﻿/*
+!.gitignore
+!/megalitik/
+/megalitik/panorama/
+/megalitik/audio/
+/megalitik/video/
+/megalitik/video 360

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node80</start>
     <panorama>
@@ -25,12 +25,12 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>3.08623</start>
+          <start>-8.5338</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-17.9946</start>
+          <start>-20.1893</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
@@ -50,7 +50,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-02-04T10:40:24</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-02-05T16:20:00</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -1832,7 +1832,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output-location/sdn19/index.html</filename>
+          <filename>C:/xampp/htdocs/pano/lahat/output-location/sdn19/output-location/index.html</filename>
           <values>
             <value id="cachebust">true</value>
             <value id="css"/>
@@ -1859,7 +1859,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>0</tilesize>
-        <filename>output-location/sdn19/pano.xml</filename>
+        <filename>C:/xampp/htdocs/pano/lahat/output-location/sdn19/output-location/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>

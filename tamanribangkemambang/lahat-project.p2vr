@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -31,14 +31,14 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>0</pan>
-          <tilt>-90</tilt>
-          <fov>170</fov>
+          <pan>20.77</pan>
+          <tilt>-35.56</tilt>
+          <fov>108.17</fov>
         </flyinstart>
         <pannorth>49</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
+        <flyinprojection>rectilinear</flyinprojection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-04T09:37:43</capturedatetime>
@@ -46,9 +46,12 @@
         <longitude>103.55414980</longitude>
         <altitude>-10000</altitude>
         <tags>RimbangKemambang</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -75,8 +78,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-342.33</pan>
-            <tilt>-60.89</tilt>
+            <pan>-338.71</pan>
+            <tilt>-57.88</tilt>
             <fov>14</fov>
           </position>
           <next>
@@ -169,7 +172,9 @@
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -920,7 +925,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

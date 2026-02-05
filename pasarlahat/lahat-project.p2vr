@@ -88,7 +88,7 @@
           <customprops/>
           <polygon/>
           <id>Point01</id>
-          <title>Pasar Buah Lahat</title>
+          <title>Pasar Lahat</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>

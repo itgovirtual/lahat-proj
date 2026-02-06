@@ -47,9 +47,12 @@
         <altitude>-10000</altitude>
         <datetime>2026:02:02 11:49:02</datetime>
         <tags>PetilasanRadenFatah</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -76,8 +79,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-356.21</pan>
-            <tilt>-13.55</tilt>
+            <pan>-356.6</pan>
+            <tilt>-12.88</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -104,13 +107,44 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-50.26</pan>
+            <tilt>9.13</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Drone Petilasan Raden Patah</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/drone.png</customimage>
+          <urlsafecustomimage>drone.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -142,14 +176,74 @@
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T00:24:26</capturedatetime>
-        <latitude>-3.845297</latitude>
-        <longitude>103.529996</longitude>
+        <latitude>-3.84681706</latitude>
+        <longitude>103.52639111</longitude>
         <altitude>-10000</altitude>
         <datetime>2026:02:02 11:49:03</datetime>
         <tags>PetilasanRadenFatah</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-33.48</pan>
+            <tilt>-46.6</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>-6.9</pan>
+            <tilt>-1.2</tilt>
+            <fov>100</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point01</id>
+          <title>Makam Keluarga Raden Patah</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node5}</url>
+          <target>-6.9/-1.2/100.0</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-128.49</pan>
+            <tilt>9.47</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Drone Petilasan Raden Patah</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node1}</url>
+          <skinid>drone_icon_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/drone.png</customimage>
+          <urlsafecustomimage>drone.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
@@ -194,7 +288,38 @@
         <tags>PetilasanRadenFatah</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-87.09</pan>
+            <tilt>-11.9</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>111.4</pan>
+            <tilt>-15.2</tilt>
+            <fov>117</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point01</id>
+          <title>Keluar</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node7}</url>
+          <target>111.4/-15.2/117.0</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
@@ -223,11 +348,32 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
-        <pannorth>0</pannorth>
+        <pan>
+          <start>0</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>0</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>100</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
+        <pannorth>-225</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -242,22 +388,53 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-359.8</pan>
-            <tilt>-3.99</tilt>
+            <pan>-0.15</pan>
+            <tilt>-2.83</tilt>
             <fov>10</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>111.9</pan>
+            <tilt>-9.5</tilt>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
           <id>Point01</id>
-          <title>Petilasan Raden Fatah</title>
+          <title>Petilasan Raden Patah</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
+          <url>{node7}</url>
+          <target>111.9/-9.5/108.2</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-179.94</pan>
+            <tilt>0.04</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>-6.6</pan>
+            <tilt>-1.1</tilt>
+            <fov>100</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Makam Keluarga Raden Patah</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node5}</url>
+          <target>-6.6/-1.1/100.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -307,14 +484,74 @@
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T00:24:26</capturedatetime>
-        <latitude>-3.845479</latitude>
-        <longitude>103.530564</longitude>
+        <latitude>-3.84609987</latitude>
+        <longitude>103.52723806</longitude>
         <altitude>-10000</altitude>
         <datetime>2026:02:02 11:48:16</datetime>
         <tags>PetilasanRadenFatah</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-9.71</pan>
+            <tilt>-10.22</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>1.3</pan>
+            <tilt>-6.6</tilt>
+            <fov>126.6</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point01</id>
+          <title>Makam Keluarga Raden Patah</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node6}</url>
+          <target>1.3/-6.6/126.6</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-67.35</pan>
+            <tilt>-11.34</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>-5.4</tilt>
+            <fov>100</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Jembatan</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node4}</url>
+          <target>0.0/-5.4/100.0</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
@@ -352,14 +589,45 @@
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T00:24:26</capturedatetime>
-        <latitude>-3.844869</latitude>
-        <longitude>103.530221</longitude>
+        <latitude>-3.84548987</latitude>
+        <longitude>103.52689506</longitude>
         <altitude>-10000</altitude>
         <datetime>2026:02:02 14:15:36</datetime>
         <tags>PetilasanRadenFatah</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-189.82</pan>
+            <tilt>-8.13</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>-132.7</pan>
+            <tilt>-1.1</tilt>
+            <fov>118.3</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point01</id>
+          <title>Keluar</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node5}</url>
+          <target>-132.7/-1.1/118.3</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
@@ -388,11 +656,32 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
-        <pannorth>0</pannorth>
+        <pan>
+          <start>0</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>0</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>100</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
+        <pannorth>133</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -404,7 +693,68 @@
         <tags>PetilasanRadenFatah</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-283.76</pan>
+            <tilt>-22.27</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>2.3</pan>
+            <tilt>-24.2</tilt>
+            <fov>117</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point01</id>
+          <title>Petilasan Raden Patah</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node3}</url>
+          <target>2.3/-24.2/117.0</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-192.36</pan>
+            <tilt>-15.99</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>179.9</pan>
+            <tilt>-2.7</tilt>
+            <fov>108.2</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Jembatan</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node4}</url>
+          <target>179.9/-2.7/108.2</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
@@ -499,7 +849,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

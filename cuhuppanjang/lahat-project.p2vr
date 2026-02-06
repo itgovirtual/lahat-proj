@@ -48,9 +48,12 @@
         <altitude>-10000</altitude>
         <datetime>2026:01:28 13:56:11</datetime>
         <tags>CurugPanjang</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -77,8 +80,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-11.27</pan>
-            <tilt>-54.42</tilt>
+            <pan>-335.96</pan>
+            <tilt>-67.71</tilt>
             <fov>14</fov>
           </position>
           <next>
@@ -100,7 +103,6 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
-          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -111,7 +113,9 @@
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -231,6 +235,33 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-316.35</pan>
+            <tilt>0.08</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>360 Video Experience</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>360_video_experience_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotvideo/cuhup-panjang.png</customimage>
+          <use3d>1</use3d>
+          <width>288</width>
+          <height>288</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -777,7 +808,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

@@ -7,7 +7,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Curug Panjang/drone-curugpanjang-sungai.jpg</filename>
+        <filename>panorama/Curug Panjang/drone-curugpanjang-sungai.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -103,6 +103,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -132,7 +133,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Curug Panjang/curugpanjang-1-discover-oi.jpg</filename>
+        <filename>panorama/Curug Panjang/curugpanjang-1-discover-oi.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -259,6 +260,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotvideo/cuhup-panjang.png</customimage>
+          <urlsafecustomimage>cuhup-panjang.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>288</width>
           <height>288</height>
@@ -286,7 +288,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Curug Panjang/curugpanjang-2.jpg</filename>
+        <filename>panorama/Curug Panjang/curugpanjang-2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -383,7 +385,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Curug Panjang/curugpanjang-3.jpg</filename>
+        <filename>panorama/Curug Panjang/curugpanjang-3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -510,7 +512,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Curug Panjang/curugpanjang-7.jpg</filename>
+        <filename>panorama/Curug Panjang/curugpanjang-7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -637,7 +639,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Curug Panjang/curugpanjang-gerbang-1.jpg</filename>
+        <filename>panorama/Curug Panjang/curugpanjang-gerbang-1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>

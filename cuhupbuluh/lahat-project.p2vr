@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -26,9 +26,12 @@
         <altitude>-10000</altitude>
         <datetime>2026:01:29 10:56:01</datetime>
         <tags>CurugBuluh</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -119,7 +122,9 @@
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -161,8 +166,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-45.98</pan>
-            <tilt>0.54</tilt>
+            <pan>-61.86</pan>
+            <tilt>-0.61</tilt>
             <fov>14</fov>
           </position>
           <next>
@@ -188,6 +193,34 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-30.54</pan>
+            <tilt>-2.85</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>360 Video Experience</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>360_video_experience_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotvideo/cuhup-buluh.png</customimage>
+          <urlsafecustomimage>cuhup-buluh.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>288</width>
+          <height>288</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -237,8 +270,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-342.41</pan>
-            <tilt>3.21</tilt>
+            <pan>-336.92</pan>
+            <tilt>4.1</tilt>
             <fov>14</fov>
           </position>
           <next>
@@ -294,6 +327,34 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-0.36</pan>
+            <tilt>1.46</tilt>
+            <fov>13</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>360 Video Experience</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>360_video_experience_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotvideo/cuhup-buluh.png</customimage>
+          <urlsafecustomimage>cuhup-buluh.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>288</width>
+          <height>288</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -498,6 +559,33 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-182.66</pan>
+            <tilt>-29.52</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>360 Video Experience</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>360_video_experience_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotvideo/cuhup-buluh.png</customimage>
+          <use3d>1</use3d>
+          <width>288</width>
+          <height>288</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -596,7 +684,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

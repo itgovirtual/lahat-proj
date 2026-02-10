@@ -92,6 +92,90 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-87.94</pan>
+            <tilt>12.64</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Masjid Agung Lahat (Est. 10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/masjid-agung-lahat.png</customimage>
+          <urlsafecustomimage>masjid-agung-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-39.56</pan>
+            <tilt>11.04</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>SMPN 05 Lahat (Est. 10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/smpn-05-lahat.png</customimage>
+          <urlsafecustomimage>smpn-05-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-134.81</pan>
+            <tilt>12.89</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>RSUD Lahatt (Est. 12 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/rsud-lahat.png</customimage>
+          <urlsafecustomimage>rsud-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -239,8 +323,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-357.68</pan>
-            <tilt>-8.3</tilt>
+            <pan>-344.05</pan>
+            <tilt>-3.44</tilt>
             <fov>12.8068</fov>
           </position>
           <next>
@@ -386,6 +470,36 @@
           <use3d>1</use3d>
           <width>101</width>
           <height>101</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-11.82</pan>
+            <tilt>-5.37</tilt>
+            <fov>13.37</fov>
+          </position>
+          <next>
+            <pan>-1.6</pan>
+            <tilt>0</tilt>
+            <fov>126.6</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point06</id>
+          <title>360 Video Experience</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node92}</url>
+          <target>-1.6/0.0/126.6</target>
+          <skinid>360_video_experience_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotvideo/sd-negeri-19-percontohan-lahat.png</customimage>
+          <urlsafecustomimage>sd-negeri-19-percontohan-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>288</width>
+          <height>288</height>
         </hotspot>
       </hotspots>
       <output/>

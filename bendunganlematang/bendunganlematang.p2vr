@@ -47,9 +47,12 @@
         <altitude>-10000</altitude>
         <datetime>9/4/2025 10:47 AM</datetime>
         <tags>bendunganlematang</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -125,7 +128,9 @@
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -754,6 +759,90 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-234.56</pan>
+            <tilt>11.31</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>SMAN 4 Lahat (Est. 15 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
+          <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-328.6</pan>
+            <tilt>12.68</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Petilasa Raden Patah (Est. 10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/petilasan-raden-fatah.png</customimage>
+          <urlsafecustomimage>petilasan-raden-fatah.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-153.43</pan>
+            <tilt>11.15</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Gereja Katolik Paroki Santa Maria Lahat (Est. 10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/gereja-katolik-paroki-santa-maria.png</customimage>
+          <urlsafecustomimage>gereja-katolik-paroki-santa-maria.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -813,7 +902,7 @@
           <filename>C:/xampp/htdocs/pano/lahat/Bendungan Lematang/output-location/bendunganlematang/index.html</filename>
           <values>
             <value id="cachebust">true</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -845,7 +934,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

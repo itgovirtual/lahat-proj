@@ -92,6 +92,87 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-245.3</pan>
+            <tilt>10.93</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Bendungan Lematang (Est. 15 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/bendungan-lematang.png</customimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-332.4</pan>
+            <tilt>10.71</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>SMPN 1 Lahat (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/sma-01-lahat-selatan.png</customimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-1.56</pan>
+            <tilt>9.84</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Gereja Paroki Santa Maria Lahat (Est. 10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/gereja-katolik-paroki-santa-maria.png</customimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -595,9 +676,9 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-5.03</pan>
-            <tilt>-2.76</tilt>
-            <fov>13.92</fov>
+            <pan>-296.5</pan>
+            <tilt>1.25</tilt>
+            <fov>20.92</fov>
           </position>
           <next>
             <pan>-3.3</pan>
@@ -607,21 +688,20 @@
           <customprops/>
           <polygon/>
           <id>Point01</id>
-          <title>Ruang Kelas</title>
-          <linktype>node</linktype>
+          <title>360 Video Experience</title>
+          <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node93}</url>
           <target>-3.3/6.8/120.2</target>
-          <skinid>hotspot_darat_project</skinid>
+          <skinid>360_video_experience_project</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/OPSI METERPORT-126.png</customimage>
-          <urlsafecustomimage>OPSI METERPORT-126.png</urlsafecustomimage>
+          <customimage>assets/hotspotvideo/sma-unggul-negeri-04-lahat.png</customimage>
+          <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>101</width>
-          <height>101</height>
+          <width>288</width>
+          <height>288</height>
         </hotspot>
         <hotspot>
           <position>
@@ -702,6 +782,36 @@
           <linksubtype>unknown</linksubtype>
           <url>{node86}</url>
           <target>0.3/-2.3/130.0</target>
+          <skinid>hotspot_darat_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/OPSI METERPORT-126.png</customimage>
+          <urlsafecustomimage>OPSI METERPORT-126.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>101</width>
+          <height>101</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-8.95</pan>
+            <tilt>-3.19</tilt>
+            <fov>13.92</fov>
+          </position>
+          <next>
+            <pan>-3.3</pan>
+            <tilt>6.8</tilt>
+            <fov>120.2</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Ruang Kelas</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node93}</url>
+          <target>-3.3/6.8/120.2</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>

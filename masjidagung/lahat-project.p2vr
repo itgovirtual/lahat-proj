@@ -106,6 +106,90 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-137.84</pan>
+            <tilt>11.18</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Pasar Lahat (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/pasar-lahat.png</customimage>
+          <urlsafecustomimage>pasar-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-172.79</pan>
+            <tilt>10.75</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>SMPN 5 Lahat (Est. 15 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/smpn-05-lahat.png</customimage>
+          <urlsafecustomimage>smpn-05-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-109.59</pan>
+            <tilt>10.48</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>SD Negeri  19 Percontohan (Est. 10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/sd-negeri-19-percontohan-lahat.png</customimage>
+          <urlsafecustomimage>sd-negeri-19-percontohan-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>

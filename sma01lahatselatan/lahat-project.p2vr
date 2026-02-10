@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
@@ -47,9 +47,12 @@
         <longitude>103.533721</longitude>
         <altitude>-10000</altitude>
         <tags>panorama</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -104,13 +107,99 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-207.35</pan>
+            <tilt>10.96</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>SMAN 4 Lahat (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
+          <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-317.06</pan>
+            <tilt>6.73</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Bendungan Lematang (Est. 15 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/bendungan-lematang.png</customimage>
+          <urlsafecustomimage>bendungan-lematang.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-120.34</pan>
+            <tilt>11.74</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Petilasan Raden Patah (Est. 20 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/petilasan-raden-fatah.png</customimage>
+          <urlsafecustomimage>petilasan-raden-fatah.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -255,6 +344,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-05.png</customimage>
+          <urlsafecustomimage>HOSOT-05.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>101</width>
           <height>101</height>
@@ -572,10 +662,39 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-05.png</customimage>
-          <urlsafecustomimage>HOSOT-05.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>101</width>
           <height>101</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-167.85</pan>
+            <tilt>-1.1</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>-164.8</pan>
+            <tilt>-3.7</tilt>
+            <fov>126.6</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point09</id>
+          <title>360 Video Experience</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node3}</url>
+          <target>-164.8/-3.7/126.6</target>
+          <skinid>360_video_experience_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotvideo/sma-01-lahat-selatan.png</customimage>
+          <urlsafecustomimage>sma-01-lahat-selatan.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>288</width>
+          <height>288</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -1603,7 +1722,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

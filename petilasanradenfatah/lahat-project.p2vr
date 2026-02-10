@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
@@ -135,6 +135,90 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-126.84</pan>
+            <tilt>12.81</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Bendungan Lematang (Est.10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/bendungan-lematang.png</customimage>
+          <urlsafecustomimage>bendungan-lematang.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-2.82001</pan>
+            <tilt>13.67</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Green Canyon (Est.30 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/grand-canyon.png</customimage>
+          <urlsafecustomimage>grand-canyon.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-289.46</pan>
+            <tilt>14.3</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>SMAN 4 Lahat (Est. 17 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
+          <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -547,6 +631,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>

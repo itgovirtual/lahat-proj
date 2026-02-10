@@ -3643,6 +3643,90 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-106.42</pan>
+            <tilt>-15.22</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Gereja Katolik Paroki Santa Maria Lahat (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/gereja-katolik-paroki-santa-maria.png</customimage>
+          <urlsafecustomimage>gereja-katolik-paroki-santa-maria.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-30.72</pan>
+            <tilt>12.22</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Pasar Lahat (Est. 10 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/pasar-lahat.png</customimage>
+          <urlsafecustomimage>pasar-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-81.26</pan>
+            <tilt>12</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Masjid Agung Lahat (Est. 15 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/masjid-agung-lahat.png</customimage>
+          <urlsafecustomimage>masjid-agung-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>

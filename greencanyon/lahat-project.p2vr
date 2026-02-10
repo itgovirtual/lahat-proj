@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
@@ -194,6 +194,90 @@
           <use3d>1</use3d>
           <width>288</width>
           <height>288</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-8.25998</pan>
+            <tilt>16.82</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Kebun Kopi Lahat (Est. 30 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/kopi-lahat-desa-umay-ulu.png</customimage>
+          <urlsafecustomimage>kopi-lahat-desa-umay-ulu.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-161.71</pan>
+            <tilt>13.74</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point06</id>
+          <title>Megalitik (Est. 30 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/megalitikum.png</customimage>
+          <urlsafecustomimage>megalitikum.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-83.32</pan>
+            <tilt>23.7</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point07</id>
+          <title>Cuhup Panjang (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/kopi-lahat-desa-umay-ulu.png</customimage>
+          <urlsafecustomimage>kopi-lahat-desa-umay-ulu.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/xampp/htdocs/pano/lahat/Pasar Lahat/panorama/drone-pasarlahat.jpg</filename>
+        <filename>panorama/Pasar Lahat/drone-pasarlahat.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -47,9 +47,12 @@
         <longitude>103.53696359</longitude>
         <altitude>-10000</altitude>
         <tags>panorama</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -104,13 +107,99 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-51.44</pan>
+            <tilt>13.14</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Gereja Katolik Paroki Santa Maria Lahat (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/gereja-katolik-paroki-santa-maria.png</customimage>
+          <urlsafecustomimage>gereja-katolik-paroki-santa-maria.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-91.18</pan>
+            <tilt>12.49</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Masjid Agung Lahat (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/masjid-agung-lahat.png</customimage>
+          <urlsafecustomimage>masjid-agung-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-132.11</pan>
+            <tilt>13.44</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>RSUD Lahat (Est. 5 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotlocation/rsud-lahat.png</customimage>
+          <urlsafecustomimage>rsud-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1476</width>
+          <height>1476</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -127,7 +216,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/xampp/htdocs/pano/lahat/Pasar Lahat/panorama/pasarlahat-spot1.jpg</filename>
+        <filename>panorama/Pasar Lahat/pasarlahat-spot1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -226,7 +315,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/xampp/htdocs/pano/lahat/Pasar Lahat/panorama/pasarlahat-spot3.jpg</filename>
+        <filename>panorama/Pasar Lahat/pasarlahat-spot3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -303,8 +392,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>89.82</pan>
-            <tilt>-7.88</tilt>
+            <pan>89.8</pan>
+            <tilt>-8.26</tilt>
             <fov>15</fov>
           </position>
           <next>
@@ -331,6 +420,34 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-93.05</pan>
+            <tilt>-8.57</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>360 Video Experience</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>360_video_experience_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/hotspotvideo/pasar-lahat.png</customimage>
+          <urlsafecustomimage>pasar-lahat.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>288</width>
+          <height>288</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -354,7 +471,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/xampp/htdocs/pano/lahat/Pasar Lahat/panorama/pasarlahat-spot5.jpg</filename>
+        <filename>panorama/Pasar Lahat/pasarlahat-spot5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -452,7 +569,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/xampp/htdocs/pano/lahat/Pasar Lahat/panorama/pasarlahat-spot7.jpg</filename>
+        <filename>panorama/Pasar Lahat/pasarlahat-spot7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -610,7 +727,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/xampp/htdocs/pano/lahat/Pasar Lahat/panorama/pasarlahat-spot12.jpg</filename>
+        <filename>panorama/Pasar Lahat/pasarlahat-spot12.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -783,7 +900,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

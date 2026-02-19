@@ -776,6 +776,8 @@
           <title>SMAN 4 Lahat (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/smaunggulnegeri04lahat</url>
+          <target>_self</target>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -789,8 +791,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-328.6</pan>
-            <tilt>12.68</tilt>
+            <pan>-327.36</pan>
+            <tilt>10.26</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -804,6 +806,8 @@
           <title>Petilasa Raden Patah (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/petilasanradenfatah</url>
+          <target>_self</target>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -832,6 +836,8 @@
           <title>Gereja Katolik Paroki Santa Maria Lahat (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/gerejakatolikparokisantamaria</url>
+          <target>_self</target>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -885,12 +891,32 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh.po">zh</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpf.po">true</value>
+        <value id="entmptmpd.po">true</value>
+        <value id="entmptmpi.po">true</value>
+        <value id="zh.po">true</value>
+        <value id="zhtmpe.po">true</value>
+        <value id="zhtmpl.po">true</value>
+        <value id="zhtmptmpa.po">true</value>
+        <value id="zhtmptmpn.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>

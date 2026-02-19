@@ -812,13 +812,13 @@
           <customimage>assets/hotspotlocation/petilasan-raden-fatah.png</customimage>
           <urlsafecustomimage>petilasan-raden-fatah.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
             <pan>-153.43</pan>
-            <tilt>11.15</tilt>
+            <tilt>11.37</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -840,8 +840,8 @@
           <customimage>assets/hotspotlocation/gereja-katolik-paroki-santa-maria.png</customimage>
           <urlsafecustomimage>gereja-katolik-paroki-santa-maria.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -893,13 +893,20 @@
         <value id="Project">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lahat/Bendungan Lematang/output-location/bendunganlematang/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/Infrastruktur/bendunganlematang/index.html</filename>
           <values>
             <value id="cachebust">true</value>
             <value id="css"/>
@@ -924,8 +931,15 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3507</tilesize>
-        <filename>C:/xampp/htdocs/pano/lahat/Bendungan Lematang/output-location/bendunganlematang/pano.xml</filename>
-        <skinfile>$d/semarang-skin.ggsk</skinfile>
+        <filename>D:/Project Result/htdocs/Lahat/Infrastruktur/bendunganlematang/pano.xml</filename>
+        <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <quality>50</quality>
+        <leveltilesize>1024</leveltilesize>
+        <leveltileformat>1</leveltileformat>
+        <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
+        <cubefilename>images/$n_o.webp</cubefilename>
+        <hideaboutbox>1</hideaboutbox>
+        <invertwheel>1</invertwheel>
       </htmlcss>
     </output>
     <streetview/>

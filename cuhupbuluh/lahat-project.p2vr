@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -351,10 +351,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotvideo/cuhup-buluh.png</customimage>
-          <urlsafecustomimage>cuhup-buluh.png</urlsafecustomimage>
+          <urlsafecustomimage>cuhup-buluh-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>288</width>
-          <height>288</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -582,9 +582,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotvideo/cuhup-buluh.png</customimage>
+          <urlsafecustomimage>cuhup-buluh-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>288</width>
-          <height>288</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -636,16 +637,23 @@
         <value id="Project">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output/index.html</filename>
+          <filename>C:/xampp/htdocs/output/curugbuluh/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -667,16 +675,21 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>2922</tilesize>
-        <filename>output/pano.xml</filename>
+        <filename>C:/xampp/htdocs/output/curugbuluh/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <smoothhsmovement>1</smoothhsmovement>
+        <preview>grayscale</preview>
+        <previewresolution>8</previewresolution>
+        <dblclickfullscreen>1</dblclickfullscreen>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>

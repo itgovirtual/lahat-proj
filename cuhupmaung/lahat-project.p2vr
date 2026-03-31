@@ -48,9 +48,12 @@
         <altitude>-10000</altitude>
         <datetime>2026:01:28 16:12:13</datetime>
         <tags>CurugMaung</tags>
+        <customprops/>
       </userdata>
       <projectsettings>
-        <userdata/>
+        <userdata>
+          <customprops/>
+        </userdata>
         <mapgrid>
           <anchor/>
         </mapgrid>
@@ -111,7 +114,9 @@
       <streetviewproject/>
       <ggloudproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <projectsettings>
@@ -337,8 +342,8 @@
           <enabled>1</enabled>
           <filename>output/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -367,9 +372,15 @@
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <preview>grayscale</preview>
+        <previewresolution>8</previewresolution>
+        <smoothhsmovement>1</smoothhsmovement>
+        <dblclickfullscreen>1</dblclickfullscreen>
+        <sensitivity>14</sensitivity>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>
@@ -377,7 +388,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>

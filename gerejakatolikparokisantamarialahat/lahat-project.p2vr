@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
@@ -140,8 +140,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-269.16</pan>
-            <tilt>7.25</tilt>
+            <pan>-272.61</pan>
+            <tilt>4.71</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -168,8 +168,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-37.01</pan>
-            <tilt>11.78</tilt>
+            <pan>-36.53</pan>
+            <tilt>10.38</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -191,13 +191,13 @@
           <customimage>assets/hotspotlocation/pasar-lahat.png</customimage>
           <urlsafecustomimage>pasar-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-136.11</pan>
-            <tilt>10.94</tilt>
+            <pan>-136.59</pan>
+            <tilt>10.82</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -219,8 +219,8 @@
           <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
           <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -1936,10 +1936,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lahat/output-location/gerejakatolikparokisantamarialahat/index.html</filename>
+          <filename>C:/xampp/htdocs/output/gerejakatolik/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1951,6 +1951,7 @@
           <zoomfov>40</zoomfov>
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
+          <transitiontime>0.4</transitiontime>
         </transition>
         <autorotate/>
         <soundstransition/>
@@ -1958,16 +1959,19 @@
         <hotspottext/>
         <hotspotstyle/>
         <webvr/>
-        <tilesize>0</tilesize>
-        <filename>C:/xampp/htdocs/pano/lahat/output-location/gerejakatolikparokisantamarialahat/pano.xml</filename>
+        <tilesize>3501</tilesize>
+        <filename>C:/xampp/htdocs/output/gerejakatolik/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>5124</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <preview>color</preview>
+        <previewresolution>8</previewresolution>
+        <smoothhsmovement>1</smoothhsmovement>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>

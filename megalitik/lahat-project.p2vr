@@ -139,8 +139,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-198.95</pan>
-            <tilt>8.84</tilt>
+            <pan>-194.19</pan>
+            <tilt>7.86</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -167,8 +167,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-98.8</pan>
-            <tilt>11.8</tilt>
+            <pan>-99.67</pan>
+            <tilt>10.83</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -190,13 +190,13 @@
           <customimage>assets/hotspotlocation/cuhup-senyawe.png</customimage>
           <urlsafecustomimage>cuhup-senyawe.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-246.76</pan>
-            <tilt>10.38</tilt>
+            <pan>-258.1</pan>
+            <tilt>8.16</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -218,8 +218,8 @@
           <customimage>assets/hotspotlocation/cuhup-buluh.png</customimage>
           <urlsafecustomimage>cuhup-buluh.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -2262,16 +2262,23 @@
         <value id="Project">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lahat/megalitik/index.html</filename>
+          <filename>C:/xampp/htdocs/output/magalitikum/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -2284,6 +2291,7 @@
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
           <zoomspeed>1</zoomspeed>
+          <transitiontime>0.4</transitiontime>
         </transition>
         <autorotate/>
         <soundstransition/>
@@ -2292,15 +2300,18 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3528</tilesize>
-        <filename>C:/xampp/htdocs/pano/lahat/megalitik/pano.xml</filename>
+        <filename>C:/xampp/htdocs/output/magalitikum/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <dblclickfullscreen>1</dblclickfullscreen>
+        <previewresolution>8</previewresolution>
+        <smoothhsmovement>1</smoothhsmovement>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>

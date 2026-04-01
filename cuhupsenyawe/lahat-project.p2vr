@@ -1513,16 +1513,23 @@
         <value id="Project">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output/index.html</filename>
+          <filename>C:/xampp/htdocs/output/curugsenyawe/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1534,7 +1541,7 @@
           <zoomfov>40</zoomfov>
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
-          <transitiontime>0.5</transitiontime>
+          <transitiontime>0.4</transitiontime>
           <zoomspeed>1</zoomspeed>
         </transition>
         <autorotate/>
@@ -1544,16 +1551,21 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3502</tilesize>
-        <filename>output/pano.xml</filename>
+        <filename>C:/xampp/htdocs/output/curugsenyawe/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <smoothhsmovement>1</smoothhsmovement>
+        <previewresolution>8</previewresolution>
+        <preview>grayscale</preview>
+        <dblclickfullscreen>1</dblclickfullscreen>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>

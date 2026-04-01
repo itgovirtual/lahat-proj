@@ -78,8 +78,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-7.58</pan>
-            <tilt>-30.61</tilt>
+            <pan>-20.14</pan>
+            <tilt>-32.78</tilt>
             <fov>12.2533</fov>
           </position>
           <next>
@@ -108,8 +108,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-137.84</pan>
-            <tilt>11.18</tilt>
+            <pan>-142.99</pan>
+            <tilt>10.15</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -136,8 +136,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-172.79</pan>
-            <tilt>10.75</tilt>
+            <pan>-180.28</pan>
+            <tilt>10.93</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -159,13 +159,13 @@
           <customimage>assets/hotspotlocation/smpn-05-lahat.png</customimage>
           <urlsafecustomimage>smpn-05-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-109.59</pan>
-            <tilt>10.48</tilt>
+            <pan>-103.89</pan>
+            <tilt>10.09</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -187,8 +187,8 @@
           <customimage>assets/hotspotlocation/sd-negeri-19-percontohan-lahat.png</customimage>
           <urlsafecustomimage>sd-negeri-19-percontohan-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -822,9 +822,9 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lahat/masjidagunglahat/index.html</filename>
+          <filename>C:/xampp/htdocs/output/masjidagung/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
+            <value id="cachebust">false</value>
             <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
@@ -837,6 +837,7 @@
           <zoomfov>40</zoomfov>
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
+          <transitiontime>0.4</transitiontime>
         </transition>
         <autorotate/>
         <soundstransition/>
@@ -844,16 +845,19 @@
         <hotspottext/>
         <hotspotstyle/>
         <webvr/>
-        <tilesize>0</tilesize>
-        <filename>C:/xampp/htdocs/pano/lahat/masjidagunglahat/pano.xml</filename>
+        <tilesize>3600</tilesize>
+        <filename>C:/xampp/htdocs/output/masjidagung/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <previewresolution>8</previewresolution>
+        <smoothhsmovement>1</smoothhsmovement>
+        <dblclickfullscreen>1</dblclickfullscreen>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>

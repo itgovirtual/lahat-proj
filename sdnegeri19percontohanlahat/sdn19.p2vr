@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node80</start>
     <panorama>
@@ -1940,16 +1940,23 @@
         <value id="Project">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lahat/output-location/sdn19/output-location/index.html</filename>
+          <filename>C:/xampp/htdocs/output/sdn19/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1972,9 +1979,15 @@
         <hotspottext/>
         <hotspotstyle/>
         <webvr/>
-        <tilesize>0</tilesize>
-        <filename>C:/xampp/htdocs/pano/lahat/output-location/sdn19/output-location/pano.xml</filename>
+        <tilesize>3600</tilesize>
+        <filename>C:/xampp/htdocs/output/sdn19/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <leveltileformat>1</leveltileformat>
+        <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
+        <cubefilename>images/$n_o.webp</cubefilename>
+        <quality>50</quality>
+        <previewresolution>8</previewresolution>
+        <smoothhsmovement>1</smoothhsmovement>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>

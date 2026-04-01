@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -79,8 +79,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-356.6</pan>
-            <tilt>-12.88</tilt>
+            <pan>-355.79</pan>
+            <tilt>-13.66</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -138,8 +138,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-126.84</pan>
-            <tilt>12.81</tilt>
+            <pan>-126.85</pan>
+            <tilt>11.77</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -166,8 +166,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-2.82001</pan>
-            <tilt>13.67</tilt>
+            <pan>-2.95</pan>
+            <tilt>12.66</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -189,13 +189,13 @@
           <customimage>assets/hotspotlocation/grand-canyon.png</customimage>
           <urlsafecustomimage>grand-canyon.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-289.46</pan>
-            <tilt>14.3</tilt>
+            <pan>-287.57</pan>
+            <tilt>11.96</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -217,8 +217,8 @@
           <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
           <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -894,10 +894,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output/index.html</filename>
+          <filename>C:/xampp/htdocs/output/petilasanradenfatah/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -916,8 +916,8 @@
         <hotspottext/>
         <hotspotstyle/>
         <webvr/>
-        <tilesize>0</tilesize>
-        <filename>output/pano.xml</filename>
+        <tilesize>3600</tilesize>
+        <filename>C:/xampp/htdocs/output/petilasanradenfatah/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
@@ -927,6 +927,7 @@
         <leveltilesize>1024</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>

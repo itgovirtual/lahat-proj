@@ -662,6 +662,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-05.png</customimage>
+          <urlsafecustomimage>HOSOT-05.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>101</width>
           <height>101</height>
@@ -1681,10 +1682,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lahat/output-location/smpn01lahatselatan/index.html</filename>
+          <filename>C:/xampp/htdocs/output/smpn01/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1696,6 +1697,7 @@
           <zoomfov>40</zoomfov>
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
+          <transitiontime>0.4</transitiontime>
         </transition>
         <autorotate/>
         <soundstransition/>
@@ -1703,16 +1705,19 @@
         <hotspottext/>
         <hotspotstyle/>
         <webvr/>
-        <tilesize>0</tilesize>
-        <filename>C:/xampp/htdocs/pano/lahat/output-location/smpn01lahatselatan/pano.xml</filename>
+        <tilesize>3600</tilesize>
+        <filename>C:/xampp/htdocs/output/smpn01/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>510</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <dblclickfullscreen>1</dblclickfullscreen>
+        <smoothhsmovement>1</smoothhsmovement>
+        <previewresolution>8</previewresolution>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>

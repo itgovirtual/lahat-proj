@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -169,8 +169,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-201.44</pan>
-            <tilt>-42.98</tilt>
+            <pan>-201.48</pan>
+            <tilt>-43.68</tilt>
             <fov>13</fov>
           </position>
           <next>
@@ -192,12 +192,12 @@
           <customimage>assets/hotspotvideo/grand-canyon.png</customimage>
           <urlsafecustomimage>grand-canyon.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>288</width>
-          <height>288</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-8.25998</pan>
+            <pan>-8.26</pan>
             <tilt>16.82</tilt>
             <fov>20</fov>
           </position>
@@ -248,13 +248,13 @@
           <customimage>assets/hotspotlocation/megalitikum.png</customimage>
           <urlsafecustomimage>megalitikum.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-83.32</pan>
-            <tilt>23.7</tilt>
+            <pan>-83.71</pan>
+            <tilt>22.57</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -2263,10 +2263,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output/index.html</filename>
+          <filename>C:/xampp/htdocs/output/greencanyon/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -2288,16 +2288,20 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>output/pano.xml</filename>
+        <filename>C:/xampp/htdocs/output/greencanyon/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <previewresolution>8</previewresolution>
+        <smoothhsmovement>1</smoothhsmovement>
+        <dblclickfullscreen>1</dblclickfullscreen>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>

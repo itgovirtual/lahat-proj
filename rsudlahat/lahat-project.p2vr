@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
@@ -3544,18 +3544,18 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>1.02959</start>
+          <start>-4.99</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-13.7812</start>
+          <start>-26.23</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
           <max>126</max>
-          <start>146.191</start>
+          <start>133.87</start>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
@@ -3569,7 +3569,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-02-04T14:23:14</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-04-01T10:13:35</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -3645,8 +3645,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-106.42</pan>
-            <tilt>-15.22</tilt>
+            <pan>-106.58</pan>
+            <tilt>-17.01</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -3673,8 +3673,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-30.72</pan>
-            <tilt>12.22</tilt>
+            <pan>-30.59</pan>
+            <tilt>11.17</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -3696,13 +3696,13 @@
           <customimage>assets/hotspotlocation/pasar-lahat.png</customimage>
           <urlsafecustomimage>pasar-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-81.26</pan>
-            <tilt>12</tilt>
+            <pan>-90.01</pan>
+            <tilt>10.24</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -3724,8 +3724,8 @@
           <customimage>assets/hotspotlocation/masjid-agung-lahat.png</customimage>
           <urlsafecustomimage>masjid-agung-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -3783,10 +3783,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lahat/RSUD Lahat/output-location/rsudlahat/index.html</filename>
+          <filename>C:/xampp/htdocs/output/rsudlahat/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -3798,7 +3798,7 @@
           <zoomfov>40</zoomfov>
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
-          <transitiontime>0.5</transitiontime>
+          <transitiontime>0.4</transitiontime>
           <zoomspeed>1</zoomspeed>
         </transition>
         <autorotate/>
@@ -3808,9 +3808,21 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3504</tilesize>
-        <filename>C:/xampp/htdocs/pano/lahat/RSUD Lahat/output-location/rsudlahat/pano.xml</filename>
+        <filename>C:/xampp/htdocs/output/rsudlahat/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <quality>50</quality>
+        <leveltileformat>1</leveltileformat>
+        <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
+        <cubefilename>images/$n_o.webp</cubefilename>
+        <previewresolution>8</previewresolution>
+        <preview>grayscale</preview>
+        <smoothhsmovement>1</smoothhsmovement>
+        <hideaboutbox>1</hideaboutbox>
+        <rubberband>0</rubberband>
+        <dblclickfullscreen>1</dblclickfullscreen>
+        <invertwheel>1</invertwheel>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>

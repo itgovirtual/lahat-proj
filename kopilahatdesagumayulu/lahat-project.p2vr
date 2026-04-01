@@ -347,8 +347,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-203.45</pan>
-            <tilt>12.5</tilt>
+            <pan>-206.6</pan>
+            <tilt>11.7</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -375,8 +375,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-120.03</pan>
-            <tilt>12.96</tilt>
+            <pan>-119.97</pan>
+            <tilt>11.65</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -398,13 +398,13 @@
           <customimage>assets/hotspotlocation/cuhup-senyawe.png</customimage>
           <urlsafecustomimage>cuhup-senyawe.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-161.02</pan>
-            <tilt>14.74</tilt>
+            <pan>-165.46</pan>
+            <tilt>14.22</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -426,8 +426,8 @@
           <customimage>assets/hotspotlocation/cuhup-buluh.png</customimage>
           <urlsafecustomimage>cuhup-buluh.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -1103,10 +1103,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output/index.html</filename>
+          <filename>C:/xampp/htdocs/output/kopilahatdesagumayulu/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1120,7 +1120,7 @@
           <zoomafteroutfov>40</zoomafteroutfov>
           <zoomspeed>1.01</zoomspeed>
           <enabled>1</enabled>
-          <transitiontime>0.5</transitiontime>
+          <transitiontime>0.4</transitiontime>
         </transition>
         <autorotate/>
         <soundstransition/>
@@ -1129,7 +1129,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>output/pano.xml</filename>
+        <filename>C:/xampp/htdocs/output/kopilahatdesagumayulu/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
         <hideaboutbox>1</hideaboutbox>
         <dblclickfullscreen>1</dblclickfullscreen>
@@ -1140,8 +1140,13 @@
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
+        <leveltileenabled>1</leveltileenabled>
+        <previewresolution>8</previewresolution>
+        <rubberband>0</rubberband>
+        <smoothhsmovement>1</smoothhsmovement>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>

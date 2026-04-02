@@ -25,17 +25,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-12.09</start>
+          <start>-5.59</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-16.53</start>
+          <start>-11.65</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>108.17</start>
+          <start>133.87</start>
           <minunit>pixels</minunit>
           <max>126</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -50,7 +50,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-02-04T13:23:01</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-04-02T09:41:44</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -66,8 +66,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>1.4</pan>
-            <tilt>-17.54</tilt>
+            <pan>3.18</pan>
+            <tilt>-18.3</tilt>
             <fov>16.18</fov>
           </position>
           <next>
@@ -96,8 +96,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-309.59</pan>
-            <tilt>10.43</tilt>
+            <pan>-319.81</pan>
+            <tilt>9.4</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -124,8 +124,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-275.82</pan>
-            <tilt>10.34</tilt>
+            <pan>-265.34</pan>
+            <tilt>9.7</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -152,8 +152,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-113.35</pan>
-            <tilt>11.42</tilt>
+            <pan>-113.49</pan>
+            <tilt>10.08</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -175,8 +175,8 @@
           <customimage>assets/hotspotlocation/masjid-agung-lahat.png</customimage>
           <urlsafecustomimage>masjid-agung-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -1024,10 +1024,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output-location/smpn05/index.html</filename>
+          <filename>C:/xampp/htdocs/output/smpn05/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1041,7 +1041,7 @@
           <zoomafteroutfov>40</zoomafteroutfov>
           <transitiontype>crossdissolve</transitiontype>
           <zoominenabled>0</zoominenabled>
-          <transitiontime>0.5</transitiontime>
+          <transitiontime>0.4</transitiontime>
           <zoomspeed>1</zoomspeed>
         </transition>
         <autorotate/>
@@ -1050,9 +1050,17 @@
         <hotspottext/>
         <hotspotstyle/>
         <webvr/>
-        <tilesize>0</tilesize>
-        <filename>output-location/smpn05/pano.xml</filename>
+        <tilesize>3600</tilesize>
+        <filename>C:/xampp/htdocs/output/smpn05/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
+        <previewresolution>8</previewresolution>
+        <quality>50</quality>
+        <leveltileformat>1</leveltileformat>
+        <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
+        <cubefilename>images/$n_o.webp</cubefilename>
+        <hideaboutbox>1</hideaboutbox>
+        <dblclickfullscreen>1</dblclickfullscreen>
+        <invertwheel>1</invertwheel>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>

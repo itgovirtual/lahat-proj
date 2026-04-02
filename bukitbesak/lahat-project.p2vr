@@ -1957,7 +1957,7 @@
           <title>360 Video Experience</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_darat_project</skinid>
+          <skinid>360_video_experience_project</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1965,8 +1965,8 @@
           <customimage>assets/hotspotvideo/bukit-besak.png</customimage>
           <urlsafecustomimage>bukit-besak.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>288</width>
-          <height>288</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
@@ -1999,8 +1999,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-196.76</pan>
-            <tilt>-9.68</tilt>
+            <pan>-197</pan>
+            <tilt>-10.96</tilt>
             <fov>13</fov>
           </position>
           <next>
@@ -2059,8 +2059,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-194.34</pan>
-            <tilt>14.89</tilt>
+            <pan>-184.65</pan>
+            <tilt>13.09</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -2074,6 +2074,8 @@
           <title>Cuhup Senyawe (Est. 90 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/cuhupsenyawe</url>
+          <target>_self</target>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2087,8 +2089,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-289.98</pan>
-            <tilt>9.63</tilt>
+            <pan>-289.52</pan>
+            <tilt>7.7</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -2102,6 +2104,8 @@
           <title>Masjid Agung Lahat (Est. 60 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/masjidagung</url>
+          <target>_self</target>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2110,13 +2114,13 @@
           <customimage>assets/hotspotlocation/masjid-agung-lahat.png</customimage>
           <urlsafecustomimage>masjid-agung-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-241.33</pan>
-            <tilt>11.69</tilt>
+            <pan>-238</pan>
+            <tilt>10.35</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -2130,6 +2134,8 @@
           <title>SMAN 4 Lahat (Est. 70 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/sman4lahat</url>
+          <target>_self</target>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2138,8 +2144,8 @@
           <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
           <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -2183,12 +2189,27 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="arp_th_tmp.po">true</value>
+        <value id="arp_tmp.po">true</value>
+        <value id="en.po">true</value>
+        <value id="enp_th_tmp.po">true</value>
+        <value id="enp_tmp.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNh_tmp.po">true</value>
+        <value id="zh_CNp_tmp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -2207,7 +2228,7 @@
           <filename>C:/xampp/htdocs/output/bukitbesak/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -2219,7 +2240,7 @@
           <zoomfov>40</zoomfov>
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
-          <transitiontime>0.5</transitiontime>
+          <transitiontime>0.4</transitiontime>
           <zoomspeed>1</zoomspeed>
         </transition>
         <autorotate/>

@@ -1,0 +1,81 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+#. Node: node1 / Point Hotspot: Point02 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+msgid "Jembatan"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / Title
+#. Node: node4 / Point Hotspot: Point02 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "Taman Megalit"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / Title
+msgid "SD Negeri 19 Percontohan (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point05 / Title
+msgid "SMP Negeri 5 Lahat (Est. 12 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point06 / Title
+msgid "Masjid Agung Lahat (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "2026:02:02 14:00:27"
+msgstr ""
+
+#. Node: node3 / User Data Date && Time
+#. Node: node5 / User Data Date && Time
+msgid "2026:02:02 14:00:28"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point01 / Title
+msgid "Taman"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+msgid "Museum Megalitik"
+msgstr ""
+
+#. Node: node4 / User Data Date && Time
+msgid "2026:02:02 14:00:43"
+msgstr ""
+
+#. Node: node6 / User Data Date && Time
+msgid "2026:02:02 14:00:51"
+msgstr ""
+
+#. Node: node6 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point02 / Title
+msgid "Pendopo"
+msgstr ""
+
+#. Node: node7 / User Data Date && Time
+msgid "2026:02:02 14:00:26"
+msgstr ""
+
+#. Node: node7 / Point Hotspot: Point01 / Title
+msgid "Patung Gajah"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

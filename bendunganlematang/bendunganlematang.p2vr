@@ -69,9 +69,9 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>41.1</pan>
-            <tilt>-2.1</tilt>
-            <fov>149</fov>
+            <pan>132.5</pan>
+            <tilt>-6.5</tilt>
+            <fov>146</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -80,7 +80,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>41.1/-2.1/149.0</target>
+          <target>132.5/-6.5/146.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -350,14 +350,14 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-87.87</pan>
-            <tilt>-3.21</tilt>
+            <pan>-87.49</pan>
+            <tilt>-3.19</tilt>
             <fov>15</fov>
           </position>
           <next>
-            <pan>-0.6</pan>
-            <tilt>-1.2</tilt>
-            <fov>149</fov>
+            <pan>63.1</pan>
+            <tilt>-0.6</tilt>
+            <fov>146</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -366,7 +366,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
-          <target>-0.6/-1.2/149.0</target>
+          <target>63.1/-0.6/146.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -385,9 +385,9 @@
             <fov>15</fov>
           </position>
           <next>
-            <pan>5.7</pan>
-            <tilt>0.2</tilt>
-            <fov>149</fov>
+            <pan>-70.2</pan>
+            <tilt>6.6</tilt>
+            <fov>143.7</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -396,7 +396,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
-          <target>5.7/0.2/149.0</target>
+          <target>-70.2/6.6/143.7</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -536,8 +536,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-131.31</pan>
-            <tilt>5.39</tilt>
+            <pan>-125.13</pan>
+            <tilt>-8.32</tilt>
             <fov>15</fov>
           </position>
           <next>
@@ -633,8 +633,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-359.04</pan>
-            <tilt>9.12</tilt>
+            <pan>-358.13</pan>
+            <tilt>9.19</tilt>
             <fov>13</fov>
           </position>
           <next>
@@ -691,17 +691,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-2.13573</start>
+          <start>23.59</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-11.8898</start>
+          <start>-0.59</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>135.145</start>
+          <start>127.33</start>
           <minunit>pixels</minunit>
           <max>126</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -716,7 +716,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-02-04T13:47:05</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-08-03T11:29:37</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -731,8 +731,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-358.41</pan>
-            <tilt>-13.14</tilt>
+            <pan>-358.53</pan>
+            <tilt>-13.11</tilt>
             <fov>12</fov>
           </position>
           <next>
@@ -924,7 +924,7 @@
           <filename>C:/xampp/htdocs/output/lahat/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>

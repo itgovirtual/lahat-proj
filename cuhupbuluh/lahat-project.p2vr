@@ -7,7 +7,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Curug Buluh/curugbuluh-1-discover.jpg</filename>
+        <filename>panorama/curugbuluh-1-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -89,13 +89,13 @@
         <hotspot>
           <position>
             <pan>-197.05</pan>
-            <tilt>-4.55</tilt>
+            <tilt>-4.38</tilt>
             <fov>14</fov>
           </position>
           <next>
-            <pan>43.2</pan>
-            <tilt>0.9</tilt>
-            <fov>100</fov>
+            <pan>4.1</pan>
+            <tilt>-3.2</tilt>
+            <fov>161.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -104,7 +104,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
-          <target>43.2/0.9/100.0</target>
+          <target>4.1/-3.2/161.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -141,7 +141,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Curug Buluh/curugbuluh-2.jpg</filename>
+        <filename>panorama/curugbuluh-2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -171,9 +171,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>70.4</pan>
-            <tilt>-1.8</tilt>
-            <fov>108.2</fov>
+            <pan>-163.8</pan>
+            <tilt>-0.4</tilt>
+            <fov>161.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -182,7 +182,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
-          <target>70.4/-1.8/108.2</target>
+          <target>-163.8/-0.4/161.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -197,7 +197,7 @@
         <hotspot>
           <position>
             <pan>-30.54</pan>
-            <tilt>-2.85</tilt>
+            <tilt>-2.54</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -245,7 +245,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Curug Buluh/curugbuluh-3.jpg</filename>
+        <filename>panorama/curugbuluh-3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -275,9 +275,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>-173.7</pan>
-            <tilt>4.7</tilt>
-            <fov>117</fov>
+            <pan>-24.1</pan>
+            <tilt>-5.1</tilt>
+            <fov>161.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -286,7 +286,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>-173.7/4.7/117.0</target>
+          <target>-24.1/-5.1/161.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -379,7 +379,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Curug Buluh/curugbuluh-entrance.jpg</filename>
+        <filename>panorama/curugbuluh-entrance.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -455,24 +455,24 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Curug Buluh/drone-curugbuluh.jpg</filename>
+        <filename>panorama/drone-curugbuluh.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>-2.87153</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-13.4207</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>135.302</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -487,6 +487,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2026-08-03T14:22:23</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -653,7 +654,7 @@
           <filename>C:/xampp/htdocs/output/curugbuluh/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>

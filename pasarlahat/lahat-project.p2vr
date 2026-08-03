@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -367,9 +367,9 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-176.6</pan>
-            <tilt>-0.7</tilt>
-            <fov>149</fov>
+            <pan>-0.4</pan>
+            <tilt>0.6</tilt>
+            <fov>146</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -378,7 +378,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>-176.6/-0.7/149.0</target>
+          <target>-0.4/0.6/146.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -616,8 +616,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>1.54</pan>
-            <tilt>-6.43</tilt>
+            <pan>354.55</pan>
+            <tilt>-1.41</tilt>
             <fov>15</fov>
           </position>
           <next>
@@ -651,9 +651,9 @@
             <fov>15</fov>
           </position>
           <next>
-            <pan>18.5</pan>
-            <tilt>-3.2</tilt>
-            <fov>149</fov>
+            <pan>54</pan>
+            <tilt>2.7</tilt>
+            <fov>155.4</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -662,7 +662,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
-          <target>18.5/-3.2/149.0</target>
+          <target>54.0/2.7/155.4</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -681,9 +681,9 @@
             <fov>15</fov>
           </position>
           <next>
-            <pan>-1.2</pan>
-            <tilt>-4.6</tilt>
-            <fov>149</fov>
+            <pan>-168</pan>
+            <tilt>-0.7</tilt>
+            <fov>124.8</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -692,7 +692,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node6}</url>
-          <target>-1.2/-4.6/149.0</target>
+          <target>-168.0/-0.7/124.8</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -868,7 +868,7 @@
           <filename>C:/xampp/htdocs/output/pasarlahat/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>

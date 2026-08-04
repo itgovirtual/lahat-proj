@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Petilasan Raden Fatah/drone-jembatanradenfatah.jpg</filename>
+        <filename>panorama/drone-jembatanradenfatah.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>-1.34766</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-1.70622</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>148.118</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -39,6 +39,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2026-08-04T10:04:51</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-03T00:25:28</capturedatetime>
@@ -79,14 +80,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-355.79</pan>
-            <tilt>-13.66</tilt>
+            <pan>-355.78</pan>
+            <tilt>-13.48</tilt>
             <fov>10</fov>
           </position>
           <next>
-            <pan>-2</pan>
-            <tilt>-8.7</tilt>
-            <fov>118.9</fov>
+            <pan>-0.2</pan>
+            <tilt>-5.1</tilt>
+            <fov>150.5</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -95,7 +96,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
-          <target>-2.0/-8.7/118.9</target>
+          <target>-0.2/-5.1/150.5</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -114,9 +115,9 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>-18.5</pan>
+            <tilt>-38.4</tilt>
+            <fov>161.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -125,7 +126,8 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <skinid>hotspot_darat_project</skinid>
+          <target>-18.5/-38.4/161.6</target>
+          <skinid>drone_icon_project</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -245,7 +247,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Petilasan Raden Fatah/drone-petilasanradenfatah.jpg</filename>
+        <filename>panorama/drone-petilasanradenfatah.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -350,7 +352,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Petilasan Raden Fatah/petilasanradenfatah-dekat.jpg</filename>
+        <filename>panorama/petilasanradenfatah-dekat.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -375,14 +377,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-87.09</pan>
-            <tilt>-11.9</tilt>
-            <fov>10</fov>
+            <pan>-86.51</pan>
+            <tilt>-14.77</tilt>
+            <fov>13</fov>
           </position>
           <next>
-            <pan>111.4</pan>
-            <tilt>-15.2</tilt>
-            <fov>117</fov>
+            <pan>168.6</pan>
+            <tilt>-14.7</tilt>
+            <fov>160.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -391,7 +393,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node7}</url>
-          <target>111.4/-15.2/117.0</target>
+          <target>168.6/-14.7/160.2</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -426,7 +428,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Petilasan Raden Fatah/petilasanradenfatah-jembatan.jpg</filename>
+        <filename>panorama/petilasanradenfatah-jembatan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -472,14 +474,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-0.15</pan>
-            <tilt>-2.83</tilt>
+            <pan>0.19</pan>
+            <tilt>-5.6</tilt>
             <fov>10</fov>
           </position>
           <next>
-            <pan>111.9</pan>
-            <tilt>-9.5</tilt>
-            <fov>108.2</fov>
+            <pan>78.2</pan>
+            <tilt>-10.8</tilt>
+            <fov>155.4</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -488,7 +490,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node7}</url>
-          <target>111.9/-9.5/108.2</target>
+          <target>78.2/-10.8/155.4</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -502,14 +504,14 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-179.94</pan>
-            <tilt>0.04</tilt>
+            <pan>-180.47</pan>
+            <tilt>-2.06</tilt>
             <fov>10</fov>
           </position>
           <next>
-            <pan>-6.6</pan>
-            <tilt>-1.1</tilt>
-            <fov>100</fov>
+            <pan>-6.7</pan>
+            <tilt>-4</tilt>
+            <fov>161.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -518,7 +520,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
-          <target>-6.6/-1.1/100.0</target>
+          <target>-6.7/-4.0/161.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -553,7 +555,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Petilasan Raden Fatah/petilasanradenfatah-makamkeluarga.jpg</filename>
+        <filename>panorama/petilasanradenfatah-makamkeluarga.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -578,9 +580,9 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-9.71</pan>
-            <tilt>-10.22</tilt>
-            <fov>10</fov>
+            <pan>-13.1</pan>
+            <tilt>-10.48</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>1.3</pan>
@@ -601,7 +603,6 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
-          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -610,12 +611,12 @@
           <position>
             <pan>-67.35</pan>
             <tilt>-11.34</tilt>
-            <fov>10</fov>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
-            <tilt>-5.4</tilt>
-            <fov>100</fov>
+            <tilt>-5.2</tilt>
+            <fov>148.1</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -624,7 +625,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
-          <target>0.0/-5.4/100.0</target>
+          <target>-0.0/-5.2/148.1</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -659,7 +660,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Petilasan Raden Fatah/petilasanradenfatah-makamkeluargadekat.jpg</filename>
+        <filename>panorama/petilasanradenfatah-makamkeluargadekat.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -686,12 +687,12 @@
           <position>
             <pan>-189.82</pan>
             <tilt>-8.13</tilt>
-            <fov>10</fov>
+            <fov>13</fov>
           </position>
           <next>
-            <pan>-132.7</pan>
-            <tilt>-1.1</tilt>
-            <fov>118.3</fov>
+            <pan>-134.7</pan>
+            <tilt>-4.7</tilt>
+            <fov>161.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -700,7 +701,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
-          <target>-132.7/-1.1/118.3</target>
+          <target>-134.7/-4.7/161.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -735,7 +736,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Petilasan Raden Fatah/petilasanradenfatah-pager.jpg</filename>
+        <filename>panorama/petilasanradenfatah-pager.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -783,7 +784,7 @@
           <position>
             <pan>-283.76</pan>
             <tilt>-22.27</tilt>
-            <fov>10</fov>
+            <fov>13</fov>
           </position>
           <next>
             <pan>2.3</pan>
@@ -811,14 +812,14 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-192.36</pan>
+            <pan>-191.52</pan>
             <tilt>-15.99</tilt>
-            <fov>10</fov>
+            <fov>13</fov>
           </position>
           <next>
-            <pan>179.9</pan>
-            <tilt>-2.7</tilt>
-            <fov>108.2</fov>
+            <pan>179.6</pan>
+            <tilt>-1.6</tilt>
+            <fov>137</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -827,7 +828,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
-          <target>179.9/-2.7/108.2</target>
+          <target>179.6/-1.6/137.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -897,7 +898,7 @@
           <filename>C:/xampp/htdocs/output/petilasanradenfatah/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -909,6 +910,7 @@
           <zoomfov>40</zoomfov>
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
+          <zoomspeed>1</zoomspeed>
         </transition>
         <autorotate/>
         <soundstransition/>

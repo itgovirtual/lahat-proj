@@ -7,7 +7,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/drone-greencanyon-1.jpg</filename>
+        <filename>panorama/drone-greencanyon-1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -156,7 +156,7 @@
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
           <target>-1.9/0.3/130.0</target>
-          <skinid>hotspot_darat_project</skinid>
+          <skinid>drone_icon_project</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -304,7 +304,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/drone-greencanyon-2.jpg</filename>
+        <filename>panorama/drone-greencanyon-2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -410,7 +410,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-discover.jpg</filename>
+        <filename>panorama/greencanyon-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -539,7 +539,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-gerbang.jpg</filename>
+        <filename>panorama/greencanyon-gerbang.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -621,7 +621,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-pintumasuk.jpg</filename>
+        <filename>panorama/greencanyon-pintumasuk.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -733,7 +733,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot2 (1).jpg</filename>
+        <filename>panorama/greencanyon-spot2 (1).jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -841,7 +841,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot2.jpg</filename>
+        <filename>panorama/greencanyon-spot2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -998,7 +998,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot3.jpg</filename>
+        <filename>panorama/greencanyon-spot3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1125,7 +1125,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot8.jpg</filename>
+        <filename>panorama/greencanyon-spot8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1203,7 +1203,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot9.jpg</filename>
+        <filename>panorama/greencanyon-spot9.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1332,7 +1332,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot10.jpg</filename>
+        <filename>panorama/greencanyon-spot10.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1491,7 +1491,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot11.jpg</filename>
+        <filename>panorama/greencanyon-spot11.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1648,7 +1648,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot14.jpg</filename>
+        <filename>panorama/greencanyon-spot14.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1777,7 +1777,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot15.jpg</filename>
+        <filename>panorama/greencanyon-spot15.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1906,7 +1906,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot16.jpg</filename>
+        <filename>panorama/greencanyon-spot16.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2035,7 +2035,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-spot17.jpg</filename>
+        <filename>panorama/greencanyon-spot17.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2134,7 +2134,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Green Canyon/greencanyon-sungai.jpg</filename>
+        <filename>panorama/greencanyon-sungai.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2266,7 +2266,7 @@
           <filename>C:/xampp/htdocs/output/greencanyon/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>

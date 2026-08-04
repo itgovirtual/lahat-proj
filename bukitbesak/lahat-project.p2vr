@@ -7,7 +7,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-aksesmasuk-1.jpg</filename>
+        <filename>panorama/bukitbesak-aksesmasuk-1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -84,8 +84,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-4.9</pan>
-            <tilt>-7.8</tilt>
+            <pan>6.1</pan>
+            <tilt>-11.8</tilt>
             <fov>117</fov>
           </next>
           <customprops/>
@@ -95,7 +95,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>-4.9/-7.8/117.0</target>
+          <target>6.1/-11.8/117.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -132,7 +132,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-aksesmasuk-2.jpg</filename>
+        <filename>panorama/bukitbesak-aksesmasuk-2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -185,7 +185,7 @@
           <next>
             <pan>0</pan>
             <tilt>0</tilt>
-            <fov>117</fov>
+            <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -194,7 +194,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
-          <target>0.0/0.0/117.0</target>
+          <target>0.0/0.0/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -213,8 +213,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-45.8</pan>
-            <tilt>-4.9</tilt>
+            <pan>9</pan>
+            <tilt>-8.7</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -224,7 +224,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node9}</url>
-          <target>-45.8/-4.9/126.6</target>
+          <target>9.0/-8.7/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -259,7 +259,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-puncakbukit.jpg</filename>
+        <filename>panorama/bukitbesak-puncakbukit.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -335,7 +335,7 @@
       <input>
         <patch/>
         <type>equirectangular</type>
-        <filename>panorama/Bukit Besak/bukitbesak-puncakbukit-jurang.jpg</filename>
+        <filename>panorama/bukitbesak-puncakbukit-jurang.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -386,8 +386,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>91.4</pan>
-            <tilt>-15.7</tilt>
+            <pan>117.1</pan>
+            <tilt>-16.6</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -397,7 +397,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node15}</url>
-          <target>91.4/-15.7/126.6</target>
+          <target>117.1/-16.6/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -462,7 +462,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-savana1-1.jpg</filename>
+        <filename>panorama/bukitbesak-savana1-1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -589,7 +589,7 @@
       <input>
         <patch/>
         <type>equirectangular</type>
-        <filename>panorama/Bukit Besak/bukitbesak-savana1-2.jpg</filename>
+        <filename>panorama/bukitbesak-savana1-2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -716,7 +716,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-savana1-3.jpg</filename>
+        <filename>panorama/bukitbesak-savana1-3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -822,7 +822,7 @@
       <input>
         <patch/>
         <type>equirectangular</type>
-        <filename>panorama/Bukit Besak/bukitbesak-savana2-1.jpg</filename>
+        <filename>panorama/bukitbesak-savana2-1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -949,7 +949,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-spot4.jpg</filename>
+        <filename>panorama/bukitbesak-spot4.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -987,9 +987,9 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>173.6</pan>
-            <tilt>-1.1</tilt>
-            <fov>117</fov>
+            <pan>-171.3</pan>
+            <tilt>0.4</tilt>
+            <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -998,7 +998,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>173.6/-1.1/117.0</target>
+          <target>-171.3/0.4/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1063,7 +1063,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-spot5.jpg</filename>
+        <filename>panorama/bukitbesak-spot5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1101,8 +1101,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-41.8</pan>
-            <tilt>-2.5</tilt>
+            <pan>-77.9</pan>
+            <tilt>-0.8</tilt>
             <fov>117</fov>
           </next>
           <customprops/>
@@ -1112,7 +1112,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node9}</url>
-          <target>-41.8/-2.5/117.0</target>
+          <target>-77.9/-0.8/117.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1131,8 +1131,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-46</pan>
-            <tilt>-3.1</tilt>
+            <pan>-107.9</pan>
+            <tilt>-2.8</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -1142,7 +1142,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
-          <target>-46.0/-3.1/126.6</target>
+          <target>-107.9/-2.8/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1177,7 +1177,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-spot6.jpg</filename>
+        <filename>panorama/bukitbesak-spot6.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1215,8 +1215,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
+            <pan>-179.6</pan>
+            <tilt>-9.8</tilt>
             <fov>117</fov>
           </next>
           <customprops/>
@@ -1226,7 +1226,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node13}</url>
-          <target>0.0/0.0/117.0</target>
+          <target>-179.6/-9.8/117.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1291,7 +1291,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-spot7.jpg</filename>
+        <filename>panorama/bukitbesak-spot7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1329,8 +1329,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
+            <pan>176.7</pan>
+            <tilt>-11.9</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -1340,7 +1340,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node10}</url>
-          <target>0.0/0.0/126.6</target>
+          <target>176.7/-11.9/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1405,7 +1405,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-spot8.jpg</filename>
+        <filename>panorama/bukitbesak-spot8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1443,8 +1443,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-52.4</pan>
-            <tilt>1</tilt>
+            <pan>158.4</pan>
+            <tilt>7.8</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -1454,7 +1454,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
-          <target>-52.4/1.0/126.6</target>
+          <target>158.4/7.8/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1473,8 +1473,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
+            <pan>55.1</pan>
+            <tilt>6.1</tilt>
             <fov>117</fov>
           </next>
           <customprops/>
@@ -1484,7 +1484,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
-          <target>0.0/0.0/117.0</target>
+          <target>55.1/6.1/117.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1519,7 +1519,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-spot9.jpg</filename>
+        <filename>panorama/bukitbesak-spot9.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1557,8 +1557,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
+            <pan>-128.6</pan>
+            <tilt>-0.2</tilt>
             <fov>117</fov>
           </next>
           <customprops/>
@@ -1568,7 +1568,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
-          <target>0.0/0.0/117.0</target>
+          <target>-128.6/-0.2/117.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1661,7 +1661,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/bukitbesak-spot10.jpg</filename>
+        <filename>panorama/bukitbesak-spot10.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1714,8 +1714,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-58.5</pan>
-            <tilt>9.2</tilt>
+            <pan>103.5</pan>
+            <tilt>-1.9</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -1725,7 +1725,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node14}</url>
-          <target>-58.5/9.2/126.6</target>
+          <target>103.5/-1.9/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1790,7 +1790,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/drone-bukitbesak-parkiran.jpg</filename>
+        <filename>panorama/drone-bukitbesak-parkiran.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1895,7 +1895,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Bukit Besak/drone-bukitbesak-puncak.jpg</filename>
+        <filename>panorama/drone-bukitbesak-puncak.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>

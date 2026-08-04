@@ -1717,7 +1717,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/gerejakatolikparoki-altarperibadatan-discover.jpg.jpeg</filename>
+        <filename>panorama/gerejakatolikparoki-altarperibadatan-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1816,6 +1816,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-05.png</customimage>
+          <urlsafecustomimage>HOSOT-05.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>101</width>
           <height>101</height>

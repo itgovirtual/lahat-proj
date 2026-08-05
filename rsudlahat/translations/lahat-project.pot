@@ -1,0 +1,330 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node1 / User Data Date && Time
+msgid "2026:02:02 17:02:04"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+msgid "Masuk Lobi"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node26 / Point Hotspot: Point01 / Title
+msgid "Area Parkir"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+#. Node: node28 / Point Hotspot: Point02 / Title
+#. Node: node29 / Point Hotspot: Point02 / Title
+msgid "Instalasi Gawat Darurat"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / Title
+#. Node: node28 / Point Hotspot: Point03 / Title
+msgid "Paviliun Bukit Asam"
+msgstr ""
+
+#. Node: node2 / User Data Author
+#. Node: node3 / User Data Author
+#. Node: node4 / User Data Author
+#. Node: node5 / User Data Author
+#. Node: node6 / User Data Author
+#. Node: node7 / User Data Author
+#. Node: node16 / User Data Author
+#. Node: node17 / User Data Author
+#. Node: node18 / User Data Author
+#. Node: node19 / User Data Author
+#. Node: node21 / User Data Author
+#. Node: node22 / User Data Author
+#. Node: node23 / User Data Author
+#. Node: node24 / User Data Author
+#. Node: node25 / User Data Author
+#. Node: node26 / User Data Author
+#. Node: node27 / User Data Author
+msgid "Govirtual"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "3/11/2021 2:38 AM"
+msgstr ""
+
+#. Node: node2 / User Data Copyright
+#. Node: node3 / User Data Copyright
+#. Node: node4 / User Data Copyright
+#. Node: node5 / User Data Copyright
+#. Node: node6 / User Data Copyright
+#. Node: node7 / User Data Copyright
+#. Node: node16 / User Data Copyright
+#. Node: node17 / User Data Copyright
+#. Node: node18 / User Data Copyright
+#. Node: node19 / User Data Copyright
+#. Node: node21 / User Data Copyright
+#. Node: node22 / User Data Copyright
+#. Node: node23 / User Data Copyright
+#. Node: node24 / User Data Copyright
+#. Node: node25 / User Data Copyright
+#. Node: node26 / User Data Copyright
+#. Node: node27 / User Data Copyright
+msgid "govirtual"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point02 / Title
+msgid "Pintu Masuk Lobi"
+msgstr ""
+
+#. Node: node3 / User Data Date && Time
+msgid "3/11/2021 2:40 AM"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+#. Node: node9 / Point Hotspot: Point01 / Title
+#. Node: node10 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node12 / Point Hotspot: Point01 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point01 / Title
+#. Node: node18 / Point Hotspot: Point01 / Title
+#. Node: node20 / Point Hotspot: Point01 / Title
+#. Node: node24 / Point Hotspot: Point01 / Title
+#. Node: node27 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+#. Node: node4 / Point Hotspot: Point02 / Title
+#. Node: node6 / Point Hotspot: Point02 / Title
+msgid "Ruang Rawat Inap VIP"
+msgstr ""
+
+#. Node: node4 / User Data Date && Time
+msgid "3/11/2021 2:46 AM"
+msgstr ""
+
+#. Node: node5 / User Data Date && Time
+msgid "3/11/2021 2:49 AM"
+msgstr ""
+
+#. Node: node6 / User Data Date && Time
+msgid "3/11/2021 2:51 AM"
+msgstr ""
+
+#. Node: node7 / User Data Date && Time
+msgid "3/11/2021 2:58 AM"
+msgstr ""
+
+#. Node: node8 / User Data Date && Time
+msgid "3/18/2019 6:15 AM"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point01 / Title
+#. Node: node17 / Point Hotspot: Point01 / Title
+#. Node: node21 / Point Hotspot: Point03 / Title
+msgid "Lobi Pendaftaran"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point02 / Title
+#. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node14 / Point Hotspot: Point02 / Title
+#. Node: node14 / Point Hotspot: Point03 / Title
+msgid "Ruang Operasi"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point03 / Title
+msgid "Ruang Laboratorium"
+msgstr ""
+
+#. Node: node9 / User Data Date && Time
+#. Node: node28 / User Data Date && Time
+msgid "2026:02:02 17:02:15"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point02 / Title
+msgid "Laboratorium"
+msgstr ""
+
+#. Node: node10 / User Data Date && Time
+msgid "3/18/2019 6:47 AM"
+msgstr ""
+
+#. Node: node11 / User Data Date && Time
+msgid "3/18/2019 6:22 AM"
+msgstr ""
+
+#. Node: node12 / User Data Date && Time
+msgid "3/18/2019 6:36 AM"
+msgstr ""
+
+#. Node: node13 / User Data Date && Time
+msgid "3/18/2019 6:19 AM"
+msgstr ""
+
+#. Node: node14 / User Data Date && Time
+msgid "3/18/2019 6:34 AM"
+msgstr ""
+
+#. Node: node14 / Point Hotspot: Point04 / Title
+msgid "Ruang Pemeriksaan"
+msgstr ""
+
+#. Node: node15 / User Data Date && Time
+msgid "3/18/2019 6:30 AM"
+msgstr ""
+
+#. Node: node16 / User Data Date && Time
+msgid "3/11/2021 3:28 AM"
+msgstr ""
+
+#. Node: node17 / User Data Date && Time
+msgid "3/11/2021 3:25 AM"
+msgstr ""
+
+#. Node: node17 / Point Hotspot: Point02 / Title
+msgid "Poliklinik Gigi"
+msgstr ""
+
+#. Node: node18 / User Data Date && Time
+msgid "3/11/2021 3:38 AM"
+msgstr ""
+
+#. Node: node19 / User Data Date && Time
+msgid "3/11/2021 3:37 AM"
+msgstr ""
+
+#. Node: node19 / Point Hotspot: Point01 / Title
+msgid "Politeknik Penyakit Dalam"
+msgstr ""
+
+#. Node: node19 / Point Hotspot: Point02 / Title
+msgid "Politeknik Jantung"
+msgstr ""
+
+#. Node: node20 / User Data Date && Time
+msgid "2026:02:02 17:02:16"
+msgstr ""
+
+#. Node: node21 / User Data Date && Time
+msgid "3/11/2021 3:32 AM"
+msgstr ""
+
+#. Node: node21 / Point Hotspot: Point01 / Title
+#. Node: node27 / Point Hotspot: Point03 / Title
+msgid "Poliklinik Penyakit Dalam"
+msgstr ""
+
+#. Node: node21 / Point Hotspot: Point02 / Title
+msgid "Poliklinik Jantung"
+msgstr ""
+
+#. Node: node22 / User Data Date && Time
+msgid "3/11/2021 3:19 AM"
+msgstr ""
+
+#. Node: node22 / Point Hotspot: Point01 / Title
+#. Node: node23 / Point Hotspot: Point01 / Title
+#. Node: node27 / Point Hotspot: Point05 / Title
+msgid "Ruang Radiologi"
+msgstr ""
+
+#. Node: node23 / User Data Date && Time
+msgid "3/11/2021 3:16 AM"
+msgstr ""
+
+#. Node: node23 / Point Hotspot: Point02 / Title
+msgid "Ruang Panoramic"
+msgstr ""
+
+#. Node: node24 / User Data Date && Time
+msgid "3/11/2021 3:09 AM"
+msgstr ""
+
+#. Node: node25 / User Data Date && Time
+msgid "3/11/2021 3:13 AM"
+msgstr ""
+
+#. Node: node25 / Point Hotspot: Point01 / Title
+msgid "Keluar Lobi Pendaftaran"
+msgstr ""
+
+#. Node: node25 / Point Hotspot: Point02 / Title
+msgid "Ruang CT Scan"
+msgstr ""
+
+#. Node: node26 / User Data Date && Time
+msgid "3/11/2021 2:32 AM"
+msgstr ""
+
+#. Node: node26 / Point Hotspot: Point02 / Title
+msgid "Gedung Hemodialisis"
+msgstr ""
+
+#. Node: node27 / User Data Date && Time
+msgid "3/11/2021 4:18 AM"
+msgstr ""
+
+#. Node: node27 / Point Hotspot: Point02 / Title
+msgid "Poliklinik"
+msgstr ""
+
+#. Node: node27 / Point Hotspot: Point04 / Title
+msgid "Ruang Operasi Lantai 2"
+msgstr ""
+
+#. Node: node28 / Point Hotspot: Point01 / Title
+#. Node: node29 / Point Hotspot: Point01 / Title
+msgid "RSUD Lahat"
+msgstr ""
+
+#. Node: node29 / User Data Title
+msgid "default"
+msgstr ""
+
+#. Node: node29 / User Data Date && Time
+msgid "12/11/2025 5:10 PM"
+msgstr ""
+
+#. Node: node29 / Point Hotspot: Point03 / Title
+msgid "Gereja Katolik Paroki Santa Maria Lahat <br> (Est. 5 Menit)"
+msgstr ""
+
+#. Node: node29 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgstr ""
+
+#. Node: node29 / Point Hotspot: Point04 / Title
+msgid "Pasar Lahat <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node29 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/pasarlahat"
+msgstr ""
+
+#. Node: node29 / Point Hotspot: Point05 / Title
+msgid "Masjid Agung Lahat <br> (Est. 15 Menit)"
+msgstr ""
+
+#. Node: node29 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/masjidagunglahat"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

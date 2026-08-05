@@ -7,7 +7,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-dropoff.jpg</filename>
+        <filename>panorama/rsudlahat-dropoff.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -216,7 +216,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungbukitasam-depan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungbukitasam-depan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -345,7 +345,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungbukitasam-lobby.jpg</filename>
+        <filename>panorama/rsudlahat-gedungbukitasam-lobby.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -474,7 +474,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungbukitasam-lobbyvip.jpg</filename>
+        <filename>panorama/rsudlahat-gedungbukitasam-lobbyvip.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -603,7 +603,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungbukitasam-ruangvip-dalam.jpg</filename>
+        <filename>panorama/rsudlahat-gedungbukitasam-ruangvip-dalam.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -702,7 +702,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungbukitasam-ruangvip-depan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungbukitasam-ruangvip-depan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -831,7 +831,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedunghemodialisis.jpg</filename>
+        <filename>panorama/rsudlahat-gedunghemodialisis.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -930,7 +930,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1087,7 +1087,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2-lab1.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2-lab1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1195,7 +1195,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2-lab2.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2-lab2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1292,7 +1292,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2-ruangoperasi1.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2-ruangoperasi1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1419,7 +1419,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2-ruangoperasi1-ruangoksigen.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2-ruangoperasi1-ruangoksigen.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1516,7 +1516,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2-ruangoperasi2.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2-ruangoperasi2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1613,7 +1613,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2-ruangoperasi-depan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2-ruangoperasi-depan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1786,7 +1786,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-lt2-ruangpemeriksaan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-lt2-ruangpemeriksaan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1883,7 +1883,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-poligigi-dalam.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-poligigi-dalam.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1982,7 +1982,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-poligigi-depan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-poligigi-depan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2111,7 +2111,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-polijantung-dalam.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-polijantung-dalam.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2210,7 +2210,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-polijantung-depan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-polijantung-depan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2339,7 +2339,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-polipenyakitdalam-dalam.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-polipenyakitdalam-dalam.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2417,7 +2417,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-polipenyakitdalam-depan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-polipenyakitdalam-depan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2576,7 +2576,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-radiologi.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-radiologi.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2675,7 +2675,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-radiologi-ctscan.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-radiologi-ctscan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2804,7 +2804,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-radiologi-panoramic.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-radiologi-panoramic.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2903,7 +2903,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-gedungutama-radiologi-rontgen.jpg</filename>
+        <filename>panorama/rsudlahat-gedungutama-radiologi-rontgen.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3032,7 +3032,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-igd.jpg</filename>
+        <filename>panorama/rsudlahat-igd.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3161,7 +3161,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-lobby.jpg</filename>
+        <filename>panorama/rsudlahat-lobby.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3380,7 +3380,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/rsudlahat-parkir.jpg</filename>
+        <filename>panorama/rsudlahat-parkir.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3537,7 +3537,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/rsudlahat/drone-rsudlahat.jpg</filename>
+        <filename>panorama/drone-rsudlahat.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3657,9 +3657,10 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>Gereja Katolik Paroki Santa Maria Lahat (Est. 5 Menit)</title>
+          <title>Gereja Katolik Paroki Santa Maria Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/gerejakatolikparokisantamaria</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3685,9 +3686,10 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>Pasar Lahat (Est. 10 Menit)</title>
+          <title>Pasar Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/pasarlahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3713,9 +3715,10 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
-          <title>Masjid Agung Lahat (Est. 15 Menit)</title>
+          <title>Masjid Agung Lahat &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/masjidagunglahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3769,12 +3772,27 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans/>
@@ -3783,7 +3801,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/rsudlahat/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/RSUD Lahat/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -3808,7 +3826,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3504</tilesize>
-        <filename>C:/xampp/htdocs/output/rsudlahat/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/RSUD Lahat/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
         <quality>50</quality>
         <leveltileformat>1</leveltileformat>

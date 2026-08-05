@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node80" hassounds="0" apprev="21010" appversion="7.1.11">
+  <panorama id="node80">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="3600" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3600" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="3600" width="3600"/>
+      <level preload="0" predecode="0" height="1800" width="1800"/>
+      <level preload="0" predecode="0" height="900" width="900"/>
+      <level preload="1" predecode="1" height="450" width="450"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="3.42083" tilt="-25.1124" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="" title="" heading="0" tags="sman04" longitude="103.534152" comment="" customnodeid="" nodeid="node80" description="" author="" source="" copyright="" latitude="-3.809268"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="413.377" title="SMA Unggul Negeri 4 Lahat" customimageheight="101" id="Point01" use3D="1" distance="42.9959" customimage="media/OPSI METERPORT-126.png" pan="-356.9" tilt="-25.44" target="2.2/3.3/140.6" url="{node90}" customimagewidth="101" description="" fov="13.93"/>
+      <hotspot skinid="box_ui_location_kategori" distance3D="708.91" title="Bendungan Lematang (Est. 15 Menit)" customimageheight="250" id="Point02" use3D="1" customimage="media/bendungan-lematang-1.png" pan="-245.3" tilt="10.93" target="_blank" url="" customimagewidth="250" description="" fov="20"/>
+      <hotspot skinid="box_ui_location_kategori" distance3D="708.91" title="SMPN 1 Lahat (Est. 5 Menit)" customimageheight="250" id="Point03" use3D="1" customimage="media/sma-01-lahat-selatan-1.png" pan="-332.4" tilt="10.71" target="_blank" url="" customimagewidth="250" description="" fov="20"/>
+      <hotspot skinid="box_ui_location_kategori" distance3D="708.91" title="Gereja Paroki Santa Maria Lahat (Est. 10 Menit)" customimageheight="250" id="Point04" use3D="1" customimage="media/gereja-katolik-paroki-santa-maria-1.png" pan="-1.56" tilt="9.84" target="_blank" url="" customimagewidth="250" description="" fov="20"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node81">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node81/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:01:38" title="" heading="0" tags="sman04" longitude="103.53412850" comment="" customnodeid="" nodeid="node81" description="" author="" source="" copyright="" latitude="-3.80831985"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="422.033" title="Masjid" customimageheight="101" id="Point01" use3D="1" distance="15.4332" customimage="media/OPSI METERPORT-126.png" pan="-98.3" tilt="-7.25" target="-0.9/2.2/120.2" url="{node88}" customimagewidth="101" description="" fov="13.647"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="316.343" title="Ikon" customimageheight="101" id="Point02" use3D="1" distance="37.9697" customimage="media/OPSI METERPORT-126.png" pan="-277.27" tilt="-6.03" target="1.0/4.0/130.0" url="{node83}" customimagewidth="101" description="" fov="18.140000000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node82">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="3981" leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3981" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="3981" width="3981"/>
+      <level preload="0" predecode="0" height="1990" width="1990"/>
+      <level preload="0" predecode="0" height="995" width="995"/>
+      <level preload="1" predecode="1" height="497" width="497"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-180" tilt="0" fov="130" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="7/22/2025 3:50 AM" title="" heading="0" tags="sman04" longitude="103.534135" comment="" customnodeid="" nodeid="node82" description="" author="Govirtual" source="" copyright="govirtual" latitude="-3.808985"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="293.432" title="Pintu Masuk" customimageheight="101" id="Point01" use3D="1" distance="22.3901" customimage="media/OPSI METERPORT-126.png" pan="-354.6" tilt="-8.05" target="4.4/3.5/140.6" url="{node90}" customimagewidth="101" description="" fov="19.530000000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node83">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="3997" leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3997" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="3997" width="3997"/>
+      <level preload="0" predecode="0" height="1998" width="1998"/>
+      <level preload="0" predecode="0" height="999" width="999"/>
+      <level preload="1" predecode="1" height="499" width="499"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-180" tilt="0" fov="130" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="7/22/2025 4:00 AM" title="" heading="0" tags="sman04" longitude="103.534212" comment="" customnodeid="" nodeid="node83" description="" author="Govirtual" source="" copyright="govirtual" latitude="-3.808651"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="311.452" title="Pintu Masuk" customimageheight="101" id="Point01" use3D="1" distance="32.8262" customimage="media/OPSI METERPORT-126.png" pan="-103.65" tilt="-4.61" target="2.2/3.3/140.6" url="{node90}" customimagewidth="101" description="" fov="18.420000000000002"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="316.343" title="Asrama Putri" customimageheight="101" id="Point02" use3D="1" distance="37.9697" customimage="media/OPSI METERPORT-126.png" pan="-273.9" tilt="-2.51" target="-2.6/-7.8/130.0" url="{node81}" customimagewidth="101" description="" fov="18.140000000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node84">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2940" leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2940" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2940" width="2940"/>
+      <level preload="0" predecode="0" height="1470" width="1470"/>
+      <level preload="0" predecode="0" height="735" width="735"/>
+      <level preload="1" predecode="1" height="367" width="367"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:01:45" title="" heading="0" tags="sman04" longitude="103.534360" comment="" customnodeid="" nodeid="node84" description="" author="" source="" copyright="" latitude="-3.809123"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="368.42" title="Jalan Masjid" customimageheight="101" id="Point01" use3D="1" distance="98.1962" customimage="media/OPSI METERPORT-126.png" pan="-205.13" tilt="-2.81" target="-0.9/2.2/120.2" url="{node88}" customimagewidth="101" description="" fov="15.609999999999999"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="343.352" title="Perpustakaan" customimageheight="101" id="Point02" use3D="1" distance="87.9602" customimage="media/OPSI METERPORT-126.png" pan="-266.4" tilt="-5.89" target="16.2/-6.3/130.0" url="{node89}" customimagewidth="101" description="" fov="16.734100000000002"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="413.677" title="Lapangan Bendera" customimageheight="101" id="Point03" use3D="1" distance="63.6417" customimage="media/OPSI METERPORT-126.png" pan="-319.18" tilt="-2.85" target="-3.3/6.8/120.2" url="{node85}" customimagewidth="101" description="" fov="13.92"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node85">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="3935" leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3935" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="3935" width="3935"/>
+      <level preload="0" predecode="0" height="1967" width="1967"/>
+      <level preload="0" predecode="0" height="983" width="983"/>
+      <level preload="1" predecode="1" height="491" width="491"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-180" tilt="0" fov="130" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="7/22/2025 4:04 AM" title="" heading="0" tags="sman04" longitude="103.534569" comment="" customnodeid="" nodeid="node85" description="" author="Govirtual" source="" copyright="govirtual" latitude="-3.808590"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="360_video_experience_project" distance3D="779.993" title="360 Video Experience" customimageheight="288" id="Point01" use3D="1" customimage="media/sma-unggul-negeri-04-lahat.png" pan="-296.5" tilt="1.25" target="-3.3/6.8/120.2" url="" customimagewidth="288" description="" fov="20.920000000000002"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="355.499" title="Ruang Komputer" customimageheight="101" id="Point02" use3D="1" distance="40.6203" customimage="media/OPSI METERPORT-126.png" pan="-92.1" tilt="1.37" target="81.9/-22.5/130.0" url="{node95}" customimagewidth="101" description="" fov="16.170000000000002"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="375.48" title="Ruang Guru" customimageheight="101" id="Point03" use3D="1" distance="43.718" customimage="media/OPSI METERPORT-126.png" pan="-134.62" tilt="0.12" target="0.3/-2.3/130.0" url="{node92}" customimagewidth="101" description="" fov="15.32"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="293.432" title="Ikon" customimageheight="101" id="Point04" use3D="1" distance="13.0416" customimage="media/OPSI METERPORT-126.png" pan="-234.89" tilt="-0.18" target="0.3/-2.3/130.0" url="{node86}" customimagewidth="101" description="" fov="19.530000000000001"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="413.677" title="Ruang Kelas" customimageheight="101" id="Point05" use3D="1" distance="32.2332" customimage="media/OPSI METERPORT-126.png" pan="-8.95" tilt="-3.19" target="-3.3/6.8/120.2" url="{node93}" customimagewidth="101" description="" fov="13.92"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node86">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="3969" leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3969" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="3969" width="3969"/>
+      <level preload="0" predecode="0" height="1984" width="1984"/>
+      <level preload="0" predecode="0" height="992" width="992"/>
+      <level preload="1" predecode="1" height="496" width="496"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-180" tilt="0" fov="130" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="7/22/2025 4:07 AM" title="" heading="0" tags="sman04" longitude="103.534670" comment="" customnodeid="" nodeid="node86" description="" author="Govirtual" source="" copyright="govirtual" latitude="-3.808650"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="343.522" title="Lapangan Upacara" customimageheight="101" id="Point01" use3D="1" distance="13.0416" customimage="media/OPSI METERPORT-126.png" pan="-247.71" tilt="-0.08" target="0.3/-2.3/130.0" url="{node85}" customimagewidth="101" description="" fov="16.725899999999999"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="362.077" title="Lorong Sekolah" customimageheight="101" id="Point02" use3D="1" distance="31.8256" customimage="media/OPSI METERPORT-126.png" pan="-115.22" tilt="-1.8" target="10.3/-8.3/130.0" url="{node89}" customimagewidth="101" description="" fov="15.880000000000001"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="362.077" title="Lobi Sekolah" customimageheight="101" id="Point03" use3D="1" distance="35.7746" customimage="media/OPSI METERPORT-126.png" pan="-157.92" tilt="-1.75" target="0.3/-2.3/130.0" url="{node91}" customimagewidth="101" description="" fov="15.880000000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node87">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:01:40" title="" heading="0" tags="sman04" longitude="103.53423625" comment="" customnodeid="" nodeid="node87" description="" author="" source="" copyright="" latitude="-3.80819360"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="316.343" title="Keluar" customimageheight="101" id="Point01" use3D="1" distance="6.07015" customimage="media/OPSI METERPORT-126.png" pan="-260.44" tilt="-13.29" target="-0.9/2.2/120.2" url="{node88}" customimagewidth="101" description="" fov="18.140000000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node88">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2925" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2925" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2925" width="2925"/>
+      <level preload="0" predecode="0" height="1462" width="1462"/>
+      <level preload="0" predecode="0" height="731" width="731"/>
+      <level preload="1" predecode="1" height="365" width="365"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:01:38" title="" heading="0" tags="sman04" longitude="103.53424698" comment="" customnodeid="" nodeid="node88" description="" author="" source="" copyright="" latitude="-3.80824713"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="297.576" title="Asrama Putri" customimageheight="101" id="Point01" use3D="1" distance="15.4332" customimage="media/OPSI METERPORT-126.png" pan="-230.56" tilt="-3.1" target="-2.6/-7.8/130.0" url="{node81}" customimagewidth="101" description="" fov="19.263200000000001"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="368.355" title="Masjid" customimageheight="101" id="Point02" use3D="1" distance="6.07015" customimage="media/OPSI METERPORT-126.png" pan="-20.64" tilt="-7.97" target="-0.9/2.2/130.0" url="{node87}" customimagewidth="101" description="" fov="15.6127"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="382.394" title="Lapangan Basket" customimageheight="101" id="Point03" use3D="1" distance="98.1962" customimage="media/OPSI METERPORT-126.png" pan="-54.32" tilt="-4.87" target="3.7/2.0/130.0" url="{node84}" customimagewidth="101" description="" fov="15.046200000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node89">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node89/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:01:47" title="" heading="0" tags="sman04" longitude="103.534606" comment="" customnodeid="" nodeid="node89" description="" author="" source="" copyright="" latitude="-3.808371"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="355.51" title="Lapangan Basket" customimageheight="101" id="Point01" use3D="1" distance="87.9602" customimage="media/OPSI METERPORT-126.png" pan="-345.35" tilt="-11.91" target="3.7/2.0/130.0" url="{node84}" customimagewidth="101" description="" fov="16.169499999999999"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="405.291" title="Ruang Kepala Sekolah" customimageheight="101" id="Point02" use3D="1" distance="45.2595" customimage="media/OPSI METERPORT-126.png" pan="-159.54" tilt="-12" target="90.8/-5.4/140.6" url="{node94}" customimagewidth="101" description="" fov="14.2051"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="422.277" title="Lapangan Bendera" customimageheight="101" id="Point03" use3D="1" distance="31.8256" customimage="media/OPSI METERPORT-126.png" pan="-183.73" tilt="-12.23" target="-3.3/6.8/120.2" url="{node86}" customimagewidth="101" description="" fov="13.639200000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node90">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="3980" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3980" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="3980" width="3980"/>
+      <level preload="0" predecode="0" height="1990" width="1990"/>
+      <level preload="0" predecode="0" height="995" width="995"/>
+      <level preload="1" predecode="1" height="497" width="497"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-180" tilt="0" fov="130" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="7/22/2025 3:56 AM" title="" heading="0" tags="sman04" longitude="103.534327" comment="" customnodeid="" nodeid="node90" description="" author="Govirtual" source="" copyright="govirtual" latitude="-3.808923"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="284.863" title="Lobi Sekolah" customimageheight="101" id="Point01" use3D="1" distance="13.3169" customimage="media/OPSI METERPORT-126.png" pan="-358.45" tilt="-14.35" target="89.0/-2.9/130.0" url="{node91}" customimagewidth="101" description="" fov="20.105699999999999"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="321.385" title="Ikon" customimageheight="101" id="Point02" use3D="1" distance="32.8262" customimage="media/OPSI METERPORT-126.png" pan="-252.14" tilt="-11.41" target="2.2/3.3/140.6" url="{node83}" customimagewidth="101" description="" fov="17.859999999999999"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="382.554" title="Gerbang Sekolah" customimageheight="101" id="Point03" use3D="1" distance="22.3901" customimage="media/OPSI METERPORT-126.png" pan="-179.93" tilt="-5.7" target="5.9/7.4/140.6" url="{node82}" customimagewidth="101" description="" fov="15.039999999999999"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node91">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node91/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:02:02" title="" heading="0" tags="sman04" longitude="103.53443453" comment="" customnodeid="" nodeid="node91" description="" author="" source="" copyright="" latitude="-3.80886979"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="343.268" title="Pintu Masuk" customimageheight="101" id="Point01" use3D="1" distance="13.3169" customimage="media/OPSI METERPORT-126.png" pan="-179.78" tilt="-16.06" target="2.2/3.3/114.8" url="{node90}" customimagewidth="101" description="" fov="16.738099999999999"/>
+      <hotspot skinid="hotspot_darat_project" distance3D="293.432" title="Lapangan Upacara" customimageheight="101" id="Point02" use3D="1" distance="35.7746" customimage="media/OPSI METERPORT-126.png" pan="-349.73" tilt="-15.4" target="-3.3/6.8/120.2" url="{node86}" customimagewidth="101" description="" fov="19.530000000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node92">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node92/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:02:03" title="" heading="0" tags="sman04" longitude="103.534234" comment="" customnodeid="" nodeid="node92" description="" author="" source="" copyright="" latitude="-3.808383"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="door_icon_project" distance3D="322.646" title="Keluar" customimageheight="50" id="Point01" use3D="1" distance="43.718" customimage="media/door.png" pan="-261.8" tilt="-21.21" target="-3.3/6.8/120.2" url="{node85}" customimagewidth="50" description="" fov="8.8613400000000002"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node93">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node93/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2/2/2026 2:59 PM" title="" heading="0" tags="sman04" longitude="103.53444315" comment="" customnodeid="" nodeid="node93" description="" author="" source="" copyright="" latitude="-3.80832873"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="door_icon_project" distance3D="263.809" title="Keluar" customimageheight="50" id="Point01" use3D="1" distance="32.2332" customimage="media/door.png" pan="-269.74" tilt="-16.32" target="-3.3/6.8/120.2" url="{node85}" customimagewidth="50" description="" fov="10.827"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node94">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node94/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:01:46" title="" heading="0" tags="sman04" longitude="103.534436" comment="" customnodeid="" nodeid="node94" description="" author="" source="" copyright="" latitude="-3.808741"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="door_icon_project" distance3D="286.039" title="Keluar" customimageheight="50" id="Point01" use3D="1" distance="45.2595" customimage="media/door.png" pan="-141.76" tilt="-20.57" target="14.3/-6.4/130.0" url="{node89}" customimagewidth="50" description="" fov="9.9900000000000002"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node95">
+    <input levelbias="0.400" overlap="1" levelingpitch="0" height="2976" leveltileurl="tiles/node95/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="2976" width="2976"/>
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="126" fovfisheye="360"/>
+    </view>
+    <userdata info="" datetime="2026:02:02 18:02:03" title="" heading="0" tags="sman04" longitude="103.534554" comment="" customnodeid="" nodeid="node95" description="" author="" source="" copyright="" latitude="-3.808955"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label borderradius="1" textalpha="1" borderalpha="1" height="20" wordwrap="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" background="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="door_icon_project" distance3D="322.646" title="Keluar" customimageheight="50" id="Point01" use3D="1" distance="40.6203" customimage="media/door.png" pan="-52.16" tilt="-10.12" target="-3.3/6.8/120.2" url="{node85}" customimagewidth="50" description="" fov="8.8613400000000002"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="40" blendtime="0.5" zoomout="0" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomspeed="1" zoomafterinfov="140" type="crossdissolve" softedge="0" zoomafteroutfov="40" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="0" lockedkeyboard="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="" description="" author="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

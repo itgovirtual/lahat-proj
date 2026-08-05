@@ -610,17 +610,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>18.82</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-12.06</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>137.34</start>
           <max>126</max>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
@@ -635,17 +635,19 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-05T16:48:42</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2021-03-11T02:49:24</capturedatetime>
         <latitude>-3.792775</latitude>
         <longitude>103.534778</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/11/2021 2:49 AM</datetime>
         <tags>rsudlahat</tags>
+        <customnodeid>ruang_vip</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1426,17 +1428,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>-10.72</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-12.12</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>137.34</start>
           <max>126</max>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
@@ -1451,15 +1453,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-05T16:47:17</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2019-03-18T06:36:22</capturedatetime>
         <latitude>-3.79293115</latitude>
         <longitude>103.53421553</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>3/18/2019 6:36 AM</datetime>
         <tags>rsudlahat</tags>
+        <customnodeid>kamar_operasi</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2583,17 +2587,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>47.69</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-19.77</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>137.34</start>
           <max>126</max>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
@@ -2608,17 +2612,19 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-05T16:49:29</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2021-03-11T03:19:20</capturedatetime>
         <latitude>-3.79292342</latitude>
         <longitude>103.53427189</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/11/2021 3:19 AM</datetime>
         <tags>rsudlahat</tags>
+        <customnodeid>usg</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2682,17 +2688,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>8.76</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-7.84</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>137.34</start>
           <max>126</max>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
@@ -2707,17 +2713,19 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-05T16:49:41</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2021-03-11T03:16:15</capturedatetime>
         <latitude>-3.79287774</latitude>
         <longitude>103.53426274</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/11/2021 3:16 AM</datetime>
         <tags>rsudlahat</tags>
+        <customnodeid>ctscan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2811,17 +2819,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>17.7</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-9.98</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>137.34</start>
           <max>126</max>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
@@ -2836,17 +2844,19 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-05T16:52:43</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2021-03-11T03:09:49</capturedatetime>
         <latitude>-3.79285739</latitude>
         <longitude>103.53425937</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/11/2021 3:09 AM</datetime>
         <tags>rsudlahat</tags>
+        <customnodeid>mamografi</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2941,11 +2951,12 @@
         <capturedatetime>2021-03-11T03:13:03</capturedatetime>
         <latitude>-3.79290230</latitude>
         <longitude>103.53426487</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/11/2021 3:13 AM</datetime>
         <tags>rsudlahat</tags>
+        <customnodeid>rontgen</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3785,17 +3796,18 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>

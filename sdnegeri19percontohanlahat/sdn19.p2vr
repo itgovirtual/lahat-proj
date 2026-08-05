@@ -325,11 +325,11 @@
           <position>
             <pan>-344.05</pan>
             <tilt>-3.44</tilt>
-            <fov>12.8068</fov>
+            <fov>12.81</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>-157.7</pan>
+            <tilt>0.6</tilt>
             <fov>117</fov>
           </next>
           <customprops/>
@@ -339,7 +339,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node91}</url>
-          <target>-1.6/-0.0/117.0</target>
+          <target>-157.7/0.6/117.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -385,11 +385,11 @@
           <position>
             <pan>-269.75</pan>
             <tilt>-12.65</tilt>
-            <fov>13.3695</fov>
+            <fov>13.37</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>13.4</pan>
+            <tilt>1.6</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -399,7 +399,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node93}</url>
-          <target>-1.6/0.0/126.6</target>
+          <target>13.4/1.6/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -415,11 +415,11 @@
           <position>
             <pan>-197.13</pan>
             <tilt>-11.34</tilt>
-            <fov>13.3695</fov>
+            <fov>13.37</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>-20.2</pan>
+            <tilt>0.1</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -429,7 +429,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node92}</url>
-          <target>-1.6/0.0/126.6</target>
+          <target>-20.2/0.1/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -443,7 +443,7 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-224</pan>
+            <pan>-223.76</pan>
             <tilt>-10.9</tilt>
             <fov>12.527</fov>
           </position>
@@ -602,21 +602,21 @@
           <position>
             <pan>-250.68</pan>
             <tilt>-13.58</tilt>
-            <fov>17.5846</fov>
+            <fov>17.58</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>34.2</pan>
+            <tilt>1.1</tilt>
             <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>Lorong Sekolah</title>
+          <title>Ruang Kelas</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node85}</url>
-          <target>-1.6/0.0/136.9</target>
+          <target>34.2/1.1/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -662,12 +662,12 @@
           <position>
             <pan>-92.83</pan>
             <tilt>-7.05</tilt>
-            <fov>16.4624</fov>
+            <fov>16.46</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
+            <pan>-33.3</pan>
             <tilt>0</tilt>
-            <fov>136.9</fov>
+            <fov>149.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -676,7 +676,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node96}</url>
-          <target>-1.6/0.0/136.9</target>
+          <target>-33.3/0.0/149.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -818,11 +818,11 @@
           <position>
             <pan>-4.14</pan>
             <tilt>-24.83</tilt>
-            <fov>18.7038</fov>
+            <fov>18.7</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>39</pan>
+            <tilt>1.4</tilt>
             <fov>136.9</fov>
           </next>
           <customprops/>
@@ -832,7 +832,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node88}</url>
-          <target>-1.6/0.0/136.9</target>
+          <target>39.0/1.4/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -848,11 +848,11 @@
           <position>
             <pan>-73.02</pan>
             <tilt>-17.75</tilt>
-            <fov>17.5805</fov>
+            <fov>17.58</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>36.5</pan>
+            <tilt>-1.6</tilt>
             <fov>136.9</fov>
           </next>
           <customprops/>
@@ -862,7 +862,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node89}</url>
-          <target>-1.6/0.0/136.9</target>
+          <target>36.5/-1.6/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -908,11 +908,11 @@
           <position>
             <pan>-144.97</pan>
             <tilt>-38.51</tilt>
-            <fov>20.9481</fov>
+            <fov>20.95</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>-46.4</pan>
+            <tilt>-0.1</tilt>
             <fov>136.9</fov>
           </next>
           <customprops/>
@@ -922,7 +922,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node90}</url>
-          <target>-1.6/0.0/136.9</target>
+          <target>-46.4/-0.1/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -938,11 +938,11 @@
           <position>
             <pan>-294.7</pan>
             <tilt>-16.03</tilt>
-            <fov>16.4611</fov>
+            <fov>16.46</fov>
           </position>
           <next>
-            <pan>-1.6</pan>
-            <tilt>0</tilt>
+            <pan>44</pan>
+            <tilt>-1.2</tilt>
             <fov>136.9</fov>
           </next>
           <customprops/>
@@ -952,7 +952,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node87}</url>
-          <target>-1.6/0.0/136.9</target>
+          <target>44.0/-1.2/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1755,8 +1755,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>305.87</pan>
-            <tilt>-10.44</tilt>
+            <pan>311.52</pan>
+            <tilt>-12.32</tilt>
             <fov>8.03</fov>
           </position>
           <next>
@@ -1863,8 +1863,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-109.53</pan>
-            <tilt>-10.99</tilt>
+            <pan>-98.62</pan>
+            <tilt>-14.8</tilt>
             <fov>9.72</fov>
           </position>
           <next>
@@ -1956,7 +1956,7 @@
           <filename>C:/xampp/htdocs/output/sdn19/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>

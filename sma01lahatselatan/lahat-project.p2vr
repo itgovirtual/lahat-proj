@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -429,8 +429,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-28.18</pan>
-            <tilt>-4.29</tilt>
+            <pan>-28.15</pan>
+            <tilt>-4.46</tilt>
             <fov>12</fov>
           </position>
           <next>
@@ -489,8 +489,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-327.02</pan>
-            <tilt>-3.44</tilt>
+            <pan>-326.92</pan>
+            <tilt>-3.76</tilt>
             <fov>12</fov>
           </position>
           <next>
@@ -519,13 +519,13 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-55.78</pan>
-            <tilt>-3.5</tilt>
+            <pan>-55.95</pan>
+            <tilt>-3.51</tilt>
             <fov>12</fov>
           </position>
           <next>
-            <pan>-95.7</pan>
-            <tilt>-28.3</tilt>
+            <pan>79.2</pan>
+            <tilt>-16.6</tilt>
             <fov>136.9</fov>
           </next>
           <customprops/>
@@ -535,7 +535,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
-          <target>-95.7/-28.3/136.9</target>
+          <target>79.2/-16.6/136.9</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -614,8 +614,8 @@
             <fov>12</fov>
           </position>
           <next>
-            <pan>-0.4</pan>
-            <tilt>-29.1</tilt>
+            <pan>40.1</pan>
+            <tilt>-0.2</tilt>
             <fov>126.6</fov>
           </next>
           <customprops/>
@@ -625,7 +625,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node10}</url>
-          <target>-0.4/-29.1/126.6</target>
+          <target>40.1/-0.2/126.6</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -908,7 +908,6 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/door.png</customimage>
-          <urlsafecustomimage>door.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>50</width>
           <height>50</height>
@@ -1071,13 +1070,13 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-331.98</pan>
-            <tilt>-35.55</tilt>
-            <fov>6.90513</fov>
+            <pan>-332.26</pan>
+            <tilt>-35.67</tilt>
+            <fov>6.91</fov>
           </position>
           <next>
-            <pan>-2.2</pan>
-            <tilt>-26.4</tilt>
+            <pan>38.4</pan>
+            <tilt>-24.7</tilt>
             <fov>136.9</fov>
           </next>
           <customprops/>
@@ -1087,7 +1086,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node7}</url>
-          <target>-2.2/-26.4/136.9</target>
+          <target>38.4/-24.7/136.9</target>
           <skinid>door_icon_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1106,9 +1105,9 @@
             <fov>6.34</fov>
           </position>
           <next>
-            <pan>-89.5</pan>
+            <pan>159.3</pan>
             <tilt>-5.7</tilt>
-            <fov>148.1</fov>
+            <fov>143.7</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1117,7 +1116,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node14}</url>
-          <target>-89.5/-5.7/148.1</target>
+          <target>159.3/-5.7/143.7</target>
           <skinid>door_icon_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1685,7 +1684,7 @@
           <filename>C:/xampp/htdocs/output/smpn01/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>

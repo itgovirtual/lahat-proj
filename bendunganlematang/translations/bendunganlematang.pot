@@ -52,7 +52,7 @@ msgid "2026:01:29 10:40:27"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point02 / Title
-msgid "SMAN 4 Lahat (Est. 15 Menit)"
+msgid "SMAN 4 Lahat <br> (Est. 15 Menit)"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point02 / URL
@@ -60,7 +60,7 @@ msgid "https://lahat.govirtual.id/smaunggulnegeri04lahat"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point03 / Title
-msgid "Petilasa Raden Patah (Est. 10 Menit)"
+msgid "Petilasan Raden Patah <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point03 / URL
@@ -68,7 +68,7 @@ msgid "https://lahat.govirtual.id/petilasanradenfatah"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point04 / Title
-msgid "Gereja Katolik Paroki Santa Maria Lahat (Est. 10 Menit)"
+msgid "Gereja Katolik Paroki Santa Maria Lahat <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point04 / URL

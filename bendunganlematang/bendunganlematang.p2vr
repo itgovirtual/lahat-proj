@@ -7,7 +7,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/bendunganlematang/bendunganlematang-1.jpg</filename>
+        <filename>panorama/bendunganlematang-1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -99,8 +99,8 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>0.3</pan>
-            <tilt>-7</tilt>
+            <pan>41.5</pan>
+            <tilt>1.4</tilt>
             <fov>146</fov>
           </next>
           <customprops/>
@@ -110,7 +110,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node6}</url>
-          <target>0.3/-7.0/146.0</target>
+          <target>41.5/1.4/146.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -147,7 +147,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/bendunganlematang/bendunganlematang-2.jpg</filename>
+        <filename>panorama/bendunganlematang-2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -228,9 +228,9 @@
             <fov>13</fov>
           </position>
           <next>
-            <pan>-1.2</pan>
-            <tilt>-0.5</tilt>
-            <fov>149</fov>
+            <pan>-49.2</pan>
+            <tilt>-3.1</tilt>
+            <fov>146</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -239,7 +239,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
-          <target>-1.2/-0.5/149.0</target>
+          <target>-49.2/-3.1/146.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -274,7 +274,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/bendunganlematang/bendunganlematang-3.jpg</filename>
+        <filename>panorama/bendunganlematang-3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -431,28 +431,49 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/bendunganlematang/bendunganlematang-3-kanan.jpg</filename>
+        <filename>panorama/bendunganlematang-3-kanan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>24.66</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-1.81</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>127.33</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-05T13:47:18</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2025-09-04T10:37:47+07:00</capturedatetime>
+        <capturedatetime>2025-09-04T10:37:47</capturedatetime>
         <latitude>-3.809249</latitude>
         <longitude>103.524647</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>9/4/2025 10:37 AM</datetime>
         <tags>bendunganlematang</tags>
+        <customnodeid>bendungan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -509,7 +530,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/bendunganlematang/bendunganlematang-3-kiri.jpg</filename>
+        <filename>panorama/bendunganlematang-3-kiri.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -587,7 +608,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/bendunganlematang/bendunganlematang-tangga.jpg</filename>
+        <filename>panorama/bendunganlematang-tangga.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -684,7 +705,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/bendunganlematang/drone-bendunganlematang.jpg</filename>
+        <filename>panorama/drone-bendunganlematang.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -736,9 +757,9 @@
             <fov>12</fov>
           </position>
           <next>
-            <pan>-52.6</pan>
-            <tilt>-1.5</tilt>
-            <fov>149</fov>
+            <pan>158.1</pan>
+            <tilt>-7</tilt>
+            <fov>146</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -747,7 +768,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>-52.6/-1.5/149.0</target>
+          <target>158.1/-7.0/146.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -773,7 +794,7 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>SMAN 4 Lahat (Est. 15 Menit)</title>
+          <title>SMAN 4 Lahat &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/smaunggulnegeri04lahat</url>
@@ -803,7 +824,7 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>Petilasa Raden Patah (Est. 10 Menit)</title>
+          <title>Petilasan Raden Patah &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/petilasanradenfatah</url>
@@ -833,7 +854,7 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>Gereja Katolik Paroki Santa Maria Lahat (Est. 10 Menit)</title>
+          <title>Gereja Katolik Paroki Santa Maria Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/gerejakatolikparokisantamaria</url>
@@ -904,8 +925,14 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -921,7 +948,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/lahat/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/Bendungan Lematang/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -946,7 +973,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3507</tilesize>
-        <filename>C:/xampp/htdocs/output/lahat/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/Bendungan Lematang/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
         <quality>50</quality>
         <leveltilesize>512</leveltilesize>

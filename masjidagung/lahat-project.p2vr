@@ -121,16 +121,17 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>Pasar Lahat (Est. 5 Menit)</title>
+          <title>Pasar Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/pasarlahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/pasar-lahat.png</customimage>
-          <urlsafecustomimage>pasar-lahat.png</urlsafecustomimage>
+          <urlsafecustomimage>pasar-lahat-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
@@ -138,7 +139,7 @@
         <hotspot>
           <position>
             <pan>-180.28</pan>
-            <tilt>10.93</tilt>
+            <tilt>11.24</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -149,16 +150,17 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>SMPN 5 Lahat (Est. 15 Menit)</title>
+          <title>SMPN 5 Lahat &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/smpn05lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/smpn-05-lahat.png</customimage>
-          <urlsafecustomimage>smpn-05-lahat.png</urlsafecustomimage>
+          <urlsafecustomimage>smpn-05-lahat-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
@@ -177,16 +179,17 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>SD Negeri  19 Percontohan (Est. 10 Menit)</title>
+          <title>SD Negeri  19 Percontohan &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/sdnegeri19percontohanlahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/sd-negeri-19-percontohan-lahat.png</customimage>
-          <urlsafecustomimage>sd-negeri-19-percontohan-lahat.png</urlsafecustomimage>
+          <urlsafecustomimage>sd-negeri-19-percontohan-lahat-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
@@ -223,18 +226,18 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>1.47</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>1.31</start>
           <min>-70</min>
           <max>70</max>
         </tilt>
         <fov>
           <max>126</max>
-          <start>100</start>
+          <start>117.02</start>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
@@ -248,15 +251,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-07T11:29:52</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2026-01-28T14:10:22+07:00</capturedatetime>
+        <capturedatetime>2026-01-28T14:10:22</capturedatetime>
         <latitude>-3.78850843</latitude>
         <longitude>103.53928944</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>1/28/2026 2:10 PM</datetime>
         <tags>panorama</tags>
+        <customnodeid>area_ibadah</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -382,6 +387,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-05.png</customimage>
+          <urlsafecustomimage>HOSOT-05.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>101</width>
           <height>101</height>
@@ -808,15 +814,41 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="entmptmphu.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>

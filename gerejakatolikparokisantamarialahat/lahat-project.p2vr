@@ -140,8 +140,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-272.61</pan>
-            <tilt>4.71</tilt>
+            <pan>-272.64</pan>
+            <tilt>8.91</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -155,6 +155,7 @@
           <title>RSUD Lahat (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/rsudlahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -180,9 +181,10 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>Pasar Lahat (Est. 5 Menit)</title>
+          <title>Pasar Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/pasarlahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -208,9 +210,10 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
-          <title>SMAN 4 Lahat (Est. 10 Menit)</title>
+          <title>SMAN 4 Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/smaunggulnegeri04lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1922,21 +1925,46 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/gerejakatolik/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/Gereja Katolik Paroki Santa Maria/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -1960,7 +1988,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3501</tilesize>
-        <filename>C:/xampp/htdocs/output/gerejakatolik/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/Gereja Katolik Paroki Santa Maria/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>

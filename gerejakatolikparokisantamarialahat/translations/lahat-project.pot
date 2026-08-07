@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node1 / User Data Title
+msgid "default"
+msgstr ""
+
+#. Node: node1 / User Data Date && Time
+msgid "12/11/2025 5:28 PM"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+msgid "Lapangan"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+msgid "Gereja"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / Title
+msgid "RSUD Lahat (Est. 5 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/rsudlahat"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / Title
+msgid "Pasar Lahat <br> (Est. 5 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/pasarlahat"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point05 / Title
+msgid "SMAN 4 Lahat <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/smaunggulnegeri04lahat"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "1/28/2026 2:02 PM"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node9 / Point Hotspot: Point04 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node12 / Point Hotspot: Point01 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node3 / User Data Date && Time
+msgid "2026:01:29 15:22:29"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+msgid "Pintu Masuk"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point03 / Title
+#. Node: node6 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point03 / Title
+msgid "Asrama Gereja"
+msgstr ""
+
+#. Node: node4 / User Data Date && Time
+msgid "2026:01:29 15:22:31"
+msgstr ""
+
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point02 / Title
+msgid "Patung Bunda Maria"
+msgstr ""
+
+#. Node: node4 / Point Hotspot: Point02 / Title
+msgid "Patung Gabriel"
+msgstr ""
+
+#. Node: node4 / Point Hotspot: Point03 / Title
+msgid "Masuk Gereja"
+msgstr ""
+
+#. Node: node5 / User Data Date && Time
+#. Node: node6 / User Data Date && Time
+msgid "2026:01:29 15:22:46"
+msgstr ""
+
+#. Node: node5 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point02 / Title
+msgid "Selasar Gereja"
+msgstr ""
+
+#. Node: node7 / User Data Date && Time
+msgid "2026:01:29 15:23:02"
+msgstr ""
+
+#. Node: node8 / User Data Date && Time
+msgid "2026:01:29 15:22:06"
+msgstr ""
+
+#. Node: node9 / User Data Date && Time
+#. Node: node10 / User Data Date && Time
+#. Node: node12 / User Data Date && Time
+msgid "2026:01:29 15:22:02"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point01 / Title
+#. Node: node10 / Point Hotspot: Point01 / Title
+msgid "Altar"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point02 / Title
+msgid "Ruang Pengakuan Dosa - Umat"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point03 / Title
+msgid "Ruang Pengakuan Dosa - Pastor"
+msgstr ""
+
+#. Node: node11 / User Data Date && Time
+msgid "1/28/2026 1:58 PM"
+msgstr ""
+
+#. Node: node12 / Point Hotspot: Point02 / Title
+msgid "Ruang Pastor"
+msgstr ""
+
+#. Node: node13 / User Data Date && Time
+msgid "2026:01:29 15:22:20"
+msgstr ""
+
+#. Node: node14 / User Data Date && Time
+msgid "2026:01:29 15:22:19"
+msgstr ""
+
+#. Node: node15 / User Data Date && Time
+msgid "3/18/2019 7:24 AM"
+msgstr ""
+
+#. Node: node15 / Point Hotspot: Point03 / Title
+msgid "Patung Santo Yosef"
+msgstr ""
+
+#. Node: node15 / Point Hotspot: Point04 / Title
+msgid "Mimbar Gereja"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

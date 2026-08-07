@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node2 / User Data Date && Time
+msgid "2026:01:29 11:33:21"
+msgstr "2026:01:29 11:33:21"
+
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node3 / Point Hotspot: Point01 / Title
+msgid "Tugu Patung Si Pahit Lidah Kota Lahat"
+msgstr "نصب تمثال سي باهيت ليداه مدينة لاهات"
+
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node3 / Point Hotspot: Point03 / Title
+#. Node: node5 / Point Hotspot: Point04 / Title
+msgid "Agro Wisata Tanjung Sakti <br> (Est. 2 jam) "
+msgstr "السياحة الزراعية تانجونغ ساكتي <br> (حوالي ساعتين) "
+
+#. Node: node2 / Point Hotspot: Point02 / URL
+#. Node: node2 / Point Hotspot: Point04 / URL
+#. Node: node3 / Point Hotspot: Point03 / URL
+#. Node: node3 / Point Hotspot: Point04 / URL
+#. Node: node5 / Point Hotspot: Point03 / URL
+#. Node: node5 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgstr "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+
+#. Node: node2 / Point Hotspot: Point03 / Title
+#. Node: node5 / Point Hotspot: Point02 / Title
+msgid "Gapura Selamat Datang Kota Lahat"
+msgstr "بوابة الترحيب بمدينة لاهات"
+
+#. Node: node2 / Point Hotspot: Point04 / Title
+#. Node: node3 / Point Hotspot: Point04 / Title
+#. Node: node5 / Point Hotspot: Point03 / Title
+msgid "Gereja Katolik Paroki Santa Maria <br> (Est. 10 menit) "
+msgstr "كنيسة رعية سانتا ماريا الكاثوليكية <br> (10 دقائق تقريبًا) "
+
+#. Node: node3 / User Data Date && Time
+msgid "2026:01:29 11:33:27"
+msgstr "2026:01:29 11:33:27"
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "Kantor Bupati Kota Lahat"
+msgstr "مكتب رئيس منطقة لاهات"
+
+#. Node: node5 / User Data Date && Time
+msgid "2026:01:29 11:32:55"
+msgstr "2026:01:29 11:32:55"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr "دخول الواقع الافتراضي"
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr "ملء الشاشة"
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr "الخروج من ملء الشاشة"

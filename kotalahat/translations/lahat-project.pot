@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node2 / User Data Date && Time
+msgid "2026:01:29 11:33:21"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node3 / Point Hotspot: Point01 / Title
+msgid "Tugu Patung Si Pahit Lidah Kota Lahat"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node3 / Point Hotspot: Point03 / Title
+#. Node: node5 / Point Hotspot: Point04 / Title
+msgid "Agro Wisata Tanjung Sakti <br> (Est. 2 jam) "
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point02 / URL
+#. Node: node2 / Point Hotspot: Point04 / URL
+#. Node: node3 / Point Hotspot: Point03 / URL
+#. Node: node3 / Point Hotspot: Point04 / URL
+#. Node: node5 / Point Hotspot: Point03 / URL
+#. Node: node5 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point03 / Title
+#. Node: node5 / Point Hotspot: Point02 / Title
+msgid "Gapura Selamat Datang Kota Lahat"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point04 / Title
+#. Node: node3 / Point Hotspot: Point04 / Title
+#. Node: node5 / Point Hotspot: Point03 / Title
+msgid "Gereja Katolik Paroki Santa Maria <br> (Est. 10 menit) "
+msgstr ""
+
+#. Node: node3 / User Data Date && Time
+msgid "2026:01:29 11:33:27"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "Kantor Bupati Kota Lahat"
+msgstr ""
+
+#. Node: node5 / User Data Date && Time
+msgid "2026:01:29 11:32:55"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

@@ -1100,17 +1100,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>2.43</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>4.04</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>155.91</start>
           <minunit>pixels</minunit>
           <max>126</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -1125,15 +1125,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-07T11:36:42</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-05T10:17:21</capturedatetime>
         <latitude>-3.79338077</latitude>
         <longitude>103.53505381</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:01:29 15:22:02</datetime>
         <tags>panorama</tags>
+        <customnodeid>patung_bunda_maria</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1287,17 +1289,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>-2.04</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>1.92</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>144.13</start>
           <minunit>pixels</minunit>
           <max>126</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -1312,15 +1314,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-07T11:37:00</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-05T10:17:22</capturedatetime>
         <latitude>-3.79331951</latitude>
         <longitude>103.53499983</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:01:29 15:22:02</datetime>
         <tags>panorama</tags>
+        <customnodeid>pantung_santo_yusuf</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1727,17 +1731,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>-0.3</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>4.73</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>133.24</start>
           <minunit>pixels</minunit>
           <max>126</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -1752,15 +1756,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-07T11:36:18</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2019-03-18T07:24:36</capturedatetime>
         <latitude>-3.79336015</latitude>
         <longitude>103.53502751</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>3/18/2019 7:24 AM</datetime>
         <tags>panorama</tags>
+        <customnodeid>altar_peribadatan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1938,17 +1944,8 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpg.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
-        <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpg.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+#. Node: node9 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point03 / Title
+#. Node: node12 / Point Hotspot: Point02 / Title
+#. Node: node14 / Point Hotspot: Point03 / Title
+#. Node: node18 / Point Hotspot: Point01 / Title
+#. Node: node18 / Point Hotspot: Point02 / Title
+msgid "Tinggihari I"
+msgstr "Tinggihari I"
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "Batu Tigas"
+msgstr "Batu Tigas"
+
+#. Node: node1 / Point Hotspot: Point03 / Title
+msgid "Cuhup Panjang <br> (Est. 10 Menit)"
+msgstr "Cuhup Panjang <br> (Est. 10 Min)"
+
+#. Node: node1 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/cuhuppanjang"
+msgstr "https://lahat.govirtual.id/cuhuppanjang"
+
+#. Node: node1 / Point Hotspot: Point04 / Title
+msgid "Cuhup Senyawe <br> (Est. 60 Menit)"
+msgstr "Cuhup Senyawe <br> (Est. 60 Min)"
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/cuhupsenyawe"
+msgstr "https://lahat.govirtual.id/cuhupsenyawe"
+
+#. Node: node1 / Point Hotspot: Point05 / Title
+msgid "Cuhup Buluh <br> (Est. 45 Menit)"
+msgstr "Cuhup Buluh <br> (Est. 45 Min)"
+
+#. Node: node1 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/cuhupbuluh"
+msgstr "https://lahat.govirtual.id/cuhupbuluh"
+
+#. Node: node2 / User Data Date && Time
+msgid "1/28/2026 2:37 PM"
+msgstr "1/28/2026 2:37 PM"
+
+#. Node: node2 / Point Hotspot: Point03 / Title
+msgid "Situs Cagar Batu Aji"
+msgstr "Batu Aji Heritage Site"
+
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point03 / Title
+#. Node: node17 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr "Exit"
+
+#. Node: node4 / Point Hotspot: Point02 / Title
+msgid "Situs Tinggihari"
+msgstr "Tinggihari Site"
+
+#. Node: node5 / User Data Date && Time
+msgid "1/28/2026 2:40 PM"
+msgstr "1/28/2026 2:40 PM"
+
+#. Node: node5 / Point Hotspot: Point03 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+msgid "Patung Tinggi"
+msgstr "Tall Statue"
+
+#. Node: node6 / Point Hotspot: Point02 / Title
+msgid "4 Bolongan"
+msgstr "4 Holes"
+
+#. Node: node6 / Point Hotspot: Point03 / Title
+#. Node: node8 / Point Hotspot: Point01 / Title
+msgid "Batu Pendek"
+msgstr "Short Stone"
+
+#. Node: node8 / Point Hotspot: Point02 / Title
+#. Node: node10 / Point Hotspot: Point02 / Title
+#. Node: node12 / Point Hotspot: Point01 / Title
+msgid "Tinggihari II"
+msgstr "Tinggihari II"
+
+#. Node: node9 / Point Hotspot: Point02 / Title
+#. Node: node10 / Point Hotspot: Point01 / Title
+msgid "Arca Babi"
+msgstr "Pig Statue"
+
+#. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node12 / Point Hotspot: Point03 / Title
+#. Node: node13 / Point Hotspot: Point04 / Title
+#. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point03 / Title
+msgid "Tinggihari III"
+msgstr "Tinggihari III"
+
+#. Node: node13 / Point Hotspot: Point02 / Title
+#. Node: node13 / Point Hotspot: Point03 / Title
+#. Node: node14 / Point Hotspot: Point02 / Title
+#. Node: node15 / Point Hotspot: Point02 / Title
+#. Node: node16 / Point Hotspot: Point02 / Title
+msgid "Patung"
+msgstr "Statue"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr "Enter VR"
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr "Enter Fullscreen"
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr "Exit Fullscreen"

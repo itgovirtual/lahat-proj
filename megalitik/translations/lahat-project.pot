@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+#. Node: node9 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point03 / Title
+#. Node: node12 / Point Hotspot: Point02 / Title
+#. Node: node14 / Point Hotspot: Point03 / Title
+#. Node: node18 / Point Hotspot: Point01 / Title
+#. Node: node18 / Point Hotspot: Point02 / Title
+msgid "Tinggihari I"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "Batu Tigas"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / Title
+msgid "Cuhup Panjang <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/cuhuppanjang"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / Title
+msgid "Cuhup Senyawe <br> (Est. 60 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/cuhupsenyawe"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point05 / Title
+msgid "Cuhup Buluh <br> (Est. 45 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/cuhupbuluh"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "1/28/2026 2:37 PM"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point03 / Title
+msgid "Situs Cagar Batu Aji"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point03 / Title
+#. Node: node17 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node4 / Point Hotspot: Point02 / Title
+msgid "Situs Tinggihari"
+msgstr ""
+
+#. Node: node5 / User Data Date && Time
+msgid "1/28/2026 2:40 PM"
+msgstr ""
+
+#. Node: node5 / Point Hotspot: Point03 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+msgid "Patung Tinggi"
+msgstr ""
+
+#. Node: node6 / Point Hotspot: Point02 / Title
+msgid "4 Bolongan"
+msgstr ""
+
+#. Node: node6 / Point Hotspot: Point03 / Title
+#. Node: node8 / Point Hotspot: Point01 / Title
+msgid "Batu Pendek"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point02 / Title
+#. Node: node10 / Point Hotspot: Point02 / Title
+#. Node: node12 / Point Hotspot: Point01 / Title
+msgid "Tinggihari II"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point02 / Title
+#. Node: node10 / Point Hotspot: Point01 / Title
+msgid "Arca Babi"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node12 / Point Hotspot: Point03 / Title
+#. Node: node13 / Point Hotspot: Point04 / Title
+#. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point03 / Title
+msgid "Tinggihari III"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point02 / Title
+#. Node: node13 / Point Hotspot: Point03 / Title
+#. Node: node14 / Point Hotspot: Point02 / Title
+#. Node: node15 / Point Hotspot: Point02 / Title
+#. Node: node16 / Point Hotspot: Point02 / Title
+msgid "Patung"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

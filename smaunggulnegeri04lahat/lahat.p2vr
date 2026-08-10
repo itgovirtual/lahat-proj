@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node80</start>
     <panorama>
@@ -106,9 +106,10 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>Bendungan Lematang (Est. 15 Menit)</title>
+          <title>Bendungan Lematang &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/bendunganlematang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -134,9 +135,10 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>SMPN 1 Lahat (Est. 5 Menit)</title>
+          <title>SMPN 1 Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/smp01lahatselatan</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -162,16 +164,17 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>Gereja Paroki Santa Maria Lahat (Est. 10 Menit)</title>
+          <title>Gereja Paroki Santa Maria Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/gerejakatolikparokisantamaria</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/gereja-katolik-paroki-santa-maria.png</customimage>
-          <urlsafecustomimage>gereja-katolik-paroki-santa-maria-1.png</urlsafecustomimage>
+          <urlsafecustomimage>gereja-katolik-paroki-santa-maria.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
@@ -205,22 +208,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>0.06</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-3.19</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>126.58</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-10T16:27:55</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T10:53:59</capturedatetime>
         <latitude>-3.80831985</latitude>
         <longitude>103.53412850</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:01:38</datetime>
         <tags>sman04</tags>
+        <customnodeid>asrama</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1000,22 +1024,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-2.46</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-3.25</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>126.58</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-10T16:28:36</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T10:53:59</capturedatetime>
         <latitude>-3.80819360</latitude>
         <longitude>103.53423625</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:01:40</datetime>
         <tags>sman04</tags>
+        <customnodeid>masjid</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1384,11 +1429,11 @@
           <position>
             <pan>-358.45</pan>
             <tilt>-14.35</tilt>
-            <fov>20.1057</fov>
+            <fov>20.11</fov>
           </position>
           <next>
-            <pan>89</pan>
-            <tilt>-2.9</tilt>
+            <pan>-3.5</pan>
+            <tilt>-5.6</tilt>
             <fov>130</fov>
           </next>
           <customprops/>
@@ -1398,7 +1443,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node91}</url>
-          <target>89.0/-2.9/130.0</target>
+          <target>-3.5/-5.6/130.0</target>
           <skinid>hotspot_darat_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1704,22 +1749,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-2.55</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-2.2</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>149.17</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-10T16:32:41</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2026-02-02T14:59:14+07:00</capturedatetime>
+        <capturedatetime>2026-02-02T14:59:14</capturedatetime>
         <latitude>-3.80832873</latitude>
         <longitude>103.53444315</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2/2/2026 2:59 PM</datetime>
         <tags>sman04</tags>
+        <customnodeid>ruang_kelas</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1860,22 +1926,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-97.22</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-7.83</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>149.17</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-10T16:32:50</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T10:54:00</capturedatetime>
         <latitude>-3.808955</latitude>
         <longitude>103.534554</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:02:03</datetime>
         <tags>sman04</tags>
+        <customnodeid>ruang_komputer</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1950,21 +2037,43 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output-location/sman04/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/SMA Unggul Negeri 04 Lahat/index.html</filename>
           <values>
             <value id="cachebust">true</value>
             <value id="css"/>
@@ -1990,9 +2099,11 @@
         <hotspottext/>
         <hotspotstyle/>
         <webvr/>
-        <tilesize>0</tilesize>
-        <filename>output-location/sman04/pano.xml</filename>
+        <tilesize>3600</tilesize>
+        <filename>D:/Project Result/htdocs/Lahat/SMA Unggul Negeri 04 Lahat/pano.xml</filename>
         <skinfile>$d/semarang-skin.ggsk</skinfile>
+        <quality>50</quality>
+        <leveltilesize>1024</leveltilesize>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>

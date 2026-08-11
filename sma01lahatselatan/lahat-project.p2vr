@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
@@ -109,8 +109,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-207.35</pan>
-            <tilt>10.96</tilt>
+            <pan>-207.33</pan>
+            <tilt>8.01</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -121,16 +121,17 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>SMAN 4 Lahat (Est. 5 Menit)</title>
+          <title>SMAN 4 Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/smaunggulnegeri04lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
-          <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
+          <urlsafecustomimage>sma-unggul-negeri-04-lahat-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
@@ -149,44 +150,17 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>Bendungan Lematang (Est. 15 Menit)</title>
+          <title>Bendungan Lematang &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/bendunganlematang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/bendungan-lematang.png</customimage>
-          <urlsafecustomimage>bendungan-lematang.png</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-120.34</pan>
-            <tilt>11.74</tilt>
-            <fov>20</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point04</id>
-          <title>Petilasan Raden Patah (Est. 20 Menit)</title>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <skinid>box_ui_location_kategori</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/hotspotlocation/petilasan-raden-fatah.png</customimage>
-          <urlsafecustomimage>petilasan-raden-fatah.png</urlsafecustomimage>
+          <urlsafecustomimage>bendungan-lematang-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>1476</width>
           <height>1476</height>
@@ -864,22 +838,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-62.35</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-9.39</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>122.14</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T10:46:20</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-05T11:58:31</capturedatetime>
         <latitude>-3.810158</latitude>
         <longitude>103.534931</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:10:28</datetime>
         <tags>panorama</tags>
+        <customnodeid>perpustakaan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -908,6 +903,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/door.png</customimage>
+          <urlsafecustomimage>door.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>50</width>
           <height>50</height>
@@ -1265,22 +1261,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-1.27</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-12.42</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>132.12</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T10:46:41</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-05T11:58:31</capturedatetime>
         <latitude>-3.810212</latitude>
         <longitude>103.534767</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:10:28</datetime>
         <tags>panorama</tags>
+        <customnodeid>ruang_kelas</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1421,22 +1438,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-73.15</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-13.83</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>142.92</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T10:47:58</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-05T11:58:31</capturedatetime>
         <latitude>-3.810212</latitude>
         <longitude>103.534496</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:10:33</datetime>
         <tags>panorama</tags>
+        <customnodeid>ruang_komputer</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1577,22 +1615,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-86.42</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-17.43</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>142.92</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T10:48:55</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-05T11:58:31</capturedatetime>
         <latitude>-3.809740</latitude>
         <longitude>103.534462</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:10:41</datetime>
         <tags>panorama</tags>
+        <customnodeid>ruang_uks</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1667,12 +1726,29 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmpg.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmphu.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans/>
@@ -1681,7 +1757,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/smpn01/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/SMP 01 Lahat Selatan/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -1705,7 +1781,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>C:/xampp/htdocs/output/smpn01/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/SMP 01 Lahat Selatan/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node80</start>
     <panorama>
@@ -18,7 +18,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/drone-sdn19percontohan.jpg</filename>
+        <filename>panorama/drone-sdn19percontohan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -94,8 +94,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-87.94</pan>
-            <tilt>12.64</tilt>
+            <pan>-93.16</pan>
+            <tilt>9.52</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -106,9 +106,10 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>Masjid Agung Lahat (Est. 10 Menit)</title>
+          <title>Masjid Agung Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/masjidagunglahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -134,9 +135,10 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>SMPN 05 Lahat (Est. 10 Menit)</title>
+          <title>SMPN 05 Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/smpn05lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -150,8 +152,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-134.81</pan>
-            <tilt>12.89</tilt>
+            <pan>-149.31</pan>
+            <tilt>11.66</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -162,9 +164,10 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>RSUD Lahatt (Est. 12 Menit)</title>
+          <title>RSUD Lahat &lt;br> (Est. 12 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/rsudlahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -199,7 +202,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-halamandepan.jpg</filename>
+        <filename>panorama/sdn19-halamandepan.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -296,10 +299,13 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-halamantengah.jpg</filename>
+        <filename>panorama/sdn19-halamantengah.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
+        <startonload>0</startonload>
+        <videofile>360 video/Sdn 19 Percontohan.webm</videofile>
+        <urlsafevideofile>Sdn 19 Percontohan.webm</urlsafevideofile>
       </input>
       <viewingparameter>
         <pan/>
@@ -473,8 +479,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-11.82</pan>
-            <tilt>-5.37</tilt>
+            <pan>-12.11</pan>
+            <tilt>-5.36</tilt>
             <fov>13.37</fov>
           </position>
           <next>
@@ -501,6 +507,36 @@
           <width>288</width>
           <height>288</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-48.41</pan>
+            <tilt>-11.03</tilt>
+            <fov>18.7</fov>
+          </position>
+          <next>
+            <pan>-176.2</pan>
+            <tilt>-6.8</tilt>
+            <fov>117</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point07</id>
+          <title>Lapangan Sekolah</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node82}</url>
+          <target>-176.2/-6.8/117.0</target>
+          <skinid>hotspot-360-out</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/OPSI METERPORT-126.png</customimage>
+          <urlsafecustomimage>OPSI METERPORT-126.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>101</width>
+          <height>101</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -524,7 +560,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorong1.jpg</filename>
+        <filename>panorama/sdn19-lorong1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -711,7 +747,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorong1-ruangkelas.jpg</filename>
+        <filename>panorama/sdn19-lorong1-ruangkelas.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -789,7 +825,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorong2.jpg</filename>
+        <filename>panorama/sdn19-lorong2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -987,7 +1023,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorong2-ruangkelas1.jpg</filename>
+        <filename>panorama/sdn19-lorong2-ruangkelas1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1083,7 +1119,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorong2-ruangkelas2.jpg</filename>
+        <filename>panorama/sdn19-lorong2-ruangkelas2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1163,7 +1199,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorong2-ruangkelas3.jpg</filename>
+        <filename>panorama/sdn19-lorong2-ruangkelas3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1241,7 +1277,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorong2-ruangkelas4.jpg</filename>
+        <filename>panorama/sdn19-lorong2-ruangkelas4.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1319,7 +1355,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-lorongprestasi.jpg</filename>
+        <filename>panorama/sdn19-lorongprestasi.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1446,7 +1482,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-mushola-discover.jpg</filename>
+        <filename>panorama/sdn19-mushola-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1543,7 +1579,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-ruangguru.jpg</filename>
+        <filename>panorama/sdn19-ruangguru.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1640,7 +1676,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-ruangkepsek-kantor-discover.jpg</filename>
+        <filename>panorama/sdn19-ruangkepsek-kantor-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1723,7 +1759,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-ruangkepsek-lounge.jpg</filename>
+        <filename>panorama/sdn19-ruangkepsek-lounge.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1836,7 +1872,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/sdn19/sdn19-uks-discover.jpg</filename>
+        <filename>panorama/sdn19-uks-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1932,12 +1968,31 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmpg.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmphu.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -1953,7 +2008,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/sdn19/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/SD Negeri 19 Percontohan Lahat/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -1980,7 +2035,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>C:/xampp/htdocs/output/sdn19/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/SD Negeri 19 Percontohan Lahat/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>

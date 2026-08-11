@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node80 / Point Hotspot: Point01 / Title
+msgid "SDN 19 Lahat"
+msgstr "SDN 19 Lahat"
+
+#. Node: node80 / Point Hotspot: Point02 / Title
+msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
+msgstr "Lahat Grand Mosque <br> (Est. 10 Min)"
+
+#. Node: node80 / Point Hotspot: Point02 / URL
+msgid "https://lahat.govirtual.id/masjidagunglahat"
+msgstr "https://lahat.govirtual.id/masjidagunglahat"
+
+#. Node: node80 / Point Hotspot: Point03 / Title
+msgid "SMPN 05 Lahat <br> (Est. 10 Menit)"
+msgstr "SMPN 05 Lahat <br> (Est. 10 Min)"
+
+#. Node: node80 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/smpn05lahat"
+msgstr "https://lahat.govirtual.id/smpn05lahat"
+
+#. Node: node80 / Point Hotspot: Point04 / Title
+msgid "RSUD Lahat <br> (Est. 12 Menit)"
+msgstr "Lahat Regional General Hospital <br> (Est. 12 Min)"
+
+#. Node: node80 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/rsudlahat"
+msgstr "https://lahat.govirtual.id/rsudlahat"
+
+#. Node: node81 / User Data Date && Time
+msgid "2026:02:02 17:43:49"
+msgstr "2026:02:02 17:43:49"
+
+#. Node: node81 / Point Hotspot: Point01 / Title
+#. Node: node82 / Point Hotspot: Point01 / Title
+msgid "Lobi Sekolah"
+msgstr "School Lobby"
+
+#. Node: node82 / User Data Date && Time
+msgid "2026:02:02 17:44:04"
+msgstr "2026:02:02 17:44:04"
+
+#. Node: node82 / Point Hotspot: Point02 / Title
+#. Node: node94 / Point Hotspot: Point01 / Title
+#. Node: node95 / Point Hotspot: Point02 / Title
+msgid "Ruang Kepala Sekolah"
+msgstr "Principal's Office"
+
+#. Node: node82 / Point Hotspot: Point03 / Title
+msgid "Ruang Guru"
+msgstr "Teachers' Room"
+
+#. Node: node82 / Point Hotspot: Point04 / Title
+msgid "Mushola"
+msgstr "Prayer Room"
+
+#. Node: node82 / Point Hotspot: Point05 / Title
+#. Node: node84 / Point Hotspot: Point02 / Title
+#. Node: node86 / Point Hotspot: Point03 / Title
+msgid "Lorong Sekolah"
+msgstr "School Hallway"
+
+#. Node: node82 / Point Hotspot: Point06 / Title
+msgid "360 Video Experience"
+msgstr "360 Video Experience"
+
+#. Node: node82 / Point Hotspot: Point07 / Title
+#. Node: node84 / Point Hotspot: Point01 / Title
+#. Node: node91 / Point Hotspot: Point01 / Title
+msgid "Lapangan Sekolah"
+msgstr "School Field"
+
+#. Node: node84 / User Data Date && Time
+#. Node: node86 / User Data Date && Time
+msgid "2026:02:02 17:44:20"
+msgstr "2026:02:02 17:44:20"
+
+#. Node: node84 / Point Hotspot: Point03 / Title
+#. Node: node86 / Point Hotspot: Point01 / Title
+#. Node: node86 / Point Hotspot: Point02 / Title
+#. Node: node86 / Point Hotspot: Point04 / Title
+#. Node: node86 / Point Hotspot: Point05 / Title
+msgid "Ruang Kelas"
+msgstr "Classroom"
+
+#. Node: node84 / Point Hotspot: Point04 / Title
+msgid "UKS"
+msgstr "School Health Unit"
+
+#. Node: node85 / User Data Date && Time
+#. Node: node88 / User Data Date && Time
+msgid "2/1/2026 8:42 PM"
+msgstr "2/1/2026 8:42 PM"
+
+#. Node: node85 / Point Hotspot: Point01 / Title
+#. Node: node87 / Point Hotspot: Point01 / Title
+#. Node: node88 / Point Hotspot: Point01 / Title
+#. Node: node89 / Point Hotspot: Point01 / Title
+#. Node: node90 / Point Hotspot: Point01 / Title
+#. Node: node92 / Point Hotspot: Point01 / Title
+#. Node: node93 / Point Hotspot: Point01 / Title
+#. Node: node95 / Point Hotspot: Point01 / Title
+#. Node: node96 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr "Exit"
+
+#. Node: node88 / User Data Author
+msgid "Govirtual"
+msgstr "Govirtual"
+
+#. Node: node88 / User Data Copyright
+msgid "govirtual"
+msgstr "govirtual"
+
+#. Node: node89 / User Data Date && Time
+#. Node: node90 / User Data Date && Time
+msgid "2/1/2026 8:43 PM"
+msgstr "2/1/2026 8:43 PM"
+
+#. Node: node91 / User Data Date && Time
+msgid "2026:02:02 17:43:54"
+msgstr "2026:02:02 17:43:54"
+
+#. Node: node91 / Point Hotspot: Point02 / Title
+msgid "Pintu Masuk"
+msgstr "Entrance"
+
+#. Node: node92 / User Data Date && Time
+msgid "2026:02:02 17:43:23"
+msgstr "2026:02:02 17:43:23"
+
+#. Node: node93 / User Data Date && Time
+msgid "2026:02:02 17:43:38"
+msgstr "2026:02:02 17:43:38"
+
+#. Node: node94 / User Data Date && Time
+msgid "9/8/2025 3:06 PM"
+msgstr "9/8/2025 3:06 PM"
+
+#. Node: node95 / User Data Date && Time
+msgid "9/8/2025 3:09 PM"
+msgstr "9/8/2025 3:09 PM"
+
+#. Node: node96 / User Data Date && Time
+msgid "2026:02:02 17:43:51"
+msgstr "2026:02:02 17:43:51"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr "Enter VR"
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr "Enter Fullscreen"
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr "Exit Fullscreen"

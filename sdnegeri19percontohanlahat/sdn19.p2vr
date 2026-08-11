@@ -1489,18 +1489,18 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>-3.62</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-16.28</start>
           <min>-70</min>
           <max>70</max>
         </tilt>
         <fov>
           <max>126</max>
-          <start>100</start>
+          <start>126.6</start>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
@@ -1514,15 +1514,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T10:35:04</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T10:31:03</capturedatetime>
         <latitude>-3.778658</latitude>
         <longitude>103.546746</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 17:43:23</datetime>
         <tags>sdn19</tags>
+        <customnodeid>mushola</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1683,26 +1685,42 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>-6.28</start>
+          <min>0</min>
+          <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-20.48</start>
+          <min>-90</min>
+          <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>136.95</start>
           <max>126</max>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T10:35:22</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2025-09-08T15:06:17+07:00</capturedatetime>
+        <capturedatetime>2025-09-08T15:06:17</capturedatetime>
         <latitude>-3.77842028</latitude>
         <longitude>103.54701598</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>9/8/2025 3:06 PM</datetime>
         <tags>sdn19</tags>
+        <customnodeid>ruang_kepsek</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1878,22 +1896,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-4.52</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-14.15</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>136.95</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T10:35:42</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T10:31:03</capturedatetime>
         <latitude>-3.77854217</latitude>
         <longitude>103.54704414</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 17:43:51</datetime>
         <tags>sdn19</tags>
+        <customnodeid>uks</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1981,18 +2020,8 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpg.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
-        <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmpg.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmphu.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>

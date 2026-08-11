@@ -4,10 +4,14 @@ msgstr ""
 "X-Source-Language: id-ID"
 
 #. Node: node1 / Point Hotspot: Point01 / Title
-#. Node: node1 / Point Hotspot: Point02 / Title
 #. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node6 / Point Hotspot: Point01 / Title
 msgid "Jembatan"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+msgid "Patung Gajah"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point03 / Title
@@ -17,15 +21,27 @@ msgid "Taman Megalit"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point04 / Title
-msgid "SD Negeri 19 Percontohan (Est. 10 Menit)"
+msgid "SD Negeri 19 Percontohan <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/sdn19percontohan"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point05 / Title
-msgid "SMP Negeri 5 Lahat (Est. 12 Menit)"
+msgid "SMP Negeri 5 Lahat <br> (Est. 12 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/smpn5lahat"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point06 / Title
-msgid "Masjid Agung Lahat (Est. 10 Menit)"
+msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point06 / URL
+msgid "https://lahat.govirtual.id/masjidagunglahat"
 msgstr ""
 
 #. Node: node2 / User Data Date && Time
@@ -61,10 +77,6 @@ msgstr ""
 
 #. Node: node7 / User Data Date && Time
 msgid "2026:02:02 14:00:26"
-msgstr ""
-
-#. Node: node7 / Point Hotspot: Point01 / Title
-msgid "Patung Gajah"
 msgstr ""
 
 #. Context Menu Default Entry

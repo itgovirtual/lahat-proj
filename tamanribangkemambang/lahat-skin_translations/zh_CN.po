@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Source-Language: id-ID\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Skin Element Text: Assistant Text / Text
 msgid "MORE"
@@ -25,10 +25,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
-
-#. Skin Element Text: E / Text
-msgid "E"
-msgstr ""
+"<iframe src=\"../webview/kategori.php?lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
@@ -41,6 +41,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
@@ -50,6 +54,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/informasi.php?info=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
@@ -59,6 +67,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/menu.php?menu=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
 msgid ""
@@ -67,10 +79,14 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/publicservice.php?&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Informasi-text / Text
 msgid "Informasi\n"
-msgstr "信息\n"
+msgstr ""
 
 #. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
 msgid ""
@@ -80,32 +96,23 @@ msgid ""
 "bottom\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px; padding-"
+"bottom\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Jelajah-text / Text
 #. Skin Element Text: Text Discover / Text
 msgid "Jelajah"
-msgstr "发现"
+msgstr "探索"
 
 #. Skin Element Text: Menu Tezt / Text
 msgid "MENU"
 msgstr "菜单"
 
-#. Skin Element Text: N / Text
-msgid "N"
-msgstr ""
-
 #. Skin Element Text: NO / Text
 msgid "NO"
-msgstr ""
-
-#. Skin Element Text: S / Text
-msgid "S"
-msgstr ""
-
-#. Skin Element Text: Text 2 / Text
-msgid ""
-"<iframe src=\"cuaca.html\" style=\"width:200px; height:80px; border:none; "
-"background:transparent;\"></iframe>"
 msgstr ""
 
 #. Skin Element Text: Text 4_1 / Text
@@ -131,15 +138,14 @@ msgstr "公共服务"
 #. Skin Element Text: Title - Kab / Text
 #. Skin Element Text: Title - Kab-mobile / Text
 msgid "Kabupaten Lahat"
-msgstr ""
+msgstr "拉哈特县"
 
 #. Skin Element Text: Title - Lokasi / Text
-#. Skin Element Text: Title - Lokasi-mobile / Text
-msgid "Ribang Kemambang"
+msgid "Bendungan Lematang"
 msgstr ""
 
-#. Skin Element Text: W / Text
-msgid "W"
+#. Skin Element Text: Title - Lokasi-mobile / Text
+msgid "SD Negeri 19 Percontohan Lahat"
 msgstr ""
 
 #. Skin Element Text: YES / Text
@@ -161,12 +167,8 @@ msgstr ""
 
 #. Skin Element Text: text welcome / Text
 msgid ""
-"Selamat Datang di Ribang Kemambang, nikmati pesona keindahan alam dengan "
-"hamparan bunga teratai, air yang tenang, dan suasana yang menyejukkan. "
-"Ribang Kemambang hadir sebagai tempat wisata yang memadukan keasrian alam "
-"dan sentuhan budaya. Rasakan ketenangannya, abadikan keindahannya, dan mari "
-"bersama menjaga kelestarian alam untuk generasi mendatang."
+"PAKAI WELCOME TEXT YG DI Internet AJA https://lahat.govirtual.id/ di inspect "
+"element, dan Audionya juga download di inspect element pake tab network bisa "
+"di download, kalo ga bisa tanya Danny, klo misal mau ganti teks tanya "
+"dheven, kira kira kata kata nya masih pake yg lama atau bikin baru"
 msgstr ""
-"欢迎来到林邦克芒邦。欣赏自然之美的魅力，这里有盛开的莲花、宁静的水面和清新的"
-"氛围。林邦克芒邦作为一个旅游胜地，将大自然的纯净与文化的气息融为一体。感受它"
-"的宁静，记录它的美丽，让我们共同守护自然，为子孙后代留下宝贵财富。"

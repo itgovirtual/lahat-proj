@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -11,14 +10,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Source-Language: id-ID\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Node: node1 / Point Hotspot: Point01 / Title
-#. Node: node1 / Point Hotspot: Point02 / Title
 #. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node6 / Point Hotspot: Point01 / Title
 msgid "Jembatan"
 msgstr "Bridge"
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+msgid "Patung Gajah"
+msgstr "Elephant Statue"
 
 #. Node: node1 / Point Hotspot: Point03 / Title
 #. Node: node4 / Point Hotspot: Point02 / Title
@@ -27,25 +30,37 @@ msgid "Taman Megalit"
 msgstr "Megalith Park"
 
 #. Node: node1 / Point Hotspot: Point04 / Title
-msgid "SD Negeri 19 Percontohan (Est. 10 Menit)"
-msgstr "SD Negeri 19 Pilot (Est. 10 Minutes)"
+msgid "SD Negeri 19 Percontohan <br> (Est. 10 Menit)"
+msgstr "SD Negeri 19 Percontohan <br> (Est. 10 Min)"
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/sdn19percontohan"
+msgstr "https://lahat.govirtual.id/sdn19percontohan"
 
 #. Node: node1 / Point Hotspot: Point05 / Title
-msgid "SMP Negeri 5 Lahat (Est. 12 Menit)"
-msgstr "Lahat 5 Public Middle School (Est. 12 Minutes)"
+msgid "SMP Negeri 5 Lahat <br> (Est. 12 Menit)"
+msgstr "SMP Negeri 5 Lahat <br> (Est. 12 Min)"
+
+#. Node: node1 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/smpn5lahat"
+msgstr "https://lahat.govirtual.id/smpn5lahat"
 
 #. Node: node1 / Point Hotspot: Point06 / Title
-msgid "Masjid Agung Lahat (Est. 10 Menit)"
-msgstr "Lahat Grand Mosque (Est. 10 Minutes)"
+msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
+msgstr "Lahat Grand Mosque <br> (Est. 10 Min)"
+
+#. Node: node1 / Point Hotspot: Point06 / URL
+msgid "https://lahat.govirtual.id/masjidagunglahat"
+msgstr "https://lahat.govirtual.id/masjidagunglahat"
 
 #. Node: node2 / User Data Date && Time
 msgid "2026:02:02 14:00:27"
-msgstr ""
+msgstr "2026:02:02 14:00:27"
 
 #. Node: node3 / User Data Date && Time
 #. Node: node5 / User Data Date && Time
 msgid "2026:02:02 14:00:28"
-msgstr ""
+msgstr "2026:02:02 14:00:28"
 
 #. Node: node3 / Point Hotspot: Point01 / Title
 #. Node: node4 / Point Hotspot: Point01 / Title
@@ -58,33 +73,29 @@ msgstr "Megalithic Museum"
 
 #. Node: node4 / User Data Date && Time
 msgid "2026:02:02 14:00:43"
-msgstr ""
+msgstr "2026:02:02 14:00:43"
 
 #. Node: node6 / User Data Date && Time
 msgid "2026:02:02 14:00:51"
-msgstr ""
+msgstr "2026:02:02 14:00:51"
 
 #. Node: node6 / Point Hotspot: Point02 / Title
 #. Node: node7 / Point Hotspot: Point02 / Title
 msgid "Pendopo"
-msgstr "Hall"
+msgstr "Pavilion"
 
 #. Node: node7 / User Data Date && Time
 msgid "2026:02:02 14:00:26"
-msgstr ""
-
-#. Node: node7 / Point Hotspot: Point01 / Title
-msgid "Patung Gajah"
-msgstr "Elephant Statue"
+msgstr "2026:02:02 14:00:26"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
-msgstr ""
+msgstr "Enter VR"
 
 #. Context Menu Default Entry
 msgid "Enter Fullscreen"
-msgstr ""
+msgstr "Enter Fullscreen"
 
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
-msgstr ""
+msgstr "Exit Fullscreen"

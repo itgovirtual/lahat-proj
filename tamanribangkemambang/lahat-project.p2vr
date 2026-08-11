@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rimbang Kemambang/drone-Rimbang-kemambang.jpg.jpeg</filename>
+        <filename>panorama/drone-Rimbang-kemambang.jpg.jpeg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -181,7 +181,7 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>SD Negeri 19 Percontohan (Est. 10 Menit)</title>
+          <title>SD Negeri 19 Percontohan &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/sdn19percontohan</url>
@@ -199,8 +199,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-75.19</pan>
-            <tilt>9.41</tilt>
+            <pan>-71.63</pan>
+            <tilt>7.35</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -211,7 +211,7 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
-          <title>SMP Negeri 5 Lahat (Est. 12 Menit)</title>
+          <title>SMP Negeri 5 Lahat &lt;br> (Est. 12 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/smpn5lahat</url>
@@ -241,9 +241,10 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
-          <title>Masjid Agung Lahat (Est. 10 Menit)</title>
+          <title>Masjid Agung Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/masjidagunglahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -280,26 +281,49 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rimbang Kemambang/rimbangkemambang-museummegalitik-discover.jpg</filename>
+        <filename>panorama/rimbangkemambang-museummegalitik-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>-6.19</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>16.58</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>148.54</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T13:45:24</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-04T09:37:43</capturedatetime>
         <latitude>-3.764078</latitude>
         <longitude>103.553763</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 14:00:27</datetime>
         <tags>RimbangKemambang</tags>
+        <customnodeid>museum_megalit</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -356,7 +380,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rimbang Kemambang/rimbangkemambang-spot1.jpg</filename>
+        <filename>panorama/rimbangkemambang-spot1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -483,7 +507,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rimbang Kemambang/rimbangkemambang-spot2.jpg</filename>
+        <filename>panorama/rimbangkemambang-spot2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -610,7 +634,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rimbang Kemambang/rimbangkemambang-spot3.jpg</filename>
+        <filename>panorama/rimbangkemambang-spot3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -686,7 +710,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rimbang Kemambang/rimbangkemambang-spot5.jpg</filename>
+        <filename>panorama/rimbangkemambang-spot5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -813,24 +837,24 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rimbang Kemambang/rimbangkemambang-tamanmegalit-discover.jpg</filename>
+        <filename>panorama/rimbangkemambang-tamanmegalit-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>-118.41</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-5.1</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>148.54</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -845,15 +869,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T13:45:09</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-04T09:37:43</capturedatetime>
         <latitude>-3.76303347</latitude>
         <longitude>103.55401559</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 14:00:26</datetime>
         <tags>RimbangKemambang</tags>
+        <customnodeid>taman_megalit</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -958,9 +984,9 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
-        <value id="ar.po">en</value>
+        <value id="ar.po">ar</value>
         <value id="en.po">en</value>
-        <value id="zh_CN.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
@@ -971,8 +997,16 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -988,7 +1022,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/ribangkemambang/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/Taman Ribang Kemambang/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -1013,7 +1047,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>C:/xampp/htdocs/output/ribangkemambang/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/Taman Ribang Kemambang/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>

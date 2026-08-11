@@ -145,6 +145,9 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
+        <startonload>0</startonload>
+        <videofile>video 360/Curug Buluh - Sungai.webm</videofile>
+        <urlsafevideofile>Curug Buluh - Sungai.webm</urlsafevideofile>
       </input>
       <viewingparameter>
         <pan/>
@@ -217,10 +220,40 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotvideo/cuhup-buluh.png</customimage>
-          <urlsafecustomimage>cuhup-buluh.png</urlsafecustomimage>
+          <urlsafecustomimage>cuhup-buluh-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>288</width>
-          <height>288</height>
+          <width>250</width>
+          <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-172.98</pan>
+            <tilt>3.4</tilt>
+            <fov>14</fov>
+          </position>
+          <next>
+            <pan>-24.1</pan>
+            <tilt>-5.1</tilt>
+            <fov>161.6</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Sungai</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
+          <target>-24.1/-5.1/161.6</target>
+          <skinid>hotspot-360-out</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -328,34 +361,6 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>-0.36</pan>
-            <tilt>1.46</tilt>
-            <fov>13</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point03</id>
-          <title>360 Video Experience</title>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <skinid>360_video_experience_project</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/hotspotvideo/cuhup-buluh.png</customimage>
-          <urlsafecustomimage>cuhup-buluh-1.png</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>250</width>
-          <height>250</height>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -462,17 +467,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-2.87153</start>
+          <start>-0.56</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-13.4207</start>
+          <start>-5.8</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>135.302</start>
+          <start>117.02</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -487,16 +492,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2026-08-03T14:22:23</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-08-11T14:00:52</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-04T10:33:01</capturedatetime>
         <latitude>-3.94182821</latitude>
         <longitude>103.45681715</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:01:28 16:22:26</datetime>
         <tags>CurugBuluh</tags>
+        <customnodeid>cuhup_buluh</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -630,12 +636,27 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -651,7 +672,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/curugbuluh/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/Cuhup Buluh/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -676,7 +697,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>2922</tilesize>
-        <filename>C:/xampp/htdocs/output/curugbuluh/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/Cuhup Buluh/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>

@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node80 / User Data Title
+msgid "default"
+msgstr ""
+
+#. Node: node80 / User Data Date && Time
+msgid "8/15/2025 9:25 AM"
+msgstr ""
+
+#. Node: node80 / Point Hotspot: Point01 / Title
+msgid "SMPN 05 Lahat"
+msgstr ""
+
+#. Node: node80 / Point Hotspot: Point02 / Title
+msgid "Taman Rimbang Kemambang <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node80 / Point Hotspot: Point02 / URL
+msgid "https://lahat.govirtual.id/tamanribangkemambang"
+msgstr ""
+
+#. Node: node80 / Point Hotspot: Point03 / Title
+msgid "SD Negeri 19 Percontohan <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node80 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/sdnegeri19percontohanlahat"
+msgstr ""
+
+#. Node: node80 / Point Hotspot: Point04 / Title
+msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node80 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/masjidagunglahat"
+msgstr ""
+
+#. Node: node81 / Point Hotspot: Point02 / Title
+#. Node: node84 / Point Hotspot: Point02 / Title
+#. Node: node85 / Point Hotspot: Point01 / Title
+#. Node: node87 / Point Hotspot: Point01 / Title
+#. Node: node88 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node82 / Point Hotspot: Point02 / Title
+msgid "Lapangan Sekolah"
+msgstr ""
+
+#. Node: node83 / Point Hotspot: Point01 / Title
+msgid "Gerbang Masuk"
+msgstr ""
+
+#. Node: node83 / Point Hotspot: Point02 / Title
+msgid "Masjid"
+msgstr ""
+
+#. Node: node83 / Point Hotspot: Point03 / Title
+msgid "Ruang Kepala Sekolah"
+msgstr ""
+
+#. Node: node83 / Point Hotspot: Point04 / Title
+msgid "Aula"
+msgstr ""
+
+#. Node: node83 / Point Hotspot: Point06 / Title
+msgid "Perpustakaan"
+msgstr ""
+
+#. Node: node83 / Point Hotspot: Point07 / Title
+msgid "Lorong Sekolah"
+msgstr ""
+
+#. Node: node84 / User Data Date && Time
+msgid "1/28/2026 4:01 PM"
+msgstr ""
+
+#. Node: node87 / User Data Date && Time
+msgid "1/28/2026 4:00 PM"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

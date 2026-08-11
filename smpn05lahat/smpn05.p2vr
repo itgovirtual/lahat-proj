@@ -18,7 +18,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/drone-smpn05-main.jpg</filename>
+        <filename>panorama/drone-smpn05-main.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -108,9 +108,10 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>Taman Rimbang Kemambang (Est. 10 Menit)</title>
+          <title>Taman Rimbang Kemambang &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/tamanribangkemambang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -136,9 +137,10 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>SD Negeri 19 Percontohan (Est. 10 Menit)</title>
+          <title>SD Negeri 19 Percontohan &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/sdnegeri19percontohanlahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -164,9 +166,10 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
-          <title>Masjid Agung Lahat (Est. 10 Menit)</title>
+          <title>Masjid Agung Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/masjidagunglahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -201,27 +204,48 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/smpn05-aula-discover.jpg</filename>
+        <filename>panorama/smpn05-aula-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-0.36</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-10.1</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>133.87</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T11:38:22</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T15:38:39</capturedatetime>
         <latitude>-3.785774</latitude>
         <longitude>103.557019</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <tags>smpn05</tags>
+        <customnodeid>aula_sekolah</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -305,7 +329,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/smpn05-gerbang.jpg</filename>
+        <filename>panorama/smpn05-gerbang.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -409,7 +433,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/smpn05-halamanutama.jpg</filename>
+        <filename>panorama/smpn05-halamanutama.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -655,7 +679,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/smpn05-lorong.jpg</filename>
+        <filename>panorama/smpn05-lorong.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -760,27 +784,48 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/smpn05-masjid1-discover.jpg</filename>
+        <filename>panorama/smpn05-masjid1-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-39.44</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-20.89</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>133.87</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T11:38:40</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T15:38:39</capturedatetime>
         <latitude>-3.785664</latitude>
         <longitude>103.557711</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <tags>smpn05</tags>
+        <customnodeid>area_masjid</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -837,28 +882,49 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/smpn05-perpustakaan-discover.jpg</filename>
+        <filename>panorama/smpn05-perpustakaan-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-57.61</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-19.36</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>133.87</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T11:39:03</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2026-01-28T16:00:19+07:00</capturedatetime>
+        <capturedatetime>2026-01-28T16:00:19</capturedatetime>
         <latitude>-3.785967</latitude>
         <longitude>103.557067</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>1/28/2026 4:00 PM</datetime>
         <tags>smpn05</tags>
+        <customnodeid>perpustakaan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -915,27 +981,48 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/smpn05/smpn05-ruangkepsek-discover.jpg</filename>
+        <filename>panorama/smpn05-ruangkepsek-discover.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-33.12</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-14.99</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>97.77</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-11T11:39:36</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T15:38:39</capturedatetime>
         <latitude>-3.785945</latitude>
         <longitude>103.557354</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <tags>smpn05</tags>
+        <customnodeid>ruang_kepsek_smpn5</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1010,24 +1097,46 @@
       <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
+        <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/smpn05/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/SMPN 05 Lahat/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1051,7 +1160,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>C:/xampp/htdocs/output/smpn05/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/SMPN 05 Lahat/pano.xml</filename>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
         <previewresolution>8</previewresolution>
         <quality>50</quality>

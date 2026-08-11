@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node80 / User Data Title
+msgid "default"
+msgstr "الافتراضي"
+
+#. Node: node80 / User Data Date && Time
+msgid "8/15/2025 9:25 AM"
+msgstr "8/15/2025 9:25 AM"
+
+#. Node: node80 / Point Hotspot: Point01 / Title
+msgid "SMPN 05 Lahat"
+msgstr "SMPN 05 لاهات"
+
+#. Node: node80 / Point Hotspot: Point02 / Title
+msgid "Taman Rimbang Kemambang <br> (Est. 10 Menit)"
+msgstr "حديقة ريمبانغ كيمامبانغ <br> (10 دقائق تقريبًا)"
+
+#. Node: node80 / Point Hotspot: Point02 / URL
+msgid "https://lahat.govirtual.id/tamanribangkemambang"
+msgstr "https://lahat.govirtual.id/tamanribangkemambang"
+
+#. Node: node80 / Point Hotspot: Point03 / Title
+msgid "SD Negeri 19 Percontohan <br> (Est. 10 Menit)"
+msgstr "SD Negeri 19 Percontohan <br> (10 دقائق تقريبًا)"
+
+#. Node: node80 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/sdnegeri19percontohanlahat"
+msgstr "https://lahat.govirtual.id/sdnegeri19percontohanlahat"
+
+#. Node: node80 / Point Hotspot: Point04 / Title
+msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
+msgstr "مسجد لاهات الكبير <br> (10 دقائق تقريبًا)"
+
+#. Node: node80 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/masjidagunglahat"
+msgstr "https://lahat.govirtual.id/masjidagunglahat"
+
+#. Node: node81 / Point Hotspot: Point02 / Title
+#. Node: node84 / Point Hotspot: Point02 / Title
+#. Node: node85 / Point Hotspot: Point01 / Title
+#. Node: node87 / Point Hotspot: Point01 / Title
+#. Node: node88 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr "الخروج"
+
+#. Node: node82 / Point Hotspot: Point02 / Title
+msgid "Lapangan Sekolah"
+msgstr "ساحة المدرسة"
+
+#. Node: node83 / Point Hotspot: Point01 / Title
+msgid "Gerbang Masuk"
+msgstr "بوابة الدخول"
+
+#. Node: node83 / Point Hotspot: Point02 / Title
+msgid "Masjid"
+msgstr "مسجد"
+
+#. Node: node83 / Point Hotspot: Point03 / Title
+msgid "Ruang Kepala Sekolah"
+msgstr "غرفة مدير المدرسة"
+
+#. Node: node83 / Point Hotspot: Point04 / Title
+msgid "Aula"
+msgstr "القاعة"
+
+#. Node: node83 / Point Hotspot: Point06 / Title
+msgid "Perpustakaan"
+msgstr "المكتبة"
+
+#. Node: node83 / Point Hotspot: Point07 / Title
+msgid "Lorong Sekolah"
+msgstr "ممر المدرسة"
+
+#. Node: node84 / User Data Date && Time
+msgid "1/28/2026 4:01 PM"
+msgstr "1/28/2026 4:01 PM"
+
+#. Node: node87 / User Data Date && Time
+msgid "1/28/2026 4:00 PM"
+msgstr "1/28/2026 4:00 PM"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr "دخول الواقع الافتراضي"
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr "ملء الشاشة"
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr "الخروج من ملء الشاشة"

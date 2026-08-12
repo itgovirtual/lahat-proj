@@ -1,0 +1,142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node1 / User Data Date && Time
+msgid "2026:01:29 14:42:26"
+msgstr ""
+
+#. Node: node1 / User Data Custom Node ID
+msgid "gerbang_masuk"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+#. Node: node9 / Point Hotspot: Point01 / Title
+#. Node: node10 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node12 / Point Hotspot: Point01 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+msgid "Cuhup Senyawe"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "2026:01:29 14:42:24"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node3 / Point Hotspot: Point02 / Title
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node5 / Point Hotspot: Point02 / Title
+#. Node: node6 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point02 / Title
+#. Node: node8 / Point Hotspot: Point02 / Title
+#. Node: node9 / Point Hotspot: Point02 / Title
+msgid "Trekking"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point02 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+#. Node: node10 / Point Hotspot: Point02 / Title
+#. Node: node11 / Point Hotspot: Point03 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node3 / User Data Date && Time
+#. Node: node4 / User Data Date && Time
+msgid "2026:01:29 14:42:28"
+msgstr ""
+
+#. Node: node5 / User Data Date && Time
+msgid "2026:01:29 14:42:48"
+msgstr ""
+
+#. Node: node6 / User Data Date && Time
+msgid "2026:01:29 14:42:47"
+msgstr ""
+
+#. Node: node6 / User Data Custom Node ID
+msgid "jalur_tracking_panjang"
+msgstr ""
+
+#. Node: node7 / User Data Date && Time
+msgid "2026:01:29 14:43:09"
+msgstr ""
+
+#. Node: node8 / User Data Date && Time
+#. Node: node11 / User Data Date && Time
+msgid "2026:01:29 14:43:29"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point01 / Title
+msgid "Pintu Masuk Cuhup Senyawe"
+msgstr ""
+
+#. Node: node9 / User Data Date && Time
+msgid "1/28/2026 1:52 PM"
+msgstr ""
+
+#. Node: node10 / User Data Date && Time
+msgid "2026:01:29 14:43:10"
+msgstr ""
+
+#. Node: node11 / User Data Custom Node ID
+msgid "cuhup_senyawe"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point01 / Title
+msgid "360 Video Experience"
+msgstr ""
+
+#. Node: node12 / User Data Date && Time
+msgid "2026:01:29 14:43:33"
+msgstr ""
+
+#. Node: node13 / User Data Date && Time
+msgid "2026:01:28 16:16:55"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point02 / Title
+msgid "Pintu Masuk"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point03 / Title
+msgid "Bukit Besak <br> (Est. 90 Menit)"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/bukitbesak"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point04 / Title
+msgid "Cuhup Panjang <br> (Est. 50 Menit)"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/cuhuppanjang"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point05 / Title
+msgid "Cuhup Buluh <br> (Est. 60 Menit)"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/cuhupbuluh"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

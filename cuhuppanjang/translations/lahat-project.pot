@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node1 / User Data Date && Time
+msgid "2026:01:28 13:56:11"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node2 / Point Hotspot: Point04 / Title
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node8 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+msgid "Cuhup Panjang"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+msgid "Bendungan Lematang <br> (Est. 30 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point02 / URL
+msgid "https://lahat.govirtual.id/bendunganlematang"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / Title
+msgid "Megalitikum <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/megalitikum"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / Title
+msgid "Green Canyon <br> (Est. 10 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/greencanyon"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "2026:01:29 11:31:44"
+msgstr ""
+
+#. Node: node2 / User Data Custom Node ID
+msgid "air_terjun_panjang"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node4 / Point Hotspot: Point02 / Title
+msgid "Sungai"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point03 / Title
+msgid "360 Video Experience"
+msgstr ""
+
+#. Node: node3 / User Data Date && Time
+msgid "2026:01:29 11:31:42"
+msgstr ""
+
+#. Node: node4 / User Data Date && Time
+msgid "2026:01:29 11:31:39"
+msgstr ""
+
+#. Node: node8 / User Data Date && Time
+msgid "2026:01:29 11:32:58"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point02 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node11 / User Data Date && Time
+msgid "1/6/2021 12:23 PM"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

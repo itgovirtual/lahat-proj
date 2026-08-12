@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node1 / User Data Title
+#. Node: node2 / User Data Title
+#. Node: node4 / User Data Title
+msgid "default"
+msgstr "default"
+
+#. Node: node1 / User Data Date && Time
+msgid "12/12/2025 10:08 AM"
+msgstr "12/12/2025 10:08 AM"
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point01 / Title
+msgid "Drone Kebun Kopi"
+msgstr "Coffee Plantation Drone"
+
+#. Node: node2 / User Data Date && Time
+msgid "12/12/2025 10:56 AM"
+msgstr "12/12/2025 10:56 AM"
+
+#. Node: node2 / User Data Custom Node ID
+msgid "kebun_kopi"
+msgstr "kebun_kopi"
+
+#. Node: node2 / Point Hotspot: Point02 / Title
+msgid "Drone UMKM Kebun Kopi"
+msgstr "Coffee Plantation MSME Drone"
+
+#. Node: node2 / Point Hotspot: Point03 / Title
+#. Node: node4 / Point Hotspot: Point02 / Title
+#. Node: node5 / Point Hotspot: Point02 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+#. Node: node7 / Point Hotspot: Point01 / Title
+#. Node: node9 / Point Hotspot: Point02 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+msgid "Kebun Kopi"
+msgstr "Coffee Plantation"
+
+#. Node: node4 / User Data Date && Time
+msgid "12/12/2025 11:02 AM"
+msgstr "12/12/2025 11:02 AM"
+
+#. Node: node4 / Point Hotspot: Point03 / Title
+msgid "Agro Wisata Tanjung Sakti <br> (Est. 75 Menit)"
+msgstr "Tanjung Sakti Agrotourism <br> (Est. 75 Min)"
+
+#. Node: node4 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/agrowisatatanjungsakti"
+msgstr "https://lahat.govirtual.id/agrowisatatanjungsakti"
+
+#. Node: node4 / Point Hotspot: Point04 / Title
+msgid "Cuhup Senyawe <br> (Est. 65 Menit)"
+msgstr "Cuhup Senyawe <br> (Est. 65 Min)"
+
+#. Node: node4 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/cuhupsenyawe"
+msgstr "https://lahat.govirtual.id/cuhupsenyawe"
+
+#. Node: node4 / Point Hotspot: Point05 / Title
+msgid "Cuhup Buluh <br> (Est. 17 Menit)"
+msgstr "Cuhup Buluh <br> (Est. 17 Min)"
+
+#. Node: node4 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/cuhupbuluh"
+msgstr "https://lahat.govirtual.id/cuhupbuluh"
+
+#. Node: node5 / User Data Author
+#. Node: node6 / User Data Author
+#. Node: node7 / User Data Author
+#. Node: node8 / User Data Author
+#. Node: node9 / User Data Author
+#. Node: node11 / User Data Author
+msgid "Govirtual"
+msgstr "Govirtual"
+
+#. Node: node5 / User Data Date && Time
+msgid "3/11/2021 7:38 PM"
+msgstr "3/11/2021 7:38 PM"
+
+#. Node: node5 / User Data Copyright
+#. Node: node6 / User Data Copyright
+#. Node: node7 / User Data Copyright
+#. Node: node8 / User Data Copyright
+#. Node: node9 / User Data Copyright
+#. Node: node11 / User Data Copyright
+msgid "govirtual"
+msgstr "govirtual"
+
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "UMKM"
+msgstr "MSME"
+
+#. Node: node6 / User Data Date && Time
+msgid "3/11/2021 8:37 PM"
+msgstr "3/11/2021 8:37 PM"
+
+#. Node: node6 / Point Hotspot: Point02 / Title
+#. Node: node7 / Point Hotspot: Point02 / Title
+#. Node: node8 / Point Hotspot: Point01 / Title
+#. Node: node9 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr "Exit"
+
+#. Node: node7 / User Data Date && Time
+msgid "3/11/2021 8:43 PM"
+msgstr "3/11/2021 8:43 PM"
+
+#. Node: node8 / User Data Date && Time
+msgid "3/11/2021 8:54 PM"
+msgstr "3/11/2021 8:54 PM"
+
+#. Node: node9 / User Data Date && Time
+msgid "3/11/2021 7:41 PM"
+msgstr "3/11/2021 7:41 PM"
+
+#. Node: node11 / User Data Date && Time
+msgid "3/11/2021 7:15 PM"
+msgstr "3/11/2021 7:15 PM"
+
+#. Node: node11 / User Data Custom Node ID
+msgid "umkm_sumber_karya"
+msgstr "umkm_sumber_karya"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr "Enter VR"
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr "Enter Fullscreen"
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr "Exit Fullscreen"

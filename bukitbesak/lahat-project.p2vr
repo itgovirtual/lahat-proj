@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -265,20 +265,43 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>-20.3</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>0.24</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>126.6</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-12T14:17:17</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T11:38:56</capturedatetime>
         <latitude>-3.84047027</latitude>
         <longitude>103.65981422</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:01:29 10:30:21</datetime>
         <tags>BukitBesak</tags>
+        <customnodeid>puncak_bukit_besak</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1127,7 +1150,7 @@
         <hotspot>
           <position>
             <pan>-0.27</pan>
-            <tilt>-8.16</tilt>
+            <tilt>-7.98</tilt>
             <fov>13</fov>
           </position>
           <next>
@@ -1523,30 +1546,50 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
+        <startonload>0</startonload>
+        <videofile>video 360/Bukit Besak - Tracking Tengah.webm</videofile>
+        <urlsafevideofile>Bukit Besak - Tracking Tengah.webm</urlsafevideofile>
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>-66.02</start>
+          <min>0</min>
+          <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>0.76</start>
+          <min>-90</min>
+          <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>148.14</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-12T14:17:50</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2025-07-21T21:29:12</capturedatetime>
         <latitude>-3.839983</latitude>
         <longitude>103.662942</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>7/21/2025 9:29 PM</datetime>
         <tags>BukitBesak</tags>
+        <customnodeid>jalur_pendakian</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1638,6 +1681,36 @@
           <width>288</width>
           <height>288</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-16.23</pan>
+            <tilt>7.31</tilt>
+            <fov>13</fov>
+          </position>
+          <next>
+            <pan>103.5</pan>
+            <tilt>-1.9</tilt>
+            <fov>126.6</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Keluar</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node14}</url>
+          <target>103.5/-1.9/126.6</target>
+          <skinid>hotspot-360-out</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -1709,8 +1782,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-230.54</pan>
-            <tilt>-28.01</tilt>
+            <pan>-229.37</pan>
+            <tilt>-29.91</tilt>
             <fov>13</fov>
           </position>
           <next>
@@ -1740,7 +1813,7 @@
         <hotspot>
           <position>
             <pan>-108.01</pan>
-            <tilt>23.37</tilt>
+            <tilt>23.53</tilt>
             <fov>13</fov>
           </position>
           <next>
@@ -1899,6 +1972,9 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
+        <videofile>video 360/Bukit Besak - Tracking Tengah.webm</videofile>
+        <urlsafevideofile>Bukit Besak - Tracking Tengah.webm</urlsafevideofile>
+        <startonload>0</startonload>
       </input>
       <viewingparameter>
         <pan>
@@ -1942,8 +2018,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-47.09</pan>
-            <tilt>-28.63</tilt>
+            <pan>-46.76</pan>
+            <tilt>-28.49</tilt>
             <fov>18</fov>
           </position>
           <next>
@@ -2059,8 +2135,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-184.65</pan>
-            <tilt>13.09</tilt>
+            <pan>-184.82</pan>
+            <tilt>8.44</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -2071,7 +2147,7 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
-          <title>Cuhup Senyawe (Est. 90 Menit)</title>
+          <title>Cuhup Senyawe &lt;br> (Est. 90 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/cuhupsenyawe</url>
@@ -2101,7 +2177,7 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
-          <title>Masjid Agung Lahat (Est. 60 Menit)</title>
+          <title>Masjid Agung Lahat &lt;br> (Est. 60 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/masjidagung</url>
@@ -2131,7 +2207,7 @@
           <customprops/>
           <polygon/>
           <id>Point07</id>
-          <title>SMAN 4 Lahat (Est. 70 Menit)</title>
+          <title>SMAN 4 Lahat &lt;br> (Est. 70 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lahat.govirtual.id/sman4lahat</url>
@@ -2146,6 +2222,36 @@
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-63.87</pan>
+            <tilt>-28.39</tilt>
+            <fov>23</fov>
+          </position>
+          <next>
+            <pan>103.5</pan>
+            <tilt>-1.9</tilt>
+            <fov>126.6</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point08</id>
+          <title>Keluar</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node14}</url>
+          <target>103.5/-1.9/126.6</target>
+          <skinid>hotspot-360-out</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -2202,8 +2308,14 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmpg.po">true</value>
+        <value id="zh_CNtmpq.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -2219,7 +2331,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/bukitbesak/index.html</filename>
+          <filename>D:/Project Result/htdocs/Lahat/Bukit Besak/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -2244,7 +2356,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>C:/xampp/htdocs/output/bukitbesak/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/Lahat/Bukit Besak/pano.xml</filename>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <leveltileformat>1</leveltileformat>

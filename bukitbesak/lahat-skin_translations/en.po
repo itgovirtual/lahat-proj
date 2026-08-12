@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Source-Language: id-ID\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Skin Element Text: Assistant Text / Text
 msgid "MORE"
@@ -25,10 +25,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
-
-#. Skin Element Text: E / Text
-msgid "E"
-msgstr ""
+"<iframe src=\"../webview/kategori.php?lang=en\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
@@ -41,6 +41,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=en\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
@@ -50,6 +54,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/informasi.php?info=gantiwoe&lang=en\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
@@ -59,6 +67,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/menu.php?menu=gantiwoe&lang=en\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
 msgid ""
@@ -67,6 +79,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/publicservice.php?&lang=en\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Informasi-text / Text
 msgid "Informasi\n"
@@ -80,6 +96,11 @@ msgid ""
 "bottom\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=en\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px; padding-"
+"bottom\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Jelajah-text / Text
 #. Skin Element Text: Text Discover / Text
@@ -88,24 +109,10 @@ msgstr "Discover"
 
 #. Skin Element Text: Menu Tezt / Text
 msgid "MENU"
-msgstr ""
-
-#. Skin Element Text: N / Text
-msgid "N"
-msgstr ""
+msgstr "MENU"
 
 #. Skin Element Text: NO / Text
 msgid "NO"
-msgstr ""
-
-#. Skin Element Text: S / Text
-msgid "S"
-msgstr ""
-
-#. Skin Element Text: Text 2 / Text
-msgid ""
-"<iframe src=\"cuaca.html\" style=\"width:200px; height:80px; border:none; "
-"background:transparent;\"></iframe>"
 msgstr ""
 
 #. Skin Element Text: Text 4_1 / Text
@@ -118,15 +125,15 @@ msgstr "Information"
 
 #. Skin Element Text: Text Kategori / Text
 msgid "Kategori"
-msgstr "Category"
+msgstr ""
 
 #. Skin Element Text: Text Menu / Text
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #. Skin Element Text: Text Public / Text
 msgid "Layanan Publik"
-msgstr "Public Service"
+msgstr "Public Services"
 
 #. Skin Element Text: Title - Kab / Text
 #. Skin Element Text: Title - Kab-mobile / Text
@@ -134,12 +141,11 @@ msgid "Kabupaten Lahat"
 msgstr "Lahat Regency"
 
 #. Skin Element Text: Title - Lokasi / Text
-#. Skin Element Text: Title - Lokasi-mobile / Text
-msgid "Bukit Besak"
-msgstr "Besak Hill"
+msgid "Bendungan Lematang"
+msgstr ""
 
-#. Skin Element Text: W / Text
-msgid "W"
+#. Skin Element Text: Title - Lokasi-mobile / Text
+msgid "SD Negeri 19 Percontohan Lahat"
 msgstr ""
 
 #. Skin Element Text: YES / Text
@@ -161,16 +167,8 @@ msgstr ""
 
 #. Skin Element Text: text welcome / Text
 msgid ""
-"Selamat Datang di Bukit Besak adalah destinasi wisata alam yang menawarkan "
-"panorama indah perbukitan hijau dan udara yang sejuk. Tempat ini menjadi "
-"pilihan tepat untuk melepas penat, menikmati pemandangan, serta beraktivitas "
-"bersama keluarga maupun sahabat. Rasakan ketenangan alam, abadikan momen "
-"indah, dan mari bersama menjaga kebersihan serta kelestarian Bukit Besak "
-"agar tetap asri untuk generasi mendatang."
+"PAKAI WELCOME TEXT YG DI Internet AJA https://lahat.govirtual.id/ di inspect "
+"element, dan Audionya juga download di inspect element pake tab network bisa "
+"di download, kalo ga bisa tanya Danny, klo misal mau ganti teks tanya "
+"dheven, kira kira kata kata nya masih pake yg lama atau bikin baru"
 msgstr ""
-"Welcome to Bukit Besak is a natural tourist destination offering "
-"breathtaking views of green hills and refreshing air. It is the perfect "
-"place to relax, enjoy the scenery, and spend quality time with family and "
-"friends. Experience the tranquility of nature, capture memorable moments, "
-"and let us work together to preserve the beauty and cleanliness of Bukit "
-"Besak for future generations."

@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Source-Language: id-ID\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Skin Element Text: Assistant Text / Text
 msgid "MORE"
@@ -25,10 +25,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
-
-#. Skin Element Text: E / Text
-msgid "E"
-msgstr ""
+"<iframe src=\"../webview/kategori.php?lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
@@ -41,6 +41,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
@@ -50,6 +54,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/informasi.php?info=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
@@ -59,6 +67,10 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/menu.php?menu=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
 msgid ""
@@ -67,10 +79,14 @@ msgid ""
 "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/publicservice.php?&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Informasi-text / Text
 msgid "Informasi\n"
-msgstr "信息\n"
+msgstr ""
 
 #. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
 msgid ""
@@ -80,32 +96,27 @@ msgid ""
 "bottom\"\n"
 "frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px; padding-"
+"bottom\"\n"
+"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Jelajah-text / Text
 #. Skin Element Text: Text Discover / Text
 msgid "Jelajah"
-msgstr "发现"
+msgstr "探索"
 
 #. Skin Element Text: Menu Tezt / Text
 msgid "MENU"
 msgstr "菜单"
 
-#. Skin Element Text: N / Text
-msgid "N"
-msgstr ""
-
 #. Skin Element Text: NO / Text
 msgid "NO"
 msgstr ""
 
-#. Skin Element Text: S / Text
-msgid "S"
-msgstr ""
-
-#. Skin Element Text: Text 2 / Text
-msgid ""
-"<iframe src=\"cuaca.html\" style=\"width:200px; height:80px; border:none; "
-"background:transparent;\"></iframe>"
+#. Skin Element Text: Text 4_1 / Text
+msgid "Pantai Tirang"
 msgstr ""
 
 #. Skin Element Text: Text Info / Text
@@ -127,15 +138,14 @@ msgstr "公共服务"
 #. Skin Element Text: Title - Kab / Text
 #. Skin Element Text: Title - Kab-mobile / Text
 msgid "Kabupaten Lahat"
-msgstr ""
+msgstr "拉哈特县"
 
 #. Skin Element Text: Title - Lokasi / Text
-#. Skin Element Text: Title - Lokasi-mobile / Text
-msgid "Bukit Besak"
+msgid "Bendungan Lematang"
 msgstr ""
 
-#. Skin Element Text: W / Text
-msgid "W"
+#. Skin Element Text: Title - Lokasi-mobile / Text
+msgid "SD Negeri 19 Percontohan Lahat"
 msgstr ""
 
 #. Skin Element Text: YES / Text
@@ -157,13 +167,8 @@ msgstr ""
 
 #. Skin Element Text: text welcome / Text
 msgid ""
-"Selamat Datang di Bukit Besak adalah destinasi wisata alam yang menawarkan "
-"panorama indah perbukitan hijau dan udara yang sejuk. Tempat ini menjadi "
-"pilihan tepat untuk melepas penat, menikmati pemandangan, serta beraktivitas "
-"bersama keluarga maupun sahabat. Rasakan ketenangan alam, abadikan momen "
-"indah, dan mari bersama menjaga kebersihan serta kelestarian Bukit Besak "
-"agar tetap asri untuk generasi mendatang."
+"PAKAI WELCOME TEXT YG DI Internet AJA https://lahat.govirtual.id/ di inspect "
+"element, dan Audionya juga download di inspect element pake tab network bisa "
+"di download, kalo ga bisa tanya Danny, klo misal mau ganti teks tanya "
+"dheven, kira kira kata kata nya masih pake yg lama atau bikin baru"
 msgstr ""
-"欢迎来到 贝萨克山丘 贝萨克山丘是一处自然旅游胜地,拥有青翠山丘的壮丽景色和清新"
-"的空气。这里是放松心 情、欣赏风景,以及与家人朋友共度美好时光的理想之地。感受"
-"大自然的宁静,记录美好瞬间,并共同守护贝萨克山丘的清洁与美丽,让它世代长存。"

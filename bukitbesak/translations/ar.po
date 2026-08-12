@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -11,22 +10,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Source-Language: id-ID\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Node: node1 / User Data Date && Time
 msgid "2026:01:29 10:30:38"
-msgstr ""
+msgstr "2026:01:29 10:30:38"
 
 #. Node: node1 / Point Hotspot: Point01 / Title
 #. Node: node9 / Point Hotspot: Point01 / Title
 #. Node: node20 / Point Hotspot: Point03 / Title
 msgid "Desa Tanjung Beringin"
-msgstr "قرية تانجونج بيرينجين"
+msgstr "قرية تانجونج بيرينغين"
 
 #. Node: node2 / User Data Date && Time
 #. Node: node4 / User Data Date && Time
 msgid "2026:01:29 10:29:49"
-msgstr ""
+msgstr "2026:01:29 10:29:49"
 
 #. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node3 / Point Hotspot: Point01 / Title
@@ -37,6 +36,7 @@ msgstr ""
 #. Node: node11 / Point Hotspot: Point01 / Title
 #. Node: node13 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node14 / Point Hotspot: Point04 / Title
 #. Node: node15 / Point Hotspot: Point01 / Title
 msgid "Keluar"
 msgstr "الخروج"
@@ -44,31 +44,35 @@ msgstr "الخروج"
 #. Node: node2 / Point Hotspot: Point02 / Title
 #. Node: node10 / Point Hotspot: Point01 / Title
 msgid "Sawah"
-msgstr "رايسفيلد"
+msgstr "حقول الأرز"
 
 #. Node: node3 / User Data Date && Time
 #. Node: node7 / User Data Date && Time
 msgid "2026:01:29 10:30:21"
-msgstr ""
+msgstr "2026:01:29 10:30:21"
+
+#. Node: node3 / User Data Custom Node ID
+msgid "puncak_bukit_besak"
+msgstr "puncak_bukit_besak"
 
 #. Node: node4 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point02 / Title
 msgid "Hiking Bukit Besak"
-msgstr "المشي لمسافات طويلة بيساك هيل"
+msgstr "المشي لمسافات طويلة في بوكيت بيساك"
 
 #. Node: node4 / Point Hotspot: Point02 / Title
 #. Node: node5 / Point Hotspot: Point02 / Title
 #. Node: node15 / Point Hotspot: Point02 / Title
 msgid "Bukit Besak"
-msgstr "بيساك هيل"
+msgstr "بوكيت بيساك"
 
 #. Node: node5 / User Data Date && Time
 msgid "2026:01:29 10:29:57"
-msgstr ""
+msgstr "2026:01:29 10:29:57"
 
 #. Node: node6 / User Data Date && Time
 msgid "2026:01:29 10:29:58"
-msgstr ""
+msgstr "2026:01:29 10:29:58"
 
 #. Node: node6 / Point Hotspot: Point02 / Title
 #. Node: node7 / Point Hotspot: Point02 / Title
@@ -76,11 +80,11 @@ msgstr ""
 #. Node: node19 / Point Hotspot: Point02 / Title
 #. Node: node20 / Point Hotspot: Point04 / Title
 msgid "Puncak Bukit Besak"
-msgstr "قمة تل بيساك"
+msgstr "قمة بوكيت بيساك"
 
 #. Node: node8 / User Data Date && Time
 msgid "2026:01:29 10:30:42"
-msgstr ""
+msgstr "2026:01:29 10:30:42"
 
 #. Node: node9 / User Data Author
 #. Node: node10 / User Data Author
@@ -90,11 +94,11 @@ msgstr ""
 #. Node: node14 / User Data Author
 #. Node: node15 / User Data Author
 msgid "Govirtual"
-msgstr ""
+msgstr "Govirtual"
 
 #. Node: node9 / User Data Date && Time
 msgid "7/21/2025 7:04 PM"
-msgstr ""
+msgstr "7/21/2025 7:04 PM"
 
 #. Node: node9 / User Data Copyright
 #. Node: node10 / User Data Copyright
@@ -104,16 +108,16 @@ msgstr ""
 #. Node: node14 / User Data Copyright
 #. Node: node15 / User Data Copyright
 msgid "govirtual"
-msgstr ""
+msgstr "govirtual"
 
 #. Node: node9 / Point Hotspot: Point02 / Title
 #. Node: node12 / Point Hotspot: Point01 / Title
 msgid "Jembatan"
-msgstr "كوبري"
+msgstr "جسر"
 
 #. Node: node10 / User Data Date && Time
 msgid "7/21/2025 7:09 PM"
-msgstr ""
+msgstr "7/21/2025 7:09 PM"
 
 #. Node: node10 / Point Hotspot: Point02 / Title
 msgid "Kantor Pengelola"
@@ -121,7 +125,7 @@ msgstr "مكتب الإدارة"
 
 #. Node: node11 / User Data Date && Time
 msgid "7/21/2025 7:20 PM"
-msgstr ""
+msgstr "7/21/2025 7:20 PM"
 
 #. Node: node11 / Point Hotspot: Point02 / Title
 #. Node: node13 / Point Hotspot: Point02 / Title
@@ -130,62 +134,78 @@ msgstr "الرحلات"
 
 #. Node: node12 / User Data Date && Time
 msgid "7/21/2025 7:15 PM"
-msgstr ""
+msgstr "7/21/2025 7:15 PM"
 
 #. Node: node12 / Point Hotspot: Point02 / Title
 msgid "Objek Wisata Bukit Besak"
-msgstr "منطقة بيساك هيل السياحية"
+msgstr "منطقة الجذب السياحي بوكيت بيساك"
 
 #. Node: node13 / User Data Date && Time
 msgid "7/21/2025 7:25 PM"
-msgstr ""
+msgstr "7/21/2025 7:25 PM"
 
 #. Node: node14 / User Data Date && Time
 msgid "7/21/2025 9:29 PM"
-msgstr ""
+msgstr "7/21/2025 9:29 PM"
+
+#. Node: node14 / User Data Custom Node ID
+msgid "jalur_pendakian"
+msgstr "jalur_pendakian"
 
 #. Node: node14 / Point Hotspot: Point03 / Title
 #. Node: node20 / Point Hotspot: Point01 / Title
 msgid "360 Video Experience"
-msgstr "تجربة فيديو 360 درجة"
+msgstr "تجربة فيديو 360"
 
 #. Node: node15 / User Data Date && Time
 msgid "7/21/2025 9:38 PM"
-msgstr ""
+msgstr "7/21/2025 9:38 PM"
 
 #. Node: node19 / User Data Date && Time
 msgid "2026:01:28 13:56:09"
-msgstr ""
+msgstr "2026:01:28 13:56:09"
 
 #. Node: node19 / Point Hotspot: Point01 / Title
 #. Node: node20 / Point Hotspot: Point02 / Title
 msgid "Drone Bukit Besak"
-msgstr "بيساك هيل بدون طيار"
+msgstr "درون بوكيت بيساك"
 
 #. Node: node20 / User Data Date && Time
 msgid "2026:01:28 13:56:11"
-msgstr ""
+msgstr "2026:01:28 13:56:11"
 
 #. Node: node20 / Point Hotspot: Point05 / Title
-msgid "Cuhup Senyawe (Est. 90 Menit)"
-msgstr "كوهوب سينياوي (90 دقيقة تقريبًا)"
+msgid "Cuhup Senyawe <br> (Est. 90 Menit)"
+msgstr "كوهوب سينياوي <br> (90 دقيقة تقريبًا)"
+
+#. Node: node20 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/cuhupsenyawe"
+msgstr "https://lahat.govirtual.id/cuhupsenyawe"
 
 #. Node: node20 / Point Hotspot: Point06 / Title
-msgid "Masjid Agung Lahat (Est. 60 Menit)"
-msgstr "مسجد لاهات الكبير (60 دقيقة تقريبًا)"
+msgid "Masjid Agung Lahat <br> (Est. 60 Menit)"
+msgstr "مسجد لاهات الكبير <br> (60 دقيقة تقريبًا)"
+
+#. Node: node20 / Point Hotspot: Point06 / URL
+msgid "https://lahat.govirtual.id/masjidagung"
+msgstr "https://lahat.govirtual.id/masjidagung"
 
 #. Node: node20 / Point Hotspot: Point07 / Title
-msgid "SMAN 4 Lahat (Est. 70 Menit)"
-msgstr "SMAN 4 لاهات (70 دقيقة تقريبًا)"
+msgid "SMAN 4 Lahat <br> (Est. 70 Menit)"
+msgstr "SMAN 4 لاهات <br> (70 دقيقة تقريبًا)"
+
+#. Node: node20 / Point Hotspot: Point07 / URL
+msgid "https://lahat.govirtual.id/sman4lahat"
+msgstr "https://lahat.govirtual.id/sman4lahat"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
-msgstr ""
+msgstr "دخول الواقع الافتراضي"
 
 #. Context Menu Default Entry
 msgid "Enter Fullscreen"
-msgstr ""
+msgstr "ملء الشاشة"
 
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
-msgstr ""
+msgstr "الخروج من ملء الشاشة"

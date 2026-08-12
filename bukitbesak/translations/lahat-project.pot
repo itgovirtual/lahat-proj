@@ -1,7 +1,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"X-Source-Language: id-ID"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Node: node1 / User Data Date && Time
 msgid "2026:01:29 10:30:38"
@@ -27,6 +36,7 @@ msgstr ""
 #. Node: node11 / Point Hotspot: Point01 / Title
 #. Node: node13 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node14 / Point Hotspot: Point04 / Title
 #. Node: node15 / Point Hotspot: Point01 / Title
 msgid "Keluar"
 msgstr ""
@@ -39,6 +49,10 @@ msgstr ""
 #. Node: node3 / User Data Date && Time
 #. Node: node7 / User Data Date && Time
 msgid "2026:01:29 10:30:21"
+msgstr ""
+
+#. Node: node3 / User Data Custom Node ID
+msgid "puncak_bukit_besak"
 msgstr ""
 
 #. Node: node4 / Point Hotspot: Point01 / Title
@@ -134,6 +148,10 @@ msgstr ""
 msgid "7/21/2025 9:29 PM"
 msgstr ""
 
+#. Node: node14 / User Data Custom Node ID
+msgid "jalur_pendakian"
+msgstr ""
+
 #. Node: node14 / Point Hotspot: Point03 / Title
 #. Node: node20 / Point Hotspot: Point01 / Title
 msgid "360 Video Experience"
@@ -157,15 +175,27 @@ msgid "2026:01:28 13:56:11"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point05 / Title
-msgid "Cuhup Senyawe (Est. 90 Menit)"
+msgid "Cuhup Senyawe <br> (Est. 90 Menit)"
+msgstr ""
+
+#. Node: node20 / Point Hotspot: Point05 / URL
+msgid "https://lahat.govirtual.id/cuhupsenyawe"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point06 / Title
-msgid "Masjid Agung Lahat (Est. 60 Menit)"
+msgid "Masjid Agung Lahat <br> (Est. 60 Menit)"
+msgstr ""
+
+#. Node: node20 / Point Hotspot: Point06 / URL
+msgid "https://lahat.govirtual.id/masjidagung"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point07 / Title
-msgid "SMAN 4 Lahat (Est. 70 Menit)"
+msgid "SMAN 4 Lahat <br> (Est. 70 Menit)"
+msgstr ""
+
+#. Node: node20 / Point Hotspot: Point07 / URL
+msgid "https://lahat.govirtual.id/sman4lahat"
 msgstr ""
 
 #. Context Menu Default Entry
@@ -179,4 +209,3 @@ msgstr ""
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
 msgstr ""
-

@@ -197,8 +197,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-8.26</pan>
-            <tilt>16.82</tilt>
+            <pan>-7.76</pan>
+            <tilt>16.78</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -209,9 +209,10 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
-          <title>Kebun Kopi Lahat (Est. 30 Menit)</title>
+          <title>Kebun Kopi Lahat &lt;br> (Est. 30 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/kopilahatdesagumayulu</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -237,9 +238,10 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
-          <title>Megalitik (Est. 30 Menit)</title>
+          <title>Megalitikum &lt;br> (Est. 30 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/megalitikum</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -265,9 +267,10 @@
           <customprops/>
           <polygon/>
           <id>Point07</id>
-          <title>Cuhup Panjang (Est. 5 Menit)</title>
+          <title>Cuhup Panjang &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>https://lahat.govirtual.id/cuhuppanjang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1131,22 +1134,45 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>-3.27</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-7.51</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>126.58</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-12T10:17:56</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2026-02-03T10:21:23</capturedatetime>
         <latitude>-3.89526296</latitude>
         <longitude>103.50011719</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>2025:12:01 15:25:06</datetime>
         <tags>GreenCanyon</tags>
+        <customnodeid>jembatan_gantung</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1495,20 +1521,23 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
+        <startonload>0</startonload>
+        <videofile>video 360/Green Canyon - Sungai 2 - High.webm</videofile>
+        <urlsafevideofile>Green Canyon - Sungai 2 - High.webm</urlsafevideofile>
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>76.98</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-21.14</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>148.12</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -1523,17 +1552,19 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-12T10:18:56</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2026-01-28T13:53:47+07:00</capturedatetime>
+        <capturedatetime>2026-01-28T13:53:47</capturedatetime>
         <latitude>-3.89531030</latitude>
         <longitude>103.50001211</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>1/28/2026 1:53 PM</datetime>
         <tags>GreenCanyon</tags>
+        <customnodeid>green_canyon</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1569,8 +1600,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-84.37</pan>
-            <tilt>-2.52</tilt>
+            <pan>-86.15</pan>
+            <tilt>-4.65</tilt>
             <fov>14</fov>
           </position>
           <next>
@@ -1624,6 +1655,36 @@
           <use3d>1</use3d>
           <width>288</width>
           <height>288</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-66.87</pan>
+            <tilt>-4.12</tilt>
+            <fov>14</fov>
+          </position>
+          <next>
+            <pan>-43.4</pan>
+            <tilt>-10.2</tilt>
+            <fov>130</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Sungai</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node13}</url>
+          <target>-43.4/-10.2/130.0</target>
+          <skinid>hotspot-360-out</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -1856,7 +1917,7 @@
         <hotspot>
           <position>
             <pan>-190.39</pan>
-            <tilt>5.4</tilt>
+            <tilt>5.56</tilt>
             <fov>14</fov>
           </position>
           <next>

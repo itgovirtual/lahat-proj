@@ -1,21 +1,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Source-Language: id-ID\n"
-"X-Generator: Poedit 3.9\n"
+"X-Source-Language: id-ID"
 
 #. Node: node1 / User Data Date && Time
 #. Node: node7 / User Data Date && Time
 #. Node: node9 / User Data Date && Time
 msgid "2026:01:29 10:59:31"
+msgstr ""
+
+#. Node: node1 / User Data Custom Node ID
+msgid "air_terjun"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point01 / Title
@@ -66,8 +61,16 @@ msgstr ""
 msgid "2026:01:29 10:59:14"
 msgstr ""
 
+#. Node: node6 / User Data Custom Node ID
+msgid "kolam_cinta"
+msgstr ""
+
 #. Node: node8 / User Data Date && Time
 msgid "2026:01:29 10:59:30"
+msgstr ""
+
+#. Node: node9 / User Data Custom Node ID
+msgid "resto_benteng_sakti"
 msgstr ""
 
 #. Node: node9 / Point Hotspot: Point01 / Title
@@ -79,6 +82,10 @@ msgstr ""
 msgid "Agro Wisata Tanjung Sakti"
 msgstr ""
 
+#. Node: node10 / User Data Custom Node ID
+msgid "taman_bunga"
+msgstr ""
+
 #. Node: node10 / Point Hotspot: Point01 / Title
 msgid "Area Parkir"
 msgstr ""
@@ -88,15 +95,27 @@ msgid "1/28/2026 10:25 AM"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point02 / Title
-msgid "Kebun Kopi Lahat (Est. 75 Menit)"
+msgid "Kebun Kopi Lahat <br> (Est. 75 Menit)"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point02 / URL
+msgid "https://lahat.govirtual.id/kopilahatdesagumayulu"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point03 / Title
-msgid "Cuhup Senyawe (Est. 120 Menit)"
+msgid "Cuhup Senyawe <br> (Est. 120 Menit)"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/cuhupsenyawe"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point04 / Title
-msgid "Cuhup Buluh (Est. 90 Menit)"
+msgid "Cuhup Buluh <br> (Est. 90 Menit)"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/cuhupbuluh"
 msgstr ""
 
 #. Context Menu Default Entry
@@ -110,3 +129,4 @@ msgstr ""
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
 msgstr ""
+

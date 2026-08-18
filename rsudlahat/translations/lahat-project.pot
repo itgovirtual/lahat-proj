@@ -114,6 +114,10 @@ msgstr ""
 msgid "3/11/2021 2:49 AM"
 msgstr ""
 
+#. Node: node5 / User Data Custom Node ID
+msgid "ruang_vip"
+msgstr ""
+
 #. Node: node6 / User Data Date && Time
 msgid "3/11/2021 2:51 AM"
 msgstr ""
@@ -162,6 +166,11 @@ msgstr ""
 
 #. Node: node12 / User Data Date && Time
 msgid "3/18/2019 6:36 AM"
+msgstr ""
+
+#. Node: node12 / User Data Custom Node ID
+#. Node: node13 / User Data Custom Node ID
+msgid "kamar_operasi"
 msgstr ""
 
 #. Node: node13 / User Data Date && Time
@@ -229,6 +238,10 @@ msgstr ""
 msgid "3/11/2021 3:19 AM"
 msgstr ""
 
+#. Node: node22 / User Data Custom Node ID
+msgid "usg"
+msgstr ""
+
 #. Node: node22 / Point Hotspot: Point01 / Title
 #. Node: node23 / Point Hotspot: Point01 / Title
 #. Node: node27 / Point Hotspot: Point05 / Title
@@ -239,6 +252,10 @@ msgstr ""
 msgid "3/11/2021 3:16 AM"
 msgstr ""
 
+#. Node: node23 / User Data Custom Node ID
+msgid "ctscan"
+msgstr ""
+
 #. Node: node23 / Point Hotspot: Point02 / Title
 msgid "Ruang Panoramic"
 msgstr ""
@@ -247,8 +264,16 @@ msgstr ""
 msgid "3/11/2021 3:09 AM"
 msgstr ""
 
+#. Node: node24 / User Data Custom Node ID
+msgid "rontgen_panoramic"
+msgstr ""
+
 #. Node: node25 / User Data Date && Time
 msgid "3/11/2021 3:13 AM"
+msgstr ""
+
+#. Node: node25 / User Data Custom Node ID
+msgid "rontgen"
 msgstr ""
 
 #. Node: node25 / Point Hotspot: Point01 / Title
@@ -297,7 +322,7 @@ msgid "Gereja Katolik Paroki Santa Maria Lahat <br> (Est. 5 Menit)"
 msgstr ""
 
 #. Node: node29 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
 msgstr ""
 
 #. Node: node29 / Point Hotspot: Point04 / Title
@@ -305,7 +330,7 @@ msgid "Pasar Lahat <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node29 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/pasarlahat"
+msgid "https://lahat.govirtual.id/pasar-lahat"
 msgstr ""
 
 #. Node: node29 / Point Hotspot: Point05 / Title
@@ -313,7 +338,7 @@ msgid "Masjid Agung Lahat <br> (Est. 15 Menit)"
 msgstr ""
 
 #. Node: node29 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/masjidagunglahat"
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
 msgstr ""
 
 #. Context Menu Default Entry

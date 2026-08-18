@@ -123,6 +123,10 @@ msgstr "3/11/2021 2:46 AM"
 msgid "3/11/2021 2:49 AM"
 msgstr "3/11/2021 2:49 AM"
 
+#. Node: node5 / User Data Custom Node ID
+msgid "ruang_vip"
+msgstr "ruang_vip"
+
 #. Node: node6 / User Data Date && Time
 msgid "3/11/2021 2:51 AM"
 msgstr "3/11/2021 2:51 AM"
@@ -172,6 +176,11 @@ msgstr "3/18/2019 6:22 AM"
 #. Node: node12 / User Data Date && Time
 msgid "3/18/2019 6:36 AM"
 msgstr "3/18/2019 6:36 AM"
+
+#. Node: node12 / User Data Custom Node ID
+#. Node: node13 / User Data Custom Node ID
+msgid "kamar_operasi"
+msgstr "kamar_operasi"
 
 #. Node: node13 / User Data Date && Time
 msgid "3/18/2019 6:19 AM"
@@ -238,6 +247,10 @@ msgstr "Cardiology Clinic"
 msgid "3/11/2021 3:19 AM"
 msgstr "3/11/2021 3:19 AM"
 
+#. Node: node22 / User Data Custom Node ID
+msgid "usg"
+msgstr "usg"
+
 #. Node: node22 / Point Hotspot: Point01 / Title
 #. Node: node23 / Point Hotspot: Point01 / Title
 #. Node: node27 / Point Hotspot: Point05 / Title
@@ -248,6 +261,10 @@ msgstr "Radiology Room"
 msgid "3/11/2021 3:16 AM"
 msgstr "3/11/2021 3:16 AM"
 
+#. Node: node23 / User Data Custom Node ID
+msgid "ctscan"
+msgstr "ctscan"
+
 #. Node: node23 / Point Hotspot: Point02 / Title
 msgid "Ruang Panoramic"
 msgstr "Panoramic Room"
@@ -256,9 +273,17 @@ msgstr "Panoramic Room"
 msgid "3/11/2021 3:09 AM"
 msgstr "3/11/2021 3:09 AM"
 
+#. Node: node24 / User Data Custom Node ID
+msgid "rontgen_panoramic"
+msgstr "rontgen_panoramic"
+
 #. Node: node25 / User Data Date && Time
 msgid "3/11/2021 3:13 AM"
 msgstr "3/11/2021 3:13 AM"
+
+#. Node: node25 / User Data Custom Node ID
+msgid "rontgen"
+msgstr "rontgen"
 
 #. Node: node25 / Point Hotspot: Point01 / Title
 msgid "Keluar Lobi Pendaftaran"
@@ -282,7 +307,7 @@ msgstr "3/11/2021 4:18 AM"
 
 #. Node: node27 / Point Hotspot: Point02 / Title
 msgid "Poliklinik"
-msgstr "Clinic"
+msgstr "Polyclinic"
 
 #. Node: node27 / Point Hotspot: Point04 / Title
 msgid "Ruang Operasi Lantai 2"
@@ -291,7 +316,7 @@ msgstr "2nd Floor Operating Room"
 #. Node: node28 / Point Hotspot: Point01 / Title
 #. Node: node29 / Point Hotspot: Point01 / Title
 msgid "RSUD Lahat"
-msgstr "Lahat Regional General Hospital"
+msgstr "RSUD Lahat"
 
 #. Node: node29 / User Data Title
 msgid "default"
@@ -303,27 +328,27 @@ msgstr "12/11/2025 5:10 PM"
 
 #. Node: node29 / Point Hotspot: Point03 / Title
 msgid "Gereja Katolik Paroki Santa Maria Lahat <br> (Est. 5 Menit)"
-msgstr "Santa Maria Catholic Parish Church Lahat <br> (Est. 5 Min)"
+msgstr "Santa Maria Lahat Catholic Parish Church <br> (Est. 5 Min)"
 
 #. Node: node29 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
-msgstr "https://lahat.govirtual.id/gerejakatolikparokisantamaria-en"
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
+msgstr "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
 
 #. Node: node29 / Point Hotspot: Point04 / Title
 msgid "Pasar Lahat <br> (Est. 10 Menit)"
 msgstr "Lahat Market <br> (Est. 10 Min)"
 
 #. Node: node29 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/pasarlahat"
-msgstr "https://lahat.govirtual.id/pasarlahat-en"
+msgid "https://lahat.govirtual.id/pasar-lahat"
+msgstr "https://lahat.govirtual.id/pasar-lahat"
 
 #. Node: node29 / Point Hotspot: Point05 / Title
 msgid "Masjid Agung Lahat <br> (Est. 15 Menit)"
 msgstr "Lahat Grand Mosque <br> (Est. 15 Min)"
 
 #. Node: node29 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/masjidagunglahat"
-msgstr "https://lahat.govirtual.id/masjidagunglahat-en"
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
+msgstr "https://lahat.govirtual.id/masjid-agung-lahat"
 
 #. Context Menu Default Entry
 msgid "Enter VR"

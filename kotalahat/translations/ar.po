@@ -28,13 +28,10 @@ msgid "Agro Wisata Tanjung Sakti <br> (Est. 2 jam) "
 msgstr "السياحة الزراعية تانجونغ ساكتي <br> (حوالي ساعتين) "
 
 #. Node: node2 / Point Hotspot: Point02 / URL
-#. Node: node2 / Point Hotspot: Point04 / URL
 #. Node: node3 / Point Hotspot: Point03 / URL
-#. Node: node3 / Point Hotspot: Point04 / URL
-#. Node: node5 / Point Hotspot: Point03 / URL
 #. Node: node5 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
-msgstr "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgid "https://lahat.govirtual.id/agro-wisata-tanjung-sakti"
+msgstr "https://lahat.govirtual.id/agro-wisata-tanjung-sakti"
 
 #. Node: node2 / Point Hotspot: Point03 / Title
 #. Node: node5 / Point Hotspot: Point02 / Title
@@ -46,6 +43,12 @@ msgstr "بوابة الترحيب بمدينة لاهات"
 #. Node: node5 / Point Hotspot: Point03 / Title
 msgid "Gereja Katolik Paroki Santa Maria <br> (Est. 10 menit) "
 msgstr "كنيسة رعية سانتا ماريا الكاثوليكية <br> (10 دقائق تقريبًا) "
+
+#. Node: node2 / Point Hotspot: Point04 / URL
+#. Node: node3 / Point Hotspot: Point04 / URL
+#. Node: node5 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
+msgstr "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
 
 #. Node: node3 / User Data Date && Time
 msgid "2026:01:29 11:33:27"

@@ -3,6 +3,10 @@ msgid ""
 msgstr ""
 "X-Source-Language: id-ID"
 
+#. Skin Variable: link / Initial Value
+msgid "rsud-lahat"
+msgstr ""
+
 #. Skin Element Text: Assistant Text / Text
 msgid "MORE"
 msgstr ""

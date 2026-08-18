@@ -3702,7 +3702,7 @@
           <title>Pasar Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/pasarlahat</url>
+          <url>https://lahat.govirtual.id/pasar-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3717,7 +3717,7 @@
         <hotspot>
           <position>
             <pan>-90.01</pan>
-            <tilt>10.24</tilt>
+            <tilt>10.41</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -3731,7 +3731,7 @@
           <title>Masjid Agung Lahat &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/masjidagunglahat</url>
+          <url>https://lahat.govirtual.id/masjid-agung-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>

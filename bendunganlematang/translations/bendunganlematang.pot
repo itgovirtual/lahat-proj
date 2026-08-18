@@ -39,6 +39,10 @@ msgstr ""
 msgid "9/4/2025 10:37 AM"
 msgstr ""
 
+#. Node: node4 / User Data Custom Node ID
+msgid "bendungan"
+msgstr ""
+
 #. Node: node5 / User Data Date && Time
 msgid "2026:01:29 10:44:29"
 msgstr ""
@@ -56,15 +60,7 @@ msgid "SMAN 4 Lahat <br> (Est. 15 Menit)"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/smaunggulnegeri04lahat"
-msgstr ""
-
-#. Node: node7 / Point Hotspot: Point03 / Title
-msgid "Petilasan Raden Patah <br> (Est. 10 Menit)"
-msgstr ""
-
-#. Node: node7 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/petilasanradenfatah"
+msgid "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point04 / Title
@@ -72,7 +68,7 @@ msgid "Gereja Katolik Paroki Santa Maria Lahat <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node7 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
 msgstr ""
 
 #. Context Menu Default Entry

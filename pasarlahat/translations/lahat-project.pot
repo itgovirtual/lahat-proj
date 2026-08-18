@@ -6,6 +6,7 @@ msgstr ""
 #. Node: node1 / Point Hotspot: Point01 / Title
 #. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node3 / Point Hotspot: Point02 / Title
+#. Node: node3 / Point Hotspot: Point04 / Title
 #. Node: node5 / Point Hotspot: Point02 / Title
 #. Node: node5 / Point Hotspot: Point03 / Title
 msgid "Pasar Lahat"
@@ -15,12 +16,24 @@ msgstr ""
 msgid "Gereja Katolik Paroki Santa Maria Lahat <br> (Est. 5 Menit)"
 msgstr ""
 
+#. Node: node1 / Point Hotspot: Point02 / URL
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
+msgstr ""
+
 #. Node: node1 / Point Hotspot: Point03 / Title
 msgid "Masjid Agung Lahat <br> (Est. 5 Menit)"
 msgstr ""
 
+#. Node: node1 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
+msgstr ""
+
 #. Node: node1 / Point Hotspot: Point04 / Title
 msgid "RSUD Lahat <br> (Est. 5 Menit)"
+msgstr ""
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/rsud-lahat"
 msgstr ""
 
 #. Node: node2 / User Data Author
@@ -52,6 +65,10 @@ msgstr ""
 
 #. Node: node3 / Point Hotspot: Point03 / Title
 msgid "360 Video Experience"
+msgstr ""
+
+#. Node: node6 / User Data Custom Node ID
+msgid "uptd"
 msgstr ""
 
 #. Context Menu Default Entry

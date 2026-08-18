@@ -15,6 +15,7 @@ msgstr ""
 #. Node: node1 / Point Hotspot: Point01 / Title
 #. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node3 / Point Hotspot: Point02 / Title
+#. Node: node3 / Point Hotspot: Point04 / Title
 #. Node: node5 / Point Hotspot: Point02 / Title
 #. Node: node5 / Point Hotspot: Point03 / Title
 msgid "Pasar Lahat"
@@ -24,13 +25,25 @@ msgstr "سوق لاهات"
 msgid "Gereja Katolik Paroki Santa Maria Lahat <br> (Est. 5 Menit)"
 msgstr "كنيسة رعية سانتا ماريا الكاثوليكية لاهات <br> (5 دقائق تقريبًا)"
 
+#. Node: node1 / Point Hotspot: Point02 / URL
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
+msgstr "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
+
 #. Node: node1 / Point Hotspot: Point03 / Title
 msgid "Masjid Agung Lahat <br> (Est. 5 Menit)"
 msgstr "مسجد لاهات الكبير <br> (5 دقائق تقريبًا)"
 
+#. Node: node1 / Point Hotspot: Point03 / URL
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
+msgstr "https://lahat.govirtual.id/masjid-agung-lahat"
+
 #. Node: node1 / Point Hotspot: Point04 / Title
 msgid "RSUD Lahat <br> (Est. 5 Menit)"
 msgstr "مستشفى لاهات الإقليمي العام <br> (5 دقائق تقريبًا)"
+
+#. Node: node1 / Point Hotspot: Point04 / URL
+msgid "https://lahat.govirtual.id/rsud-lahat"
+msgstr "https://lahat.govirtual.id/rsud-lahat"
 
 #. Node: node2 / User Data Author
 #. Node: node3 / User Data Author
@@ -62,6 +75,10 @@ msgstr "الخروج"
 #. Node: node3 / Point Hotspot: Point03 / Title
 msgid "360 Video Experience"
 msgstr "تجربة فيديو 360"
+
+#. Node: node6 / User Data Custom Node ID
+msgid "uptd"
+msgstr ""
 
 #. Context Menu Default Entry
 msgid "Enter VR"

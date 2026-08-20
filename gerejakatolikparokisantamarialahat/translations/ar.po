@@ -36,24 +36,24 @@ msgid "RSUD Lahat (Est. 5 Menit)"
 msgstr "مستشفى لاهات العام (5 دقائق تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/rsudlahat"
-msgstr "https://lahat.govirtual.id/rsudlahat"
+msgid "https://lahat.govirtual.id/rsud-lahat"
+msgstr "https://lahat.govirtual.id/rsud-lahat"
 
 #. Node: node1 / Point Hotspot: Point04 / Title
 msgid "Pasar Lahat <br> (Est. 5 Menit)"
 msgstr "سوق لاهات <br> (5 دقائق تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/pasarlahat"
-msgstr "https://lahat.govirtual.id/pasarlahat"
+msgid "https://lahat.govirtual.id/pasar-lahat"
+msgstr "https://lahat.govirtual.id/pasar-lahat"
 
 #. Node: node1 / Point Hotspot: Point05 / Title
 msgid "SMAN 4 Lahat <br> (Est. 10 Menit)"
 msgstr "SMAN 4 لاهات <br> (10 دقائق تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/smaunggulnegeri04lahat"
-msgstr "https://lahat.govirtual.id/smaunggulnegeri04lahat"
+msgid "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
+msgstr "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
 
 #. Node: node2 / User Data Date && Time
 msgid "1/28/2026 2:02 PM"
@@ -126,6 +126,12 @@ msgstr "2026:01:29 15:22:06"
 msgid "2026:01:29 15:22:02"
 msgstr "2026:01:29 15:22:02"
 
+#. Node: node9 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Patung Bunda Maria"
+msgid "patung_bunda_maria"
+msgstr "تمثال السيدة العذراء"
+
 #. Node: node9 / Point Hotspot: Point01 / Title
 #. Node: node10 / Point Hotspot: Point01 / Title
 msgid "Altar"
@@ -138,6 +144,10 @@ msgstr "غرفة الاعتراف - المصلين"
 #. Node: node9 / Point Hotspot: Point03 / Title
 msgid "Ruang Pengakuan Dosa - Pastor"
 msgstr "غرفة الاعتراف - الكاهن"
+
+#. Node: node10 / User Data Custom Node ID
+msgid "pantung_santo_yusuf"
+msgstr ""
 
 #. Node: node11 / User Data Date && Time
 msgid "1/28/2026 1:58 PM"
@@ -158,6 +168,10 @@ msgstr "2026:01:29 15:22:19"
 #. Node: node15 / User Data Date && Time
 msgid "3/18/2019 7:24 AM"
 msgstr "3/18/2019 7:24 AM"
+
+#. Node: node15 / User Data Custom Node ID
+msgid "altar_peribadatan"
+msgstr ""
 
 #. Node: node15 / Point Hotspot: Point03 / Title
 msgid "Patung Santo Yosef"

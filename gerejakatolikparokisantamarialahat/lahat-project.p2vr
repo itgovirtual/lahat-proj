@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <id>node1</id>
@@ -155,7 +155,7 @@
           <title>RSUD Lahat (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/rsudlahat</url>
+          <url>https://lahat.govirtual.id/rsud-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -184,7 +184,7 @@
           <title>Pasar Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/pasarlahat</url>
+          <url>https://lahat.govirtual.id/pasar-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -213,7 +213,7 @@
           <title>SMAN 4 Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/smaunggulnegeri04lahat</url>
+          <url>https://lahat.govirtual.id/sma-unggul-negeri-04-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1944,8 +1944,20 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
+        <value id="entmptmphu.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmpg.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmphu.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -1992,7 +2004,7 @@
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <quality>50</quality>
-        <leveltilesize>5124</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <skinfile>$d/lahat-skin.ggsk</skinfile>
         <preview>color</preview>
         <previewresolution>8</previewresolution>

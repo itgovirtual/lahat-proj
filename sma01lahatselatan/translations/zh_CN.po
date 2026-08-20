@@ -22,16 +22,16 @@ msgid "SMAN 4 Lahat <br> (Est. 5 Menit)"
 msgstr "Lahat第四国立高中 <br> (预计 5 分钟)"
 
 #. Node: node1 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/smaunggulnegeri04lahat"
-msgstr "https://lahat.govirtual.id/smaunggulnegeri04lahat"
+msgid "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
+msgstr "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
 
 #. Node: node1 / Point Hotspot: Point03 / Title
 msgid "Bendungan Lematang <br> (Est. 15 Menit)"
 msgstr "Lematang大坝 <br> (预计 15 分钟)"
 
 #. Node: node1 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/bendunganlematang"
-msgstr "https://lahat.govirtual.id/bendunganlematang"
+msgid "https://lahat.govirtual.id/bendungan-lematang"
+msgstr "https://lahat.govirtual.id/bendungan-lematang"
 
 #. Node: node2 / User Data Date && Time
 #. Node: node5 / User Data Date && Time
@@ -107,6 +107,12 @@ msgstr "退出"
 msgid "2026:02:02 18:10:28"
 msgstr "2026:02:02 18:10:28"
 
+#. Node: node6 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Perpustakaan"
+msgid "perpustakaan01"
+msgstr "图书馆"
+
 #. Node: node7 / User Data Date && Time
 #. Node: node8 / User Data Date && Time
 msgid "2026:02:02 18:10:39"
@@ -129,9 +135,21 @@ msgstr "校医室"
 msgid "2026:02:02 18:10:33"
 msgstr "2026:02:02 18:10:33"
 
+#. Node: node10 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Ruang Kelas"
+msgid "ruang_kelas"
+msgstr "教室"
+
 #. Node: node11 / User Data Date && Time
 msgid "2026:02:02 18:10:35"
 msgstr "2026:02:02 18:10:35"
+
+#. Node: node12 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Ruang Komputer"
+msgid "ruang_komputer"
+msgstr "电脑室"
 
 #. Node: node13 / User Data Date && Time
 msgid "2026:02:02 18:10:36"
@@ -140,6 +158,10 @@ msgstr "2026:02:02 18:10:36"
 #. Node: node14 / User Data Date && Time
 msgid "2026:02:02 18:10:41"
 msgstr "2026:02:02 18:10:41"
+
+#. Node: node14 / User Data Custom Node ID
+msgid "ruang_uks01"
+msgstr ""
 
 #. Context Menu Default Entry
 msgid "Enter VR"

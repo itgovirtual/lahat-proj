@@ -124,14 +124,14 @@
           <title>SMAN 4 Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/smaunggulnegeri04lahat</url>
+          <url>https://lahat.govirtual.id/sma-unggul-negeri-04-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/sma-unggul-negeri-04-lahat.png</customimage>
-          <urlsafecustomimage>sma-unggul-negeri-04-lahat-1.png</urlsafecustomimage>
+          <urlsafecustomimage>sma-unggul-negeri-04-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
@@ -153,7 +153,7 @@
           <title>Bendungan Lematang &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/bendunganlematang</url>
+          <url>https://lahat.govirtual.id/bendungan-lematang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -641,36 +641,6 @@
           <width>101</width>
           <height>101</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>-167.85</pan>
-            <tilt>-1.1</tilt>
-            <fov>16</fov>
-          </position>
-          <next>
-            <pan>-164.8</pan>
-            <tilt>-3.7</tilt>
-            <fov>126.6</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point09</id>
-          <title>360 Video Experience</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
-          <target>-164.8/-3.7/126.6</target>
-          <skinid>360_video_experience_project</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/hotspotvideo/sma-01-lahat-selatan.png</customimage>
-          <urlsafecustomimage>sma-01-lahat-selatan.png</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>288</width>
-          <height>288</height>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -874,7 +844,7 @@
         <altitude>-3048</altitude>
         <datetime>2026:02:02 18:10:28</datetime>
         <tags>panorama</tags>
-        <customnodeid>perpustakaan</customnodeid>
+        <customnodeid>perpustakaan01</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1101,8 +1071,8 @@
             <fov>6.34</fov>
           </position>
           <next>
-            <pan>159.3</pan>
-            <tilt>-5.7</tilt>
+            <pan>64.4</pan>
+            <tilt>-40.1</tilt>
             <fov>143.7</fov>
           </next>
           <customprops/>
@@ -1112,7 +1082,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node14}</url>
-          <target>159.3/-5.7/143.7</target>
+          <target>64.4/-40.1/143.7</target>
           <skinid>door_icon_project</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1651,7 +1621,7 @@
         <altitude>-3048</altitude>
         <datetime>2026:02:02 18:10:41</datetime>
         <tags>panorama</tags>
-        <customnodeid>ruang_uks</customnodeid>
+        <customnodeid>ruang_uks01</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1739,11 +1709,15 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
         <value id="artmpp.po">true</value>
         <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
         <value id="entmpp.po">true</value>
         <value id="entmptmph.po">true</value>
+        <value id="entmptmphu.po">true</value>
         <value id="zh_CN.po">true</value>
         <value id="zh_CNtmpg.po">true</value>
         <value id="zh_CNtmph.po">true</value>
@@ -1751,7 +1725,14 @@
         <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
-    <floorplans/>
+    <floorplans>
+      <floorplan>
+        <id>Map01</id>
+        <mapprovider>openstreetmap</mapprovider>
+        <mapstyle>streets</mapstyle>
+        <type>web</type>
+      </floorplan>
+    </floorplans>
     <hotspots/>
     <output>
       <htmlcss>

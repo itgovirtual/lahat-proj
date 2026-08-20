@@ -23,28 +23,32 @@ msgid "Pasar Lahat <br> (Est. 5 Menit)"
 msgstr "سوق لاهات <br> (5 دقائق تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/pasarlahat"
-msgstr "https://lahat.govirtual.id/pasarlahat"
+msgid "https://lahat.govirtual.id/pasar-lahat"
+msgstr "https://lahat.govirtual.id/pasar-lahat"
 
 #. Node: node1 / Point Hotspot: Point03 / Title
 msgid "SMPN 5 Lahat <br> (Est. 15 Menit)"
 msgstr "SMPN 5 لاهات <br> (15 دقيقة تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/smpn05lahat"
-msgstr "https://lahat.govirtual.id/smpn05lahat"
+msgid "https://lahat.govirtual.id/smpn-05-lahat"
+msgstr "https://lahat.govirtual.id/smpn-05-lahat"
 
 #. Node: node1 / Point Hotspot: Point04 / Title
 msgid "SD Negeri  19 Percontohan <br> (Est. 10 Menit)"
 msgstr "SD Negeri 19 Percontohan <br> (10 دقائق تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/sdnegeri19percontohanlahat"
-msgstr "https://lahat.govirtual.id/sdnegeri19percontohanlahat"
+msgid "https://lahat.govirtual.id/sd-negeri-19-percontohan-lahat"
+msgstr "https://lahat.govirtual.id/sd-negeri-19-percontohan-lahat"
 
 #. Node: node2 / User Data Date && Time
 msgid "1/28/2026 2:10 PM"
 msgstr "1/28/2026 2:10 PM"
+
+#. Node: node2 / User Data Custom Node ID
+msgid "area_ibadah"
+msgstr ""
 
 #. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node3 / Point Hotspot: Point01 / Title

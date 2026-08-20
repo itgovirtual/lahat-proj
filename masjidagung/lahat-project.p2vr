@@ -124,7 +124,7 @@
           <title>Pasar Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/pasarlahat</url>
+          <url>https://lahat.govirtual.id/pasar-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -153,7 +153,7 @@
           <title>SMPN 5 Lahat &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/smpn05lahat</url>
+          <url>https://lahat.govirtual.id/smpn-05-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -182,14 +182,14 @@
           <title>SD Negeri  19 Percontohan &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/sdnegeri19percontohanlahat</url>
+          <url>https://lahat.govirtual.id/sd-negeri-19-percontohan-lahat</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/sd-negeri-19-percontohan-lahat.png</customimage>
-          <urlsafecustomimage>sd-negeri-19-percontohan-lahat-1.png</urlsafecustomimage>
+          <urlsafecustomimage>sd-negeri-19-percontohan-lahat.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>

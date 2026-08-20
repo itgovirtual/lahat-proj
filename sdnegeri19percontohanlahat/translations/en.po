@@ -21,24 +21,24 @@ msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
 msgstr "Lahat Grand Mosque <br> (Est. 10 Min)"
 
 #. Node: node80 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/masjidagunglahat"
-msgstr "https://lahat.govirtual.id/masjidagunglahat"
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
+msgstr "https://lahat.govirtual.id/masjid-agung-lahat"
 
 #. Node: node80 / Point Hotspot: Point03 / Title
 msgid "SMPN 05 Lahat <br> (Est. 10 Menit)"
 msgstr "SMPN 05 Lahat <br> (Est. 10 Min)"
 
 #. Node: node80 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/smpn05lahat"
-msgstr "https://lahat.govirtual.id/smpn05lahat"
+msgid "https://lahat.govirtual.id/smpn-05-lahat"
+msgstr "https://lahat.govirtual.id/smpn-05-lahat"
 
 #. Node: node80 / Point Hotspot: Point04 / Title
 msgid "RSUD Lahat <br> (Est. 12 Menit)"
 msgstr "Lahat Regional General Hospital <br> (Est. 12 Min)"
 
 #. Node: node80 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/rsudlahat"
-msgstr "https://lahat.govirtual.id/rsudlahat"
+msgid "https://lahat.govirtual.id/rsud-lahat"
+msgstr "https://lahat.govirtual.id/rsud-lahat"
 
 #. Node: node81 / User Data Date && Time
 msgid "2026:02:02 17:43:49"
@@ -142,6 +142,12 @@ msgstr "Entrance"
 msgid "2026:02:02 17:43:23"
 msgstr "2026:02:02 17:43:23"
 
+#. Node: node92 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Mushola"
+msgid "mushola19"
+msgstr "Prayer Room"
+
 #. Node: node93 / User Data Date && Time
 msgid "2026:02:02 17:43:38"
 msgstr "2026:02:02 17:43:38"
@@ -150,6 +156,10 @@ msgstr "2026:02:02 17:43:38"
 msgid "9/8/2025 3:06 PM"
 msgstr "9/8/2025 3:06 PM"
 
+#. Node: node94 / User Data Custom Node ID
+msgid "ruang_kepsek19"
+msgstr ""
+
 #. Node: node95 / User Data Date && Time
 msgid "9/8/2025 3:09 PM"
 msgstr "9/8/2025 3:09 PM"
@@ -157,6 +167,10 @@ msgstr "9/8/2025 3:09 PM"
 #. Node: node96 / User Data Date && Time
 msgid "2026:02:02 17:43:51"
 msgstr "2026:02:02 17:43:51"
+
+#. Node: node96 / User Data Custom Node ID
+msgid "uks19"
+msgstr ""
 
 #. Context Menu Default Entry
 msgid "Enter VR"

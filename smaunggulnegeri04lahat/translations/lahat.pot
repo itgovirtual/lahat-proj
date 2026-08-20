@@ -12,7 +12,7 @@ msgid "Bendungan Lematang <br> (Est. 15 Menit)"
 msgstr ""
 
 #. Node: node80 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/bendunganlematang"
+msgid "https://lahat.govirtual.id/bendungan-lematang"
 msgstr ""
 
 #. Node: node80 / Point Hotspot: Point03 / Title
@@ -20,7 +20,7 @@ msgid "SMPN 1 Lahat <br> (Est. 5 Menit)"
 msgstr ""
 
 #. Node: node80 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/smp01lahatselatan"
+msgid "https://lahat.govirtual.id/smp-01-lahat-selatan"
 msgstr ""
 
 #. Node: node80 / Point Hotspot: Point04 / Title
@@ -28,12 +28,16 @@ msgid "Gereja Paroki Santa Maria Lahat <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node80 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
 msgstr ""
 
 #. Node: node81 / User Data Date && Time
 #. Node: node88 / User Data Date && Time
 msgid "2026:02:02 18:01:38"
+msgstr ""
+
+#. Node: node81 / User Data Custom Node ID
+msgid "asrama"
 msgstr ""
 
 #. Node: node81 / Point Hotspot: Point01 / Title
@@ -141,6 +145,10 @@ msgstr ""
 msgid "2026:02:02 18:01:40"
 msgstr ""
 
+#. Node: node87 / User Data Custom Node ID
+msgid "masjid04"
+msgstr ""
+
 #. Node: node87 / Point Hotspot: Point01 / Title
 #. Node: node92 / Point Hotspot: Point01 / Title
 #. Node: node93 / Point Hotspot: Point01 / Title
@@ -156,6 +164,10 @@ msgstr ""
 
 #. Node: node89 / User Data Date && Time
 msgid "2026:02:02 18:01:47"
+msgstr ""
+
+#. Node: node89 / User Data Custom Node ID
+msgid "perpustakaan04"
 msgstr ""
 
 #. Node: node89 / Point Hotspot: Point02 / Title
@@ -183,8 +195,16 @@ msgstr ""
 msgid "2/2/2026 2:59 PM"
 msgstr ""
 
+#. Node: node93 / User Data Custom Node ID
+msgid "ruang_kelas04"
+msgstr ""
+
 #. Node: node94 / User Data Date && Time
 msgid "2026:02:02 18:01:46"
+msgstr ""
+
+#. Node: node95 / User Data Custom Node ID
+msgid "ruang_komputer04"
 msgstr ""
 
 #. Context Menu Default Entry

@@ -21,29 +21,33 @@ msgid "Bendungan Lematang <br> (Est. 15 Menit)"
 msgstr "Lematang Dam <br> (Est. 15 Min)"
 
 #. Node: node80 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/bendunganlematang"
-msgstr "https://lahat.govirtual.id/bendunganlematang"
+msgid "https://lahat.govirtual.id/bendungan-lematang"
+msgstr "https://lahat.govirtual.id/bendungan-lematang"
 
 #. Node: node80 / Point Hotspot: Point03 / Title
 msgid "SMPN 1 Lahat <br> (Est. 5 Menit)"
 msgstr "SMPN 1 Lahat <br> (Est. 5 Min)"
 
 #. Node: node80 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/smp01lahatselatan"
-msgstr "https://lahat.govirtual.id/smp01lahatselatan"
+msgid "https://lahat.govirtual.id/smp-01-lahat-selatan"
+msgstr "https://lahat.govirtual.id/smp-01-lahat-selatan"
 
 #. Node: node80 / Point Hotspot: Point04 / Title
 msgid "Gereja Paroki Santa Maria Lahat <br> (Est. 10 Menit)"
 msgstr "Santa Maria Parish Church Lahat <br> (Est. 10 Min)"
 
 #. Node: node80 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
-msgstr "https://lahat.govirtual.id/gerejakatolikparokisantamaria"
+msgid "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
+msgstr "https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria"
 
 #. Node: node81 / User Data Date && Time
 #. Node: node88 / User Data Date && Time
 msgid "2026:02:02 18:01:38"
 msgstr "2026:02:02 18:01:38"
+
+#. Node: node81 / User Data Custom Node ID
+msgid "asrama"
+msgstr ""
 
 #. Node: node81 / Point Hotspot: Point01 / Title
 #. Node: node88 / Point Hotspot: Point02 / Title
@@ -150,6 +154,12 @@ msgstr "School Lobby"
 msgid "2026:02:02 18:01:40"
 msgstr "2026:02:02 18:01:40"
 
+#. Node: node87 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Masjid"
+msgid "masjid"
+msgstr "Mosque"
+
 #. Node: node87 / Point Hotspot: Point01 / Title
 #. Node: node92 / Point Hotspot: Point01 / Title
 #. Node: node93 / Point Hotspot: Point01 / Title
@@ -192,9 +202,21 @@ msgstr "2026:02:02 18:02:03"
 msgid "2/2/2026 2:59 PM"
 msgstr "2/2/2026 2:59 PM"
 
+#. Node: node93 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Ruang Kelas"
+msgid "ruang_kelas"
+msgstr "Classroom"
+
 #. Node: node94 / User Data Date && Time
 msgid "2026:02:02 18:01:46"
 msgstr "2026:02:02 18:01:46"
+
+#. Node: node95 / User Data Custom Node ID
+#, fuzzy
+#| msgid "Ruang Komputer"
+msgid "ruang_komputer"
+msgstr "Computer Room"
 
 #. Context Menu Default Entry
 msgid "Enter VR"

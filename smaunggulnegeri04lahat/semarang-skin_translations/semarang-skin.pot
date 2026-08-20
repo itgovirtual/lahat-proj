@@ -1,0 +1,102 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Skin Variable: link / Initial Value
+msgid "sma4lahat-260810"
+msgstr ""
+
+#. Skin Element Text: Assistant Text / Text
+msgid "MORE"
+msgstr ""
+
+#. Skin Element Text: E / Text
+msgid "E"
+msgstr ""
+
+#. Skin Element Text: Enable Audio? / Text
+msgid "Enable Audio?"
+msgstr ""
+
+#. Skin Element Text: Informasi-text / Text
+msgid "Informasi\n"
+msgstr ""
+
+#. Skin Element Text: Jelajah-text / Text
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
+msgstr ""
+
+#. Skin Element Text: Menu Tezt / Text
+msgid "MENU"
+msgstr ""
+
+#. Skin Element Text: N / Text
+msgid "N"
+msgstr ""
+
+#. Skin Element Text: NO / Text
+msgid "NO"
+msgstr ""
+
+#. Skin Element Text: S / Text
+msgid "S"
+msgstr ""
+
+#. Skin Element Text: Text 2 / Text
+msgid "<iframe src=\"cuaca.html\" style=\"width:200px; height:80px; border:none; background:transparent;\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: Text 4_1 / Text
+msgid "Pantai Tirang"
+msgstr ""
+
+#. Skin Element Text: Text Info / Text
+msgid "Informasi"
+msgstr ""
+
+#. Skin Element Text: Text Kategori / Text
+msgid "Kategori"
+msgstr ""
+
+#. Skin Element Text: Text Menu / Text
+msgid "Menu"
+msgstr ""
+
+#. Skin Element Text: Text Public / Text
+msgid "Layanan Publik"
+msgstr ""
+
+#. Skin Element Text: Title - Kab / Text
+#. Skin Element Text: Title - Kab-mobile / Text
+msgid "Kabupaten Lahat"
+msgstr ""
+
+#. Skin Element Text: W / Text
+msgid "W"
+msgstr ""
+
+#. Skin Element Text: YES / Text
+msgid "YES"
+msgstr ""
+
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-discover) / Text
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url) / Text
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-menu) / Text
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-public) / Text
+msgid "<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid "<iframe src=\"%1\" width=\"100%\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element External: ht_node_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: iframe chatbot / Text
+msgid "\n  <iframe\n    src=\"%1\"\n    width=\"100%\"\n    style=\"height: 100%; min-height: 100%;\"\n    frameborder=\"0\"\n></iframe>"
+msgstr ""
+

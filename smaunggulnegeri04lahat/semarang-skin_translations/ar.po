@@ -1,0 +1,192 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Skin Variable: link / Initial Value
+msgid "smaunggulnegeri04lahat"
+msgstr ""
+
+#. Skin Element Text: Assistant Text / Text
+msgid "MORE"
+msgstr "أكثر"
+
+#. Skin Element Text: E / Text
+msgid "E"
+msgstr ""
+
+#. Skin Element Text: Enable Audio? / Text
+msgid "Enable Audio?"
+msgstr ""
+
+#. Skin Element Text: Informasi-text / Text
+msgid "Informasi\n"
+msgstr "معلومات\n"
+
+#. Skin Element Text: Jelajah-text / Text
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
+msgstr "جيلاجا"
+
+#. Skin Element Text: Menu Tezt / Text
+msgid "MENU"
+msgstr "قائمة طعام"
+
+#. Skin Element Text: N / Text
+msgid "N"
+msgstr ""
+
+#. Skin Element Text: NO / Text
+msgid "NO"
+msgstr ""
+
+#. Skin Element Text: S / Text
+msgid "S"
+msgstr ""
+
+#. Skin Element Text: Text 2 / Text
+msgid ""
+"<iframe src=\"cuaca.html\" style=\"width:200px; height:80px; border:none; "
+"background:transparent;\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: Text 4_1 / Text
+msgid "Pantai Tirang"
+msgstr ""
+
+#. Skin Element Text: Text Info / Text
+msgid "Informasi"
+msgstr "معلومات"
+
+#. Skin Element Text: Text Kategori / Text
+msgid "Kategori"
+msgstr "كاتيغوري"
+
+#. Skin Element Text: Text Menu / Text
+msgid "Menu"
+msgstr "قائمة طعام"
+
+#. Skin Element Text: Text Public / Text
+msgid "Layanan Publik"
+msgstr "الخدمات العامة"
+
+#. Skin Element Text: Title - Kab / Text
+#. Skin Element Text: Title - Kab-mobile / Text
+msgid "Kabupaten Lahat"
+msgstr "مقاطعة لاهات"
+
+#. Skin Element Text: W / Text
+msgid "W"
+msgstr ""
+
+#. Skin Element Text: YES / Text
+msgid "YES"
+msgstr ""
+
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-discover) / Text
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url) / Text
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-menu) / Text
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-public) / Text
+msgid ""
+"<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%; "
+"border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%; "
+"border-radius:10px;\" frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid ""
+"<iframe src=\"%1\" width=\"100%\" ;=\"\" style=\"height: 100%; min-height: "
+"100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"%1\" width=\"100%\" ;=\"\" style=\"height: 100%; min-height: "
+"100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+
+#. Skin Element External: ht_node_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: iframe chatbot / Text
+msgid ""
+"\n"
+"  <iframe\n"
+"    src=\"%1\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
+msgstr ""
+"\n"
+"  <iframe\n"
+"    src=\"%1\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=sa\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/informasi.php?info=gantiwoe&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/informasi.php?info=gantiwoe&lang=sa\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/menu.php?menu=gantiwoe&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/menu.php?menu=gantiwoe&lang=sa\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/publicservice.php?&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/publicservice.php?&lang=sa\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px; padding-"
+#~ "bottom\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=sa\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px; padding-"
+#~ "bottom\"\n"
+#~ "frameborder=\"0\"></iframe>"

@@ -109,7 +109,7 @@
           <title>Bendungan Lematang &lt;br> (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/bendunganlematang</url>
+          <url>https://lahat.govirtual.id/bendungan-lematang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -138,7 +138,7 @@
           <title>SMPN 1 Lahat &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/smp01lahatselatan</url>
+          <url>https://lahat.govirtual.id/smp-01-lahat-selatan</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -167,7 +167,7 @@
           <title>Gereja Paroki Santa Maria Lahat &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/gerejakatolikparokisantamaria</url>
+          <url>https://lahat.govirtual.id/gereja-katolik-paroki-santa-maria</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1060,7 +1060,7 @@
         <altitude>-3048</altitude>
         <datetime>2026:02:02 18:01:40</datetime>
         <tags>sman04</tags>
-        <customnodeid>masjid</customnodeid>
+        <customnodeid>masjid04</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1274,9 +1274,10 @@
         <capturedatetime>2026-02-03T10:53:59</capturedatetime>
         <latitude>-3.808371</latitude>
         <longitude>103.534606</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>2026:02:02 18:01:47</datetime>
         <tags>sman04</tags>
+        <customnodeid>perpustakaan04</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1785,7 +1786,7 @@
         <altitude>-3048</altitude>
         <datetime>2/2/2026 2:59 PM</datetime>
         <tags>sman04</tags>
-        <customnodeid>ruang_kelas</customnodeid>
+        <customnodeid>ruang_kelas04</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1962,7 +1963,7 @@
         <altitude>-3048</altitude>
         <datetime>2026:02:02 18:02:03</datetime>
         <tags>sman04</tags>
-        <customnodeid>ruang_komputer</customnodeid>
+        <customnodeid>ruang_komputer04</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2050,11 +2051,15 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
         <value id="artmpp.po">true</value>
         <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
         <value id="entmpp.po">true</value>
         <value id="entmptmph.po">true</value>
+        <value id="entmptmphu.po">true</value>
         <value id="zh_CN.po">true</value>
         <value id="zh_CNtmph.po">true</value>
         <value id="zh_CNtmpp.po">true</value>

@@ -99,7 +99,7 @@ msgid "Kebun Kopi Lahat <br> (Est. 75 Menit)"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/kopilahatdesagumayulu"
+msgid "https://lahat.govirtual.id/kopi-lahat-desa-gumay-ulu"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point03 / Title
@@ -107,7 +107,7 @@ msgid "Cuhup Senyawe <br> (Est. 120 Menit)"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/cuhupsenyawe"
+msgid "https://lahat.govirtual.id/cuhup-senyawe"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point04 / Title
@@ -115,7 +115,7 @@ msgid "Cuhup Buluh <br> (Est. 90 Menit)"
 msgstr ""
 
 #. Node: node11 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/cuhupbuluh"
+msgid "https://lahat.govirtual.id/cuhup-buluh"
 msgstr ""
 
 #. Context Menu Default Entry

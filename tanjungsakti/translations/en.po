@@ -108,24 +108,24 @@ msgid "Kebun Kopi Lahat <br> (Est. 75 Menit)"
 msgstr "Lahat Coffee Plantation <br> (Est. 75 Min)"
 
 #. Node: node11 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/kopilahatdesagumayulu"
-msgstr "https://lahat.govirtual.id/kopilahatdesagumayulu"
+msgid "https://lahat.govirtual.id/kopi-lahat-desa-gumay-ulu"
+msgstr "https://lahat.govirtual.id/kopi-lahat-desa-gumay-ulu"
 
 #. Node: node11 / Point Hotspot: Point03 / Title
 msgid "Cuhup Senyawe <br> (Est. 120 Menit)"
 msgstr "Cuhup Senyawe <br> (Est. 120 Min)"
 
 #. Node: node11 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/cuhupsenyawe"
-msgstr "https://lahat.govirtual.id/cuhupsenyawe"
+msgid "https://lahat.govirtual.id/cuhup-senyawe"
+msgstr "https://lahat.govirtual.id/cuhup-senyawe"
 
 #. Node: node11 / Point Hotspot: Point04 / Title
 msgid "Cuhup Buluh <br> (Est. 90 Menit)"
 msgstr "Cuhup Buluh <br> (Est. 90 Min)"
 
 #. Node: node11 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/cuhupbuluh"
-msgstr "https://lahat.govirtual.id/cuhupbuluh"
+msgid "https://lahat.govirtual.id/cuhup-buluh"
+msgstr "https://lahat.govirtual.id/cuhup-buluh"
 
 #. Context Menu Default Entry
 msgid "Enter VR"

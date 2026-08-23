@@ -1123,7 +1123,7 @@
           <title>Kebun Kopi Lahat &lt;br> (Est. 75 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/kopilahatdesagumayulu</url>
+          <url>https://lahat.govirtual.id/kopi-lahat-desa-gumay-ulu</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1152,7 +1152,7 @@
           <title>Cuhup Senyawe &lt;br> (Est. 120 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/cuhupsenyawe</url>
+          <url>https://lahat.govirtual.id/cuhup-senyawe</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1181,14 +1181,14 @@
           <title>Cuhup Buluh &lt;br> (Est. 90 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/cuhupbuluh</url>
+          <url>https://lahat.govirtual.id/cuhup-buluh</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/hotspotlocation/cuhup-buluh.png</customimage>
-          <urlsafecustomimage>cuhup-buluh-1.png</urlsafecustomimage>
+          <urlsafecustomimage>cuhup-buluh.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
@@ -1248,14 +1248,8 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>

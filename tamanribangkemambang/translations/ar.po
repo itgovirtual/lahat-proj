@@ -34,28 +34,32 @@ msgid "SD Negeri 19 Percontohan <br> (Est. 10 Menit)"
 msgstr "SD Negeri 19 Percontohan <br> (10 دقائق تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/sdn19percontohan"
-msgstr "https://lahat.govirtual.id/sdn19percontohan"
+msgid "https://lahat.govirtual.id/sd-negeri-19-percontohan-lahat"
+msgstr "https://lahat.govirtual.id/sd-negeri-19-percontohan-lahat"
 
 #. Node: node1 / Point Hotspot: Point05 / Title
 msgid "SMP Negeri 5 Lahat <br> (Est. 12 Menit)"
 msgstr "SMP Negeri 5 لاهات <br> (12 دقيقة تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/smpn5lahat"
-msgstr "https://lahat.govirtual.id/smpn5lahat"
+msgid "https://lahat.govirtual.id/smpn-05-lahat"
+msgstr "https://lahat.govirtual.id/smpn-05-lahat"
 
 #. Node: node1 / Point Hotspot: Point06 / Title
 msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
 msgstr "مسجد لاهات الكبير <br> (10 دقائق تقريبًا)"
 
 #. Node: node1 / Point Hotspot: Point06 / URL
-msgid "https://lahat.govirtual.id/masjidagunglahat"
-msgstr "https://lahat.govirtual.id/masjidagunglahat"
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
+msgstr "https://lahat.govirtual.id/masjid-agung-lahat"
 
 #. Node: node2 / User Data Date && Time
 msgid "2026:02:02 14:00:27"
 msgstr "2026:02:02 14:00:27"
+
+#. Node: node2 / User Data Custom Node ID
+msgid "museum_megalit"
+msgstr ""
 
 #. Node: node3 / User Data Date && Time
 #. Node: node5 / User Data Date && Time
@@ -87,6 +91,10 @@ msgstr "جناح (بندوبو)"
 #. Node: node7 / User Data Date && Time
 msgid "2026:02:02 14:00:26"
 msgstr "2026:02:02 14:00:26"
+
+#. Node: node7 / User Data Custom Node ID
+msgid "taman_megalit"
+msgstr ""
 
 #. Context Menu Default Entry
 msgid "Enter VR"

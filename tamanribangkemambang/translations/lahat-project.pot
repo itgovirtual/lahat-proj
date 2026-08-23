@@ -25,7 +25,7 @@ msgid "SD Negeri 19 Percontohan <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/sdn19percontohan"
+msgid "https://lahat.govirtual.id/sd-negeri-19-percontohan-lahat"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point05 / Title
@@ -33,7 +33,7 @@ msgid "SMP Negeri 5 Lahat <br> (Est. 12 Menit)"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/smpn5lahat"
+msgid "https://lahat.govirtual.id/smpn-05-lahat"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point06 / Title
@@ -41,11 +41,15 @@ msgid "Masjid Agung Lahat <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point06 / URL
-msgid "https://lahat.govirtual.id/masjidagunglahat"
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
 msgstr ""
 
 #. Node: node2 / User Data Date && Time
 msgid "2026:02:02 14:00:27"
+msgstr ""
+
+#. Node: node2 / User Data Custom Node ID
+msgid "museum_megalit"
 msgstr ""
 
 #. Node: node3 / User Data Date && Time
@@ -77,6 +81,10 @@ msgstr ""
 
 #. Node: node7 / User Data Date && Time
 msgid "2026:02:02 14:00:26"
+msgstr ""
+
+#. Node: node7 / User Data Custom Node ID
+msgid "taman_megalit"
 msgstr ""
 
 #. Context Menu Default Entry

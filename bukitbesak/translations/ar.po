@@ -38,6 +38,7 @@ msgstr "2026:01:29 10:29:49"
 #. Node: node14 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point04 / Title
 #. Node: node15 / Point Hotspot: Point01 / Title
+#. Node: node20 / Point Hotspot: Point08 / Title
 msgid "Keluar"
 msgstr "الخروج"
 
@@ -179,24 +180,24 @@ msgid "Cuhup Senyawe <br> (Est. 90 Menit)"
 msgstr "كوهوب سينياوي <br> (90 دقيقة تقريبًا)"
 
 #. Node: node20 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/cuhupsenyawe"
-msgstr "https://lahat.govirtual.id/cuhupsenyawe"
+msgid "https://lahat.govirtual.id/cuhup-senyawe"
+msgstr "https://lahat.govirtual.id/cuhup-senyawe"
 
 #. Node: node20 / Point Hotspot: Point06 / Title
 msgid "Masjid Agung Lahat <br> (Est. 60 Menit)"
 msgstr "مسجد لاهات الكبير <br> (60 دقيقة تقريبًا)"
 
 #. Node: node20 / Point Hotspot: Point06 / URL
-msgid "https://lahat.govirtual.id/masjidagung"
-msgstr "https://lahat.govirtual.id/masjidagung"
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
+msgstr "https://lahat.govirtual.id/masjid-agung-lahat"
 
 #. Node: node20 / Point Hotspot: Point07 / Title
 msgid "SMAN 4 Lahat <br> (Est. 70 Menit)"
 msgstr "SMAN 4 لاهات <br> (70 دقيقة تقريبًا)"
 
 #. Node: node20 / Point Hotspot: Point07 / URL
-msgid "https://lahat.govirtual.id/sman4lahat"
-msgstr "https://lahat.govirtual.id/sman4lahat"
+msgid "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
+msgstr "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
 
 #. Context Menu Default Entry
 msgid "Enter VR"

@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Poedit 3.8\n"
 
 #. Skin Variable: link / Initial Value
-msgid "bendungan-lematang"
+msgid "bukit-besak"
 msgstr ""
 
 #. Skin Element Text: Assistant Text / Text
@@ -96,40 +96,43 @@ msgstr ""
 #. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-discover) / Text
 #. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url) / Text
 #. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-menu) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/kategori.php?lang=id\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-public) / Text
 msgid ""
 "<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%; "
 "border-radius:10px;\" frameborder=\"0\"></iframe>"
 msgstr ""
-"<iframe src=\"../webview/kategori.php?lang=sa\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%; "
+"border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-informasi) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/kategori.php?lang=id\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
 msgid ""
 "<iframe src=\"%1\" width=\"100%\" ;=\"\" style=\"height: 100%; min-height: "
 "100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 msgstr ""
-"<iframe src=\"../webview/kategori.php?lang=sa\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"<iframe src=\"%1\" width=\"100%\" ;=\"\" style=\"height: 100%; min-height: "
+"100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
 msgid "_custom"
 msgstr ""
+
+#. Skin Element Text: iframe chatbot / Text
+msgid ""
+"\n"
+"  <iframe\n"
+"    src=\"%1\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
+msgstr ""
+"\n"
+"  <iframe\n"
+"    src=\"%1\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
 
 #~ msgid ""
 #~ "<iframe src=\"../webview/discover.php?disc=gantiwoe&lang=id\"\n"

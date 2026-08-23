@@ -1,16 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Source-Language: id-ID\n"
-"X-Generator: Poedit 3.8\n"
+"X-Source-Language: id-ID"
 
 #. Node: node1 / User Data Date && Time
 msgid "2026:01:29 10:30:38"
@@ -38,6 +29,7 @@ msgstr ""
 #. Node: node14 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point04 / Title
 #. Node: node15 / Point Hotspot: Point01 / Title
+#. Node: node20 / Point Hotspot: Point08 / Title
 msgid "Keluar"
 msgstr ""
 
@@ -179,7 +171,7 @@ msgid "Cuhup Senyawe <br> (Est. 90 Menit)"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/cuhupsenyawe"
+msgid "https://lahat.govirtual.id/cuhup-senyawe"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point06 / Title
@@ -187,7 +179,7 @@ msgid "Masjid Agung Lahat <br> (Est. 60 Menit)"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point06 / URL
-msgid "https://lahat.govirtual.id/masjidagung"
+msgid "https://lahat.govirtual.id/masjid-agung-lahat"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point07 / Title
@@ -195,7 +187,7 @@ msgid "SMAN 4 Lahat <br> (Est. 70 Menit)"
 msgstr ""
 
 #. Node: node20 / Point Hotspot: Point07 / URL
-msgid "https://lahat.govirtual.id/sman4lahat"
+msgid "https://lahat.govirtual.id/sma-unggul-negeri-04-lahat"
 msgstr ""
 
 #. Context Menu Default Entry
@@ -209,3 +201,4 @@ msgstr ""
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
 msgstr ""
+

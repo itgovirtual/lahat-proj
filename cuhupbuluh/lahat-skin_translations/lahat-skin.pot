@@ -4,7 +4,7 @@ msgstr ""
 "X-Source-Language: id-ID"
 
 #. Skin Variable: link / Initial Value
-msgid "bendungan-lematang"
+msgid "cuhup-buluh"
 msgstr ""
 
 #. Skin Element Text: Assistant Text / Text
@@ -84,6 +84,7 @@ msgstr ""
 #. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-discover) / Text
 #. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url) / Text
 #. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-menu) / Text
+#. Skin Element: close-welcome-text / Set Value Action (Target Element: popup_url-public) / Text
 msgid "<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 msgstr ""
 
@@ -93,5 +94,9 @@ msgstr ""
 
 #. Skin Element External: ht_node_custom_image / URL
 msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: iframe chatbot / Text
+msgid "\n  <iframe\n    src=\"%1\"\n    width=\"100%\"\n    style=\"height: 100%; min-height: 100%;\"\n    frameborder=\"0\"\n></iframe>"
 msgstr ""
 

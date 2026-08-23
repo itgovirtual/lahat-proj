@@ -649,14 +649,8 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>

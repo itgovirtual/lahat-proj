@@ -370,8 +370,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-206.6</pan>
-            <tilt>12.02</tilt>
+            <pan>-207.02</pan>
+            <tilt>12.01</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -385,7 +385,7 @@
           <title>Agro Wisata Tanjung Sakti &lt;br> (Est. 75 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/agrowisatatanjungsakti</url>
+          <url>https://lahat.govirtual.id/agro-wisata-tanjung-sakti</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -414,7 +414,7 @@
           <title>Cuhup Senyawe &lt;br> (Est. 65 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/cuhupsenyawe</url>
+          <url>https://lahat.govirtual.id/cuhup-senyawe</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -443,7 +443,7 @@
           <title>Cuhup Buluh &lt;br> (Est. 17 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/cuhupbuluh</url>
+          <url>https://lahat.govirtual.id/cuhup-buluh</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1156,8 +1156,10 @@
         <value id="artmptmph.po">true</value>
         <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
         <value id="entmpp.po">true</value>
         <value id="entmptmph.po">true</value>
+        <value id="entmptmphu.po">true</value>
         <value id="zh_CN.po">true</value>
         <value id="zh_CNtmph.po">true</value>
         <value id="zh_CNtmpp.po">true</value>

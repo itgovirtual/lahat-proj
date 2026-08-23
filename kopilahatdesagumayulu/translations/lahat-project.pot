@@ -5,7 +5,6 @@ msgstr ""
 
 #. Node: node1 / User Data Title
 #. Node: node2 / User Data Title
-#. Node: node4 / User Data Title
 msgid "default"
 msgstr ""
 
@@ -41,6 +40,10 @@ msgstr ""
 msgid "Kebun Kopi"
 msgstr ""
 
+#. Node: node4 / User Data Title
+msgid "default-drone"
+msgstr ""
+
 #. Node: node4 / User Data Date && Time
 msgid "12/12/2025 11:02 AM"
 msgstr ""
@@ -50,7 +53,7 @@ msgid "Agro Wisata Tanjung Sakti <br> (Est. 75 Menit)"
 msgstr ""
 
 #. Node: node4 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/agrowisatatanjungsakti"
+msgid "https://lahat.govirtual.id/agro-wisata-tanjung-sakti"
 msgstr ""
 
 #. Node: node4 / Point Hotspot: Point04 / Title
@@ -58,7 +61,7 @@ msgid "Cuhup Senyawe <br> (Est. 65 Menit)"
 msgstr ""
 
 #. Node: node4 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/cuhupsenyawe"
+msgid "https://lahat.govirtual.id/cuhup-senyawe"
 msgstr ""
 
 #. Node: node4 / Point Hotspot: Point05 / Title
@@ -66,7 +69,7 @@ msgid "Cuhup Buluh <br> (Est. 17 Menit)"
 msgstr ""
 
 #. Node: node4 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/cuhupbuluh"
+msgid "https://lahat.govirtual.id/cuhup-buluh"
 msgstr ""
 
 #. Node: node5 / User Data Author

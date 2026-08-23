@@ -24,6 +24,7 @@ msgstr "gerbang_masuk"
 #. Node: node9 / Point Hotspot: Point01 / Title
 #. Node: node10 / Point Hotspot: Point01 / Title
 #. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node11 / Point Hotspot: Point04 / Title
 #. Node: node12 / Point Hotspot: Point01 / Title
 #. Node: node13 / Point Hotspot: Point01 / Title
 msgid "Cuhup Senyawe"
@@ -118,24 +119,24 @@ msgid "Bukit Besak <br> (Est. 90 Menit)"
 msgstr "Bukit Besak <br> (预计 90 分钟)"
 
 #. Node: node13 / Point Hotspot: Point03 / URL
-msgid "https://lahat.govirtual.id/bukitbesak"
-msgstr "https://lahat.govirtual.id/bukitbesak"
+msgid "https://lahat.govirtual.id/bukit-besak"
+msgstr "https://lahat.govirtual.id/bukit-besak"
 
 #. Node: node13 / Point Hotspot: Point04 / Title
 msgid "Cuhup Panjang <br> (Est. 50 Menit)"
 msgstr "Cuhup Panjang <br> (预计 50 分钟)"
 
 #. Node: node13 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/cuhuppanjang"
-msgstr "https://lahat.govirtual.id/cuhuppanjang"
+msgid "https://lahat.govirtual.id/cuhup-panjang"
+msgstr "https://lahat.govirtual.id/cuhup-panjang"
 
 #. Node: node13 / Point Hotspot: Point05 / Title
 msgid "Cuhup Buluh <br> (Est. 60 Menit)"
 msgstr "Cuhup Buluh <br> (预计 60 分钟)"
 
 #. Node: node13 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/cuhupbuluh"
-msgstr "https://lahat.govirtual.id/cuhupbuluh"
+msgid "https://lahat.govirtual.id/cuhup-buluh"
+msgstr "https://lahat.govirtual.id/cuhup-buluh"
 
 #. Context Menu Default Entry
 msgid "Enter VR"

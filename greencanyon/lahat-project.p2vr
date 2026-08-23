@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -11,6 +11,9 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
+        <videofile>video 360/Green Canyon - Sungai 2 - High.webm</videofile>
+        <urlsafevideofile>Green Canyon - Sungai 2 - High.webm</urlsafevideofile>
+        <startonload>0</startonload>
       </input>
       <viewingparameter>
         <pan>
@@ -139,8 +142,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-203.21</pan>
-            <tilt>0.59</tilt>
+            <pan>-203.22</pan>
+            <tilt>0.78</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -212,7 +215,7 @@
           <title>Kebun Kopi Lahat &lt;br> (Est. 30 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/kopilahatdesagumayulu</url>
+          <url>https://lahat.govirtual.id/kopi-lahat-desa-gumay-ulu</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -256,7 +259,7 @@
         <hotspot>
           <position>
             <pan>-83.71</pan>
-            <tilt>22.57</tilt>
+            <tilt>22.73</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -270,7 +273,7 @@
           <title>Cuhup Panjang &lt;br> (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/cuhuppanjang</url>
+          <url>https://lahat.govirtual.id/cuhup-panjang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -281,6 +284,36 @@
           <use3d>1</use3d>
           <width>250</width>
           <height>250</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-267.85</pan>
+            <tilt>-16.65</tilt>
+            <fov>14</fov>
+          </position>
+          <next>
+            <pan>-49.3</pan>
+            <tilt>-8.2</tilt>
+            <fov>130</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point08</id>
+          <title>Green Canyon</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node3}</url>
+          <target>-49.3/-8.2/130.0</target>
+          <skinid>hotspot-360-out</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -2323,8 +2356,19 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpg.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
+        <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmpg.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmphu.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>

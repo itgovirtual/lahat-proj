@@ -38,7 +38,7 @@ msgid "Kebun Kopi Lahat <br> (Est. 30 Menit)"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point05 / URL
-msgid "https://lahat.govirtual.id/kopilahatdesagumayulu"
+msgid "https://lahat.govirtual.id/kopi-lahat-desa-gumay-ulu"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point06 / Title
@@ -54,7 +54,7 @@ msgid "Cuhup Panjang <br> (Est. 5 Menit)"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point07 / URL
-msgid "https://lahat.govirtual.id/cuhuppanjang"
+msgid "https://lahat.govirtual.id/cuhup-panjang"
 msgstr ""
 
 #. Node: node3 / User Data Author

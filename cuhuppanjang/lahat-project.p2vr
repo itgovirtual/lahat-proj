@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <panorama>
       <id>node1</id>
@@ -110,8 +110,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-84.28</pan>
-            <tilt>11.13</tilt>
+            <pan>-83.87</pan>
+            <tilt>11.52</tilt>
             <fov>20</fov>
           </position>
           <next>
@@ -125,7 +125,7 @@
           <title>Bendungan Lematang &lt;br> (Est. 30 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/bendunganlematang</url>
+          <url>https://lahat.govirtual.id/bendungan-lematang</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -163,8 +163,8 @@
           <customimage>assets/hotspotlocation/megalitikum.png</customimage>
           <urlsafecustomimage>megalitikum.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
         <hotspot>
           <position>
@@ -183,7 +183,7 @@
           <title>Green Canyon &lt;br> (Est. 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lahat.govirtual.id/greencanyon</url>
+          <url>https://lahat.govirtual.id/green-canyon</url>
           <skinid>box_ui_location_kategori</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -192,8 +192,8 @@
           <customimage>assets/hotspotlocation/grand-canyon.png</customimage>
           <urlsafecustomimage>grand-canyon.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>1476</width>
-          <height>1476</height>
+          <width>250</width>
+          <height>250</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -894,12 +894,15 @@
         <value id="artmptmph.po">true</value>
         <value id="artmptmphu.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpg.po">true</value>
         <value id="entmpp.po">true</value>
         <value id="entmptmph.po">true</value>
+        <value id="entmptmphu.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmpe.po">true</value>
         <value id="zh_CNtmpg.po">true</value>
         <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmphu.po">true</value>
+        <value id="zh_CNtmpm.po">true</value>
         <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>

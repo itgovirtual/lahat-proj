@@ -22,7 +22,7 @@ msgid "Bendungan Lematang <br> (Est. 30 Menit)"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point02 / URL
-msgid "https://lahat.govirtual.id/bendunganlematang"
+msgid "https://lahat.govirtual.id/bendungan-lematang"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point03 / Title
@@ -38,7 +38,7 @@ msgid "Green Canyon <br> (Est. 10 Menit)"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point04 / URL
-msgid "https://lahat.govirtual.id/greencanyon"
+msgid "https://lahat.govirtual.id/green-canyon"
 msgstr ""
 
 #. Node: node2 / User Data Date && Time
